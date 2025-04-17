@@ -1,3 +1,7 @@
+Okay, aqui está o Capítulo 3 completo, integrando a introdução altamente detalhada, as explicações dos caracteres e diacríticos, os exemplos de escrita, a tabela resumo, os exercícios e as respostas, formatado para alinhamento à esquerda.
+
+---
+
 **Capítulo 3: Marcas na Areia – O Sistema de Escrita Chakobsa (Khatt al-Ibad) em Profundidade**
 
 **(Página de Abertura: Uma imagem estilizada mostrando os caracteres propostos do Khatt al-Ibad como se estivessem entalhados em rocha ou traçados na areia, talvez com uma mão Fremen segurando um estilete improvisado. A imagem poderia transitar de traços efêmeros na areia para marcas permanentes em pedra.)**
@@ -279,7 +283,7 @@ Aqui estão os blocos de construção fundamentais do *Khatt al-Ibad*. Para cada
 *   **Exemplos Mínimos:**
     *   **نَحْنُ** (*naḥnu*) [/naħnu/] [R] - Nós
     *   **اِبْن** (*ibn*) [/ibn/] [R] - Filho
-*   **Notas:** Distinguir da forma inicial/medial de Ba/Ta/Tha/Ya pela posição do(s) ponto(s).
+*   **Notas:** Distinguir da forma inicial/medial de Ba/Ta/Tha/Ya pela posição/número dos pontos.
 
 ---
 **Letra Ha (ه)**
@@ -329,9 +333,23 @@ Aqui estão os blocos de construção fundamentais do *Khatt al-Ibad*. Para cada
 *   **Notas:** Outra letra multifuncional. Distinga a forma inicial/medial de Ba/Ta/Tha/Nun pela posição/número dos pontos.
 
 ---
-**(Continuação nas seções seguintes: Diacríticos, Numerais, Pontuação, Exemplos, Exercícios)**
+**Letra Tā’ Marbūṭah (ة)**
 
-**(3.4 As Marcas Vocálicas (Ḥarakāt ar-Rūḥ – حركات الروح [R] - "Marcas do Espírito") - Expandido)**
+*   **Grafema:** **ة** (`-h` / `-t`) (Parece a letra Hā’ (ه) final, mas com 2 pontos acima, como os da letra Tā’ (ت).)
+*   **Nome Proposto:** *Tā’ Marbūṭah* (Tā’ "amarrado/ligado") [R]
+*   **STP:** `-h` (geralmente no final, som /a/ ou /ah/); `-t` (em estado construto ou antes de vogal)
+*   **IPA:** /a/, /ah/; /at/
+*   **Som:** Indica gênero feminino. Pronúncia varia com o contexto.
+*   **Guia de Escrita:** Escrito apenas no final de substantivos ou adjetivos femininos. Conecta-se à letra anterior (se ela for conectora).
+*   **Conectividade:** **SIM**, conecta à direita. (Não conecta à esquerda, pois está sempre no final).
+*   **Exemplos Mínimos:**
+    *   **قَبِيلَة** (*qabīlah*) [/qabiːla/] [R] - Tribo
+    *   **سَيِّدَة** (*sayyidah*) [/sajːida/] [R] - Senhora
+    *   **سَيِّدَةُ القَبِيلَةِ** (*sayyidat al-qabīlah*) [/sajːidat alqabiːlati/] [R] - A senhora da tribo (som /at/ no estado construto).
+
+---
+
+**3.4 As Marcas Vocálicas (Ḥarakāt ar-Rūḥ – حركات الروح [R] - "Marcas do Espírito") - Expandido)**
 
 Estes pequenos sinais são a alma da palavra escrita, dando voz às consoantes mudas. Sem eles, a leitura do Chakobsa (como do Árabe não vocalizado) dependeria fortemente do contexto e do conhecimento prévio do leitor. Em nosso guia, sempre os incluiremos para máxima clareza. Lembre-se, eles são escritos **acima** ou **abaixo** da consoante que *precedem* foneticamente, mas modificam o som *dessa* consoante adicionando a vogal curta seguinte ou indicando sua ausência/duplicação.
 
@@ -387,7 +405,7 @@ Estes pequenos sinais são a alma da palavra escrita, dando voz às consoantes m
         *   **مُعَلِّم** (*mu‘allim*): **L(shadda+kasra)** = **لِّ** -> **مُعَلِّم** (Geminação do L)
         *   **الشَّمْس** (*ash-shams*): **SH(shadda+fatḥa)** = **شَّ** -> **الشَّمْس** (Geminação do Sh devido à assimilação do L solar de *al-*)
 
-**(3.5 Juntando Tudo: Escrevendo Palavras em Khatt al-Ibad - Expandido com Mais Detalhes)**
+**3.5 Juntando Tudo: Escrevendo Palavras em Khatt al-Ibad - Expandido com Mais Detalhes)**
 
 Agora, vamos solidificar nosso entendimento combinando letras e diacríticos para escrever palavras completas, relembrando sempre a direção **Direita para Esquerda (→)**. Vamos revisitar exemplos anteriores com mais detalhe e adicionar novos.
 
@@ -444,7 +462,7 @@ Agora, vamos solidificar nosso entendimento combinando letras e diacríticos par
     6.  **Terminação Fem. /a(h)/:** Letra especial **Tā’ marbūṭah (ة)**. Lām conecta a Tā’ marbūṭah. **L(a)** = **لَ** (Fatḥa para a vogal final) sobre o Lām, ou implícito no Tā’ marbūṭah.
     7.  **Resultado Final:** **قَبِيلَة** (*Qabīlah*)
 
-**(3.6 Numerais e Pontuação - Expandido)**
+**3.6 Numerais e Pontuação - Expandido)**
 
 *   **Numerais (الأَرْقَام الهِنْدِيَّة - *al-arqām al-hindiyyah* [R] - "Numerais Indianos", como são chamados em árabe):**
     *   O sistema numérico usado é o conjunto de numerais arábicos orientais, distintos dos numerais arábicos ocidentais que usamos globalmente.
@@ -473,7 +491,86 @@ Agora, vamos solidificar nosso entendimento combinando letras e diacríticos par
     *   **Aspas:** **« »** (Aspas angulares/francesas) ou **" "** (Aspas inglesas). Usadas para citações diretas.
     *   **Parênteses:** **( )** (Como em português). Usados para informações incidentais ou explicações.
 
-**(3.7 Prática de Leitura - Expandida)**
+**3.6.1 Tabela Resumo do Sistema de Escrita Khatt al-Ibad**
+
+Antes de prosseguirmos para os exercícios práticos, esta tabela resume os componentes essenciais do sistema de escrita *Khatt al-Ibad* conforme apresentado neste capítulo. Use-a como referência rápida.
+
+**Consoantes (Ḥurūf)**
+
+| Khatt al-Ibad | Nome Proposto [R] | STP     | IPA    | Som / Notas Rápidas                             | Conecta Esq.? |
+| :------------ | :---------------- | :------ | :----- | :---------------------------------------------- | :------------ |
+| **ا**         | Alif              | ’ / ā   | /ʔ/, /aː/ | Oclusiva Glotal / Vogal 'a' longa               | Não           |
+| **ب**         | Bā’ / Bayt        | b       | /b/    | /b/ como em bola                                | Sim           |
+| **ت**         | Tā’ / Tall        | t       | /t/    | /t/ como em tatu                                | Sim           |
+| **ث**         | Thā’ / Thalj      | th      | /θ/    | /th/ inglês ('think')                           | Sim           |
+| **ج**         | Jīm / Jabal       | j       | /d͡ʒ/  | /j/ como em já                                  | Sim           |
+| **ح**         | Ḥā’ / Ḥajar       | ḥ       | /ħ/    | /ḥ/ Faríngeo surdo (H forte!)                  | Sim           |
+| **خ**         | Khā’ / Khaymah    | kh      | /χ/    | /kh/ ('J' espanhol)                             | Sim           |
+| **د**         | Dāl / Darb        | d       | /d/    | /d/ como em dado                                | Não           |
+| **ذ**         | Dhāl / Dhayl      | dh      | /ð/    | /dh/ inglês ('this')                            | Não           |
+| **ر**         | Rā’ / Raml        | r       | /r/    | /r/ vibrante (carro)                            | Não           |
+| **ز**         | Zāy / Zayt        | z       | /z/    | /z/ como em zebra                               | Não           |
+| **س**         | Sīn / Sayf        | s       | /s/    | /s/ como em sapo                                | Sim           |
+| **ش**         | Shīn / Shams      | sh      | /ʃ/    | /sh/ como em chave                              | Sim           |
+| **ص**         | Ṣād / Ṣahrā’      | ṣ       | /sˤ/   | /ṣ/ 'S' enfático                               | Sim           |
+| **ض**         | Ḍād / Ḍaw’        | ḍ       | /dˤ/   | /ḍ/ 'D' enfático                               | Sim           |
+| **ط**         | Ṭā’ / Ṭarīq       | ṭ       | /tˤ/   | /ṭ/ 'T' enfático                               | Sim           |
+| **ظ**         | Ẓā’ / Ẓill        | ẓ       | /zˤ/, /ðˤ/ | /ẓ/ 'Z/DH' enfático                           | Sim           |
+| **ع**         | ‘Ayn / ‘Ayn       | ‘       | /ʕ/    | /‘/ Faríngeo sonoro (muito gutural!)             | Sim           |
+| **غ**         | Ghayn / Ghayb     | gh      | /ʁ/    | /gh/ ('R' francês)                              | Sim           |
+| **ف**         | Fā’ / Fam         | f       | /f/    | /f/ como em faca                                | Sim           |
+| **ق**         | Qāf / Qamar       | q       | /q/    | /q/ 'K' gutural (uvular)                        | Sim           |
+| **ك**         | Kāf / Kaff        | k       | /k/    | /k/ como em casa                                | Sim           |
+| **ل**         | Lām / Layl        | l       | /l/    | /l/ como em lua                                 | Sim           |
+| **م**         | Mīm / Mā’         | m       | /m/    | /m/ como em mãe                                 | Sim           |
+| **ن**         | Nūn / Najm        | n       | /n/    | /n/ como em nada                                | Sim           |
+| **ه**         | Hā’ / Hawā’       | h       | /h/    | /h/ aspirado ('hat' inglês)                     | Sim           |
+| **و**         | Wāw / Waḥah       | w / ū   | /w/, /uː/ | /w/ (quase) / Vogal 'u' longa                  | Não           |
+| **ي**         | Yā’ / Yad         | y / ī   | /j/, /iː/ | /y/ (pai) / Vogal 'i' longa                    | Sim           |
+| **ة**         | Tā’ Marbūṭah      | -h / -t | /a/, /at/| Terminação feminina ('-ah' ou '-at')             | Sim (direita) |
+
+**Diacríticos (Ḥarakāt ar-Rūḥ)**
+
+| Khatt al-Ibad | Nome Proposto [R] | STP   | IPA    | Função                                  | Posição       |
+| :------------ | :---------------- | :---- | :----- | :-------------------------------------- | :------------ |
+| **ــَـ**     | Fatḥa             | a     | /a/    | Vogal curta /a/                         | Acima         |
+| **ــِـ**     | Kasra             | i     | /i/    | Vogal curta /i/                         | Abaixo        |
+| **ــُـ**     | Ḍamma             | u     | /u/    | Vogal curta /u/                         | Acima         |
+| **ــْـ**     | Sukūn             | (nenhum)| *N/A*  | Ausência de vogal                       | Acima         |
+| **ــّـ**     | Shadda            | (duplo)| *gemin.*| Dobra/Geminada consoante                | Acima         |
+
+**Combinações para Vogais Longas**
+
+| Khatt al-Ibad | STP   | IPA   | Função                                       |
+| :------------ | :---- | :---- | :------------------------------------------- |
+| **ــَـ ا**   | ā     | /aː/  | Vogal longa /ā/ (Fatḥa + Alif)               |
+| **ــِـ ي**   | ī     | /iː/  | Vogal longa /ī/ (Kasra + Yā’)                |
+| **ــُـ و**   | ū     | /uː/  | Vogal longa /ū/ (Ḍamma + Wāw)                |
+
+**Numerais (Arábicos Orientais)**
+
+**٠** (0), **١** (1), **٢** (2), **٣** (3), **٤** (4), **٥** (5), **٦** (6), **٧** (7), **٨** (8), **٩** (9)
+*(Escritos da Esquerda para a Direita)*
+
+**Pontuação Proposta**
+
+*   Ponto Final: **۔**
+*   Vírgula: **،**
+*   Interrogação: **؟**
+*   Ponto e Vírgula: **؛**
+*   Dois Pontos: **:**
+*   Exclamação: **!**
+
+**Princípios Chave**
+
+*   Direção: Direita → Esquerda
+*   Conectividade: Maioria conecta; **ا د ذ ر ز و** não conectam à esquerda.
+*   Vogais Curtas: Diacríticos.
+*   Vogais Longas: Diacrítico + Mater Lectionis (ا, ي, و).
+
+---
+
+**3.7 Prática de Leitura - Expandida**
 
 Tente decifrar estas palavras e frases escritas em *Khatt al-Ibad*. A transliteração STP e a tradução são fornecidas após os exercícios. (Em um livro real, as imagens seriam mostradas aqui).
 
@@ -550,3 +647,6 @@ Você deu um passo monumental. Não está mais apenas ouvindo as *Vozes das Arei
 3.  *Man anta?* -> **مَنْ أَنْتَ؟**
 4.  *Shukran yā akhī.* -> **شُكْرًا يَا أَخِي۔**
 
+---
+
+**(Fim do Capítulo 3 - Edição Altamente Expandida com Tabela Resumo)**
