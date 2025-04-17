@@ -1,7 +1,9 @@
 
 ---
 
-**Capítulo 1: O Chamado das Areias – Introdução ao Chakobsa e aos Fremen**
+# Capítulo 1
+
+# O Chamado das Areias – Introdução ao Chakobsa e aos Fremen
 
 
 *   *“A linguagem é o mapa de uma cultura. Diz-te de onde o seu povo vem e para onde vai.”* – Atribuído a Ligeia Marey, Historiadora Imperial (citação fictícia para ambientação)
