@@ -1,7 +1,9 @@
 
 ---
 
-**Vozes das Areias: Um Guia Prático para a Língua Chakobsa**
+# Vozes das Areias
+
+# Um Guia Prático para a Língua Chakobsa
 
 ---
 
