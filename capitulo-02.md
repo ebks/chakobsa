@@ -1,4 +1,3 @@
-
 **Capítulo 2: Os Sons das Dunas – Fonética e Fonologia Chakobsa Detalhadas**
 
 **(Página de Abertura: Talvez uma imagem estilizada de ondas sonoras sobre dunas de areia, com representações visuais de articulação para sons guturais, ou um close-up de uma boca Fremen falando, enfatizando a garganta e a boca.)**
@@ -81,7 +80,7 @@ As vogais são a melodia da língua, os sons que carregam a voz e permitem que a
 
 As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílabas átonas (não acentuadas).
 
-*   **(ــَـ) `a` - IPA /a/**
+*   **`a` - STP `a` - IPA /a/** (Khatt al-Ibad: **ــَـ**)
     *   **Articulação:** Vogal Baixa, Central (ou ligeiramente Anterior), Não-Arredondada. A boca está relativamente aberta, a língua baixa e central.
     *   **Comparação:** Similar ao 'a' em p**a**i, c**a**sa, m**a**s. É um som vocálico muito comum universalmente. Evite nasalizar como em "maçã".
     *   **Exemplos:**
@@ -91,7 +90,7 @@ As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílab
         *   **بِلاَل** (*bi-l**a**l*) [C] - Parte de *Bi-lal kaifa*.
         *   **فَعَلَ** (*f**a**‘**a**l**a*) [R] - Ele fez (verbo modelo).
 
-*   **(ــِـ) `i` - IPA /i/**
+*   **`i` - STP `i` - IPA /i/** (Khatt al-Ibad: **ــِـ**)
     *   **Articulação:** Vogal Alta, Anterior, Não-Arredondada. A parte frontal da língua está elevada em direção ao palato duro, lábios espalhados ou neutros.
     *   **Comparação:** Similar ao 'i' em v**i**, l**i**, s**i**. É um 'i' fechado e curto. Evite o som mais aberto de 'ê' em "ele".
     *   **Exemplos:**
@@ -101,7 +100,7 @@ As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílab
         *   **سِكِّين** (*s**i**kkīn*) [R] - Faca.
         *   **لِسَان** (*l**i**sān*) [C] - Língua, voz.
 
-*   **(ــُـ) `u` - IPA /u/**
+*   **`u` - STP `u` - IPA /u/** (Khatt al-Ibad: **ــُـ**)
     *   **Articulação:** Vogal Alta, Posterior, Arredondada. A parte posterior da língua está elevada em direção ao palato mole (véu palatino), lábios arredondados e protusos.
     *   **Comparação:** Similar ao 'u' em t**u**, l**u**a, s**u**l. É um 'u' fechado e curto. Evite o som de 'ô' em "ovo".
     *   **Exemplos:**
@@ -111,7 +110,7 @@ As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílab
         *   **هُوَ** (*h**u**wa*) [R] - Ele.
         *   **اُكْتُبْ!** (**u**kt**u**b!*) [R] - Escreva! (Vogal inicial epentética).
 
-*   **(??) `e` - IPA /ɛ/ [R]**
+*   **`e` - STP `e` - IPA /ɛ/ [R]** (Khatt al-Ibad: Sem símbolo padrão, pode usar Kasra **ــِـ** ou adaptação)
     *   **Articulação:** Vogal Média-Baixa, Anterior, Não-Arredondada. A língua está um pouco mais baixa que para /i/, boca um pouco mais aberta.
     *   **Comparação:** Como o 'é' em p**é**, caf**é**.
     *   **Status:** Este som **não é** uma vogal curta padrão no Árabe Clássico/Padrão Moderno (que foca em /a/, /i/, /u/). Sua inclusão aqui é **altamente especulativa [R]**. Poderia surgir em Chakobsa devido a:
@@ -122,7 +121,7 @@ As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílab
         *   **فِرِمِن** (*Fr**e**men*) [C] - Nome do povo (pronúncia inferida).
         *   **بَيْت** (*b**e**yt* / *b**ay**t*) [R] - Casa (em alguns dialetos árabes, /aj/ pode soar como /eː/, mas aqui seria curto?).
 
-*   **(??) `o` - IPA /ɔ/ [R]**
+*   **`o` - STP `o` - IPA /ɔ/ [R]** (Khatt al-Ibad: Sem símbolo padrão, pode usar Damma **ــُـ** ou adaptação)
     *   **Articulação:** Vogal Média-Baixa, Posterior, Arredondada. A língua está na mesma altura que /ɛ/, mas posterior, lábios arredondados.
     *   **Comparação:** Como o 'ó' em av**ó**, p**ó**.
     *   **Status:** Similar ao `e`, este som **não é** uma vogal curta padrão no sistema árabe clássico. Sua presença é **especulativa [R]**, possivelmente por razões similares às do `e` (influência externa, empréstimos).
@@ -133,7 +132,7 @@ As vogais curtas são tipicamente rápidas e podem ser menos distintas em sílab
 
 As vogais longas têm uma duração distintamente maior (aproximadamente o dobro) que as curtas e são fonemicamente importantes. No STP, são marcadas com um mácron (¯). Na escrita *Khatt al-Ibad*, são representadas pela vogal curta correspondente seguida por uma letra "mater lectionis" (Alif para /aː/, Yā’ para /iː/, Wāw para /uː/).
 
-*   **(ــَـ ا) `ā` - IPA /aː/**
+*   **`ā` - STP `ā` - IPA /aː/** (Khatt al-Ibad: **ــَـ ا**)
     *   **Articulação:** Similar a /a/, mas mantida por mais tempo. Vogal Baixa, Central/Anterior, Não-Arredondada, Longa.
     *   **Comparação:** Pense no 'á' em p**á**, m**á**goa, mas prolongue o som.
     *   **Exemplos:**
@@ -143,7 +142,7 @@ As vogais longas têm uma duração distintamente maior (aproximadamente o dobro
         *   **قَالَ** (*q**ā**la*) [R] - Ele disse.
         *   **جِهَاد** (*jih**ā**d*) [C] - Jihad.
 
-*   **(ــِـ ي) `ī` - IPA /iː/**
+*   **`ī` - STP `ī` - IPA /iː/** (Khatt al-Ibad: **ــِـ ي**)
     *   **Articulação:** Similar a /i/, mas mantida por mais tempo. Vogal Alta, Anterior, Não-Arredondada, Longa.
     *   **Comparação:** Como o som 'i' em v**i**u, l**i**ndo, mas prolongado.
     *   **Exemplos:**
@@ -153,7 +152,7 @@ As vogais longas têm uma duração distintamente maior (aproximadamente o dobro
         *   **فَدَيْكِين** (*Fedayk**ī**n*) [C] - Fedaykin.
         *   **سِيَتْش** (*S**ī**etch*) [C] - Sietch (interpretado como /iː/ longo, embora a origem seja incerta).
 
-*   **(ــُـ و) `ū` - IPA /uː/**
+*   **`ū` - STP `ū` - IPA /uː/** (Khatt al-Ibad: **ــُـ و**)
     *   **Articulação:** Similar a /u/, mas mantida por mais tempo. Vogal Alta, Posterior, Arredondada, Longa.
     *   **Comparação:** Como o som 'u' em l**u**a, t**u**do, mas prolongado.
     *   **Exemplos:**
@@ -163,7 +162,7 @@ As vogais longas têm uma duração distintamente maior (aproximadamente o dobro
         *   **جُنُود** (*jun**ū**d*) [R] - Soldados.
         *   **يَقُولُ** (*yaq**ū**lu*) [R] - Ele diz.
 
-*   **(??) `ē` - IPA /eː/ [R]**
+*   **`ē` - STP `ē` - IPA /eː/ [R]** (Khatt al-Ibad: Possivelmente **ــِـ ي** ou adaptação)
     *   **Articulação:** Vogal Média-Alta, Anterior, Não-Arredondada, Longa.
     *   **Comparação:** Como o 'ê' em v**ê**, m**ê**s, mas prolongado.
     *   **Status:** Similar ao `e` curto, **não é** uma vogal longa primária do Árabe Clássico. Sua existência em Chakobsa é **especulativa [R]**. Pode surgir de:
@@ -174,7 +173,7 @@ As vogais longas têm uma duração distintamente maior (aproximadamente o dobro
         *   **بَيْت** (*b**ē**t*) [R] - Casa (se /aj/ evoluiu para /eː/). A transliteração *bayt* (/aj/) é mais conservadora.
         *   **سَيْف** (*s**ē**f*) [R] - Espada (similarmente, se /aj/ -> /eː/). Transliteração *sayf* é preferível.
 
-*   **(??) `ō` - IPA /oː/ [R]**
+*   **`ō` - STP `ō` - IPA /oː/ [R]** (Khatt al-Ibad: Possivelmente **ــُـ و** ou adaptação)
     *   **Articulação:** Vogal Média-Alta, Posterior, Arredondada, Longa.
     *   **Comparação:** Como o 'ô' em av**ô**, p**ô**r, mas prolongado.
     *   **Status:** Similar ao `o` curto e `ē` longo, **não é** uma vogal longa primária do Árabe Clássico. Sua presença é **especulativa [R]**. Pode surgir de:
@@ -187,7 +186,7 @@ As vogais longas têm uma duração distintamente maior (aproximadamente o dobro
 
 Ditongos são sequências de duas vogais (ou uma vogal e uma semivogal) pronunciadas dentro de uma única sílaba, com um deslize suave de um som para o outro. Os mais comuns e importantes, baseados no modelo árabe, são:
 
-*   **(ــَـ يْ) `ai` - IPA /aj/**
+*   **`ai` - STP `ai` - IPA /aj/** (Khatt al-Ibad: **ــَـ يْ**)
     *   **Articulação:** Começa com o /a/ baixo e central, deslizando rapidamente para o /j/ (som de 'i' em 'pai') palatal.
     *   **Comparação:** Exatamente como em p**ai**, m**ai**s.
     *   **Exemplos:**
@@ -196,7 +195,7 @@ Ditongos são sequências de duas vogais (ou uma vogal e uma semivogal) pronunci
         *   **بَيْت** (*b**ay**t*) [R] - Casa.
         *   **سَيْف** (*s**ay**f*) [R] - Espada.
 
-*   **(ــَـ وْ) `au` - IPA /aw/**
+*   **`au` - STP `au` - IPA /aw/** (Khatt al-Ibad: **ــَـ وْ**)
     *   **Articulação:** Começa com o /a/ baixo e central, deslizando rapidamente para o /w/ (som de 'u' em 'mau') labiovelar.
     *   **Comparação:** Exatamente como em m**au**, p**au**.
     *   **Exemplos:**
@@ -224,27 +223,27 @@ As consoantes formam a estrutura, o esqueleto das palavras Chakobsa. O inventár
 
 **2.5.1 Consoantes Labiais (Lábios)**
 
-*   **(ب) `b` - IPA /b/ - Oclusiva Bilabial Sonora**
+*   **`b` - STP `b` - IPA /b/ - Oclusiva Bilabial Sonora** (Khatt al-Ibad: **ب**)
     *   **Articulação:** Os dois lábios se fecham completamente, bloqueando o fluxo de ar, e então se abrem abruptamente. Cordas vocais vibram.
     *   **Comparação:** Exatamente como o 'b' em **b**ola, la**b**o.
     *   **Exemplos:** **بَاب** (*bāb*) [R] - Porta; **كِتَاب** (*kitā**b***) [R] - Livro; **قَبِيلَة** (*qa**b**īlah*) [R] - Tribo.
 
-*   **(ف) `f` - IPA /f/ - Fricativa Labiodental Surda**
+*   **`f` - STP `f` - IPA /f/ - Fricativa Labiodental Surda** (Khatt al-Ibad: **ف**)
     *   **Articulação:** O lábio inferior toca levemente os dentes superiores, criando uma constrição por onde o ar passa com fricção. Cordas vocais não vibram.
     *   **Comparação:** Exatamente como o 'f' em **f**aca, ca**f**é.
     *   **Exemplos:** **فِي** (*fī*) [R] - Em; **كَيْفَ** (*kai**f**a*) [C] - Como?; **فَهِمَ** (*fahima*) [R] - Ele entendeu.
 
-*   **(م) `m` - IPA /m/ - Nasal Bilabial Sonora**
+*   **`m` - STP `m` - IPA /m/ - Nasal Bilabial Sonora** (Khatt al-Ibad: **م**)
     *   **Articulação:** Lábios fechados como para /b/, mas o véu palatino (palato mole) está abaixado, permitindo que o ar escape pelo nariz. Cordas vocais vibram.
     *   **Comparação:** Exatamente como o 'm' em **m**ãe, ca**m**a.
     *   **Exemplos:** **مَاء** (*mā’*) [R] - Água; **قَمَر** (*qa**m**ar*) [R] - Lua; **أُمّ** (*u**mm***) [R] - Mãe.
 
-*   **(و) `w` - IPA /w/ - Aproximante Labiovelar Sonora**
+*   **`w` - STP `w` - IPA /w/ - Aproximante Labiovelar Sonora** (Khatt al-Ibad: **و**)
     *   **Articulação:** Os lábios se arredondam e a parte posterior da língua se eleva em direção ao véu palatino (como para /u/), mas sem criar fricção ou bloqueio total. É um som de deslize.
     *   **Comparação:** Como o 'u' semivogálico em q**ua**se, ág**ua**. Evite o som fricativo /v/ do português europeu.
     *   **Exemplos:** **وَاحِد** (*wāḥid*) [R] - Um; **هُوَ** (*hu**w**a*) [R] - Ele; **قُوَّة** (*qu**ww**ah*) [R] - Força (com geminação).
 
-*   **(??) `p` - IPA /p/ - Oclusiva Bilabial Surda [R]**
+*   **`p` - STP `p` - IPA /p/ - Oclusiva Bilabial Surda [R]** (Khatt al-Ibad: Sem símbolo padrão¹)
     *   **Articulação:** Como /b/, mas sem vibração das cordas vocais.
     *   **Comparação:** Como o 'p' em **p**ai, ca**p**a.
     *   **Status:** Altamente **especulativo [R]** para Chakobsa. O Árabe padrão não possui /p/. Se presente, seria provavelmente em empréstimos de Galach ou outras línguas. Poderia ser representado pela letra **ب** (`b`) ou **ف** (`f`) na escrita, ou exigir um novo símbolo *Khatt al-Ibad* (não proposto neste livro).
@@ -252,13 +251,13 @@ As consoantes formam a estrutura, o esqueleto das palavras Chakobsa. O inventár
 
 **2.5.2 Consoantes Dentais/Interdentais (Dentes)**
 
-*   **(ث) `th` - IPA /θ/ - Fricativa Dental Surda [R]**
+*   **`th` - STP `th` - IPA /θ/ - Fricativa Dental Surda [R]** (Khatt al-Ibad: **ث**)
     *   **Articulação:** A ponta da língua é colocada entre ou logo atrás dos dentes superiores, e o ar passa com fricção. Cordas vocais não vibram.
     *   **Comparação:** Como o 'th' no inglês "**th**ink", "**th**row". Não existe em português padrão (não confundir com 't' ou 's').
     *   **Status:** Presente no Árabe Clássico/Padrão, mas muitas vezes se funde com /s/ ou /t/ em dialetos. Incluído **especulativamente [R]** para Chakobsa, talvez preservado de formas mais antigas ou em vocabulário religioso/formal.
     *   **Exemplos:** **ثَلاثَة** (*thalāthah*) [R] - Três; **كَثِيب** (*kathīb*) [R] - Duna.
 
-*   **(ذ) `dh` - IPA /ð/ - Fricativa Dental Sonora [R]**
+*   **`dh` - STP `dh` - IPA /ð/ - Fricativa Dental Sonora [R]** (Khatt al-Ibad: **ذ**)
     *   **Articulação:** Como /θ/, mas com vibração das cordas vocais.
     *   **Comparação:** Como o 'th' no inglês "**th**is", "fa**th**er". Não existe em português padrão (não confundir com 'd' ou 'z').
     *   **Status:** Similar ao `th`, presente no Árabe Clássico/Padrão, mas frequentemente se funde com /z/ ou /d/ em dialetos. Incluído **especulativamente [R]** para Chakobsa.
@@ -266,62 +265,62 @@ As consoantes formam a estrutura, o esqueleto das palavras Chakobsa. O inventár
 
 **2.5.3 Consoantes Alveolares (Crista Alveolar atrás dos dentes superiores)**
 
-*   **(ت) `t` - IPA /t/ - Oclusiva Alveolar Surda**
+*   **`t` - STP `t` - IPA /t/ - Oclusiva Alveolar Surda** (Khatt al-Ibad: **ت**)
     *   **Articulação:** A ponta ou lâmina da língua toca a crista alveolar, bloqueando o ar, que é liberado abruptamente. Sem vibração vocal.
     *   **Comparação:** Como o 't' em **t**a**t**u, pa**t**o. Pode ser ligeiramente mais dental (tocando atrás dos dentes) do que no inglês.
     *   **Exemplos:** **كَتَبَ** (*ka**t**aba*) [R] - Ele escreveu; **بِنْت** (*bin**t***) [R] - Filha; **مَوْت** (*maw**t***) [R] - Morte.
 
-*   **(د) `d` - IPA /d/ - Oclusiva Alveolar Sonora**
+*   **`d` - STP `d` - IPA /d/ - Oclusiva Alveolar Sonora** (Khatt al-Ibad: **د**)
     *   **Articulação:** Como /t/, mas com vibração das cordas vocais.
     *   **Comparação:** Como o 'd' em **d**a**d**o, ca**d**a.
     *   **Exemplos:** **جَدِيد** (*ja**d**ī**d***) [R] - Novo; **مُؤَدِّيب** (*Mu’ad’**d**ib*) [C] - Muad'Dib (com geminação implícita?); **بَدْلَة** (*ba**d**lah*) [R] - Traje.
 
-*   **(ن) `n` - IPA /n/ - Nasal Alveolar Sonora**
+*   **`n` - STP `n` - IPA /n/ - Nasal Alveolar Sonora** (Khatt al-Ibad: **ن**)
     *   **Articulação:** Como /t/ e /d/, a língua toca a crista alveolar, mas o véu palatino está abaixado, permitindo que o ar saia pelo nariz. Com vibração vocal.
     *   **Comparação:** Como o 'n' em **n**ada, ca**n**o.
     *   **Exemplos:** **لِسَان** (*lisā**n***) [C] - Língua; **نَحْنُ** (*naḥnu*) [R] - Nós; **اِبْن** (*ib**n***) [R] - Filho.
 
-*   **(ر) `r` - IPA /r/ - Vibrante Alveolar Sonora (Trill)**
+*   **`r` - STP `r` - IPA /r/ - Vibrante Alveolar Sonora (Trill)** (Khatt al-Ibad: **ر**)
     *   **Articulação:** A ponta da língua vibra rapidamente contra a crista alveolar. Com vibração vocal.
     *   **Comparação:** Como o 'rr' em ca**rr**o, te**rr**a, ou o 'r' inicial em **r**ato. Alternativamente, pode ser realizado como um **Tap/Flap** /ɾ/ (como o 'r' em ca**r**o, ba**r**ata) em algumas posições (e.g., entre vogais), como ocorre em muitos dialetos árabes e no espanhol. Presumimos o trill /r/ como a forma principal.
     *   **Exemplos:** **رَمْل** (*raml*) [R] - Areia; **حَرْب** (*ḥa**r**b*) [R] - Guerra; **شَرِبَ** (*sha**r**iba*) [R] - Ele bebeu.
 
-*   **(ل) `l` - IPA /l/ - Aproximante Lateral Alveolar Sonora**
+*   **`l` - STP `l` - IPA /l/ - Aproximante Lateral Alveolar Sonora** (Khatt al-Ibad: **ل**)
     *   **Articulação:** A ponta da língua toca a crista alveolar, mas o ar escapa pelas laterais da língua. Com vibração vocal.
     *   **Comparação:** Como o 'l' em **l**ua, a**l**a.
     *   **Nota sobre Alofonia [R]:** Em Árabe, e possivelmente em Chakobsa, o /l/ pode ter uma variante "escura" ou velarizada ([ɫ]), especialmente perto de vogais posteriores ou consoantes enfáticas (como o 'l' em "full" inglês, ou o 'l' final no português brasileiro). A forma "clara" /l/ é a padrão. O 'l' na palavra *Allāh* (الله) é tipicamente velarizado [ɫ].
     *   **Exemplos:** **بِلاَل** (*bi-lā**l***) [C]; **قَلِيل** (*qa**l**ī**l***) [R] - Pouco; **فَعَلَ** (*fa‘a**l**a*) [R] - Ele fez.
 
-*   **(س) `s` - IPA /s/ - Fricativa Alveolar Surda**
+*   **`s` - STP `s` - IPA /s/ - Fricativa Alveolar Surda** (Khatt al-Ibad: **س**)
     *   **Articulação:** O ar passa com fricção por um canal estreito formado entre a lâmina da língua e a crista alveolar. Sem vibração vocal.
     *   **Comparação:** Como o 's' em **s**apo, pa**ss**o, ou 'ç' em ca**ç**a.
     *   **Exemplos:** **لِسَان** (*li**s**ān*) [C] - Língua; **سِيَتْش** (*Sīetch*) [C] - Sietch; **مُسَدَّس** (*mu**s**adda**s***) [R] - Pistola.
 
-*   **(ز) `z` - IPA /z/ - Fricativa Alveolar Sonora**
+*   **`z` - STP `z` - IPA /z/ - Fricativa Alveolar Sonora** (Khatt al-Ibad: **ز**)
     *   **Articulação:** Como /s/, mas com vibração das cordas vocais.
     *   **Comparação:** Como o 'z' em **z**ebra, ca**s**a.
     *   **Exemplos:** **أَزْرَق** (*a**z**raq*) [R] - Azul; **خُبْز** (*khub**z***) [R] - Pão.
 
 **2.5.4 Consoantes Pós-Alveolares/Palatais (Área atrás da crista alveolar / Palato Duro)**
 
-*   **(ش) `sh` - IPA /ʃ/ - Fricativa Pós-Alveolar Surda**
+*   **`sh` - STP `sh` - IPA /ʃ/ - Fricativa Pós-Alveolar Surda** (Khatt al-Ibad: **ش**)
     *   **Articulação:** Similar a /s/, mas a língua está ligeiramente mais recuada (pós-alveolar) e pode estar um pouco arqueada. Lábios podem se protruir levemente. Sem vibração vocal.
     *   **Comparação:** Como o 'ch' em **ch**ave, **ch**uva, ou 'x' em cai**x**a.
     *   **Exemplos:** **شَمْس** (*shams*) [R] - Sol; **شَيْء** (*shay’*) [C/D] - Coisa; **عَشَرَة** (*‘a**sh**arah*) [R] - Dez.
 
-*   **(ج) `j` - IPA /d͡ʒ/ - Africada Pós-Alveolar Sonora**
+*   **`j` - STP `j` - IPA /d͡ʒ/ - Africada Pós-Alveolar Sonora** (Khatt al-Ibad: **ج**)
     *   **Articulação:** Começa com um bloqueio completo como /d/ (mas ligeiramente mais recuado), seguido por uma liberação com fricção como /ʒ/ (o 'j' em 'já' do português europeu, ou o 's' em 'vision' inglês). Com vibração vocal.
     *   **Comparação:** Como o 'j' em **j**á, **g**ente no português brasileiro padrão.
     *   **Exemplos:** **جَبَل** (*jabal*) [R] - Montanha; **جِهَاد** (*jihād*) [C] - Jihad; **رَجُل** (*ra**j**ul*) [R] - Homem.
 
-*   **(ي) `y` - IPA /j/ - Aproximante Palatal Sonora**
+*   **`y` - STP `y` - IPA /j/ - Aproximante Palatal Sonora** (Khatt al-Ibad: **ي**)
     *   **Articulação:** A parte frontal/média da língua se aproxima do palato duro (como para /i/), mas sem criar fricção ou bloqueio. É um som de deslize. Com vibração vocal.
     *   **Comparação:** Como o 'i' semivogálico em pa**i**, idé**ia**.
     *   **Exemplos:** **يَوْم** (*yawm*) [R] - Dia; **شَيْء** (*sha**y**’*) [C/D] - Coisa; **يَذْهَبُ** (*ya**dhhabu*) [R] - Ele vai (prefixo verbal).
 
 **2.5.5 Consoantes Velares (Palato Mole / Véu Palatino)**
 
-*   **(ك) `k` - IPA /k/ - Oclusiva Velar Surda**
+*   **`k` - STP `k` - IPA /k/ - Oclusiva Velar Surda** (Khatt al-Ibad: **ك**)
     *   **Articulação:** A parte posterior da língua toca o véu palatino, bloqueando o ar, que é liberado abruptamente. Sem vibração vocal.
     *   **Comparação:** Como o 'c' antes de a/o/u em **c**asa, po**c**o, ou 'qu' em **qu**eijo.
     *   **Exemplos:** **كِتَاب** (*kitāb*) [R] - Livro; **سِكِّين** (*si**kk**īn*) [R] - Faca (com geminação); **بَرَكَة** (*bara**k**ah*) [R] - Bênção.
@@ -330,19 +329,19 @@ As consoantes formam a estrutura, o esqueleto das palavras Chakobsa. O inventár
 
 Estes sons são produzidos mais atrás na boca que os velares /k/ e /g/ do português.
 
-*   **(ق) `q` - IPA /q/ - Oclusiva Uvular Surda**
+*   **`q` - STP `q` - IPA /q/ - Oclusiva Uvular Surda** (Khatt al-Ibad: **ق**)
     *   **Articulação:** A parte mais posterior da língua toca a úvula, bloqueando o ar. Liberação abrupta. Sem vibração vocal. Soa como um /k/ muito profundo e gutural.
     *   **Comparação:** Não existe em português. Imagine tentar dizer /k/ o mais atrás possível na garganta.
     *   **Dicas:** Pratique alternar /k/ e /q/. Sinta a diferença na posição da língua. Ouvir falantes de árabe é essencial.
     *   **Exemplos:** **قَمَر** (*qamar*) [R] - Lua; **قَلْب** (*qalb*) [R] - Coração; **سُوق** (*sū**q***) [R] - Mercado.
 
-*   **(خ) `kh` - IPA /χ/ - Fricativa Uvular Surda**
+*   **`kh` - STP `kh` - IPA /χ/ - Fricativa Uvular Surda** (Khatt al-Ibad: **خ**)
     *   **Articulação:** A parte posterior da língua se aproxima da úvula, criando fricção à medida que o ar passa. Sem vibração vocal.
     *   **Comparação:** Como o 'j' no espanhol "**J**osé", "relo**j**", ou o 'ch' no alemão "Ba**ch**". É um som de "raspar" a garganta.
     *   **Dicas:** Comece com /k/, depois tente liberar o ar com fricção em vez de uma explosão.
     *   **Exemplos:** **خَمْسَة** (*khamsah*) [R] - Cinco; **صَخْرَة** (*ṣa**kh**rah*) [R] - Rocha; **أَخ** (*a**kh***) [R] - Irmão.
 
-*   **(غ) `gh` - IPA /ʁ/ - Fricativa Uvular Sonora**
+*   **`gh` - STP `gh` - IPA /ʁ/ - Fricativa Uvular Sonora** (Khatt al-Ibad: **غ**)
     *   **Articulação:** Como /χ/, mas com vibração das cordas vocais.
     *   **Comparação:** Similar ao 'r' no francês "Pa**r**is" ou no alemão "**R**ein". Em português, pode lembrar o 'r' inicial forte em algumas pronúncias, mas é produzido mais atrás (uvular) e com mais fricção.
     *   **Dicas:** Tente gargarejar suavemente ou vibrar a úvula enquanto produz som.
@@ -352,13 +351,13 @@ Estes sons são produzidos mais atrás na boca que os velares /k/ e /g/ do portu
 
 Estes são os sons mais característicos e difíceis do Árabe (e, portanto, do Chakobsa reconstruído) para a maioria dos aprendizes. Envolvem a constrição da própria garganta.
 
-*   **(ح) `ḥ` - IPA /ħ/ - Fricativa Faríngea Surda**
+*   **`ḥ` - STP `ḥ` - IPA /ħ/ - Fricativa Faríngea Surda** (Khatt al-Ibad: **ح**)
     *   **Articulação:** Os músculos da faringe se contraem, estreitando a passagem do ar, que sai com forte fricção. Sem vibração vocal. É um som "apertado" e sussurrado vindo da garganta.
     *   **Comparação:** Não existe em português ou na maioria das línguas europeias. NÃO é o 'h' de 'hotel' ou o 'rr' de 'carro'.
     *   **Dicas:** Imagine que está limpando óculos com o hálito, mas com muito mais tensão na garganta. Comece sussurrando um 'ahh' e contraia a faringe. Ouvir e imitar são cruciais.
     *   **Exemplos:** **صَحْرَاء** (*ṣa**ḥ**rā’*) [R] - Deserto; **حَيَاة** (*ḥayāh*) [C/D] - Vida; **رِيح** (*rī**ḥ***) [R] - Vento.
 
-*   **(ع) `‘` - IPA /ʕ/ - Fricativa Faríngea Sonora**
+*   **`‘` - STP `‘` - IPA /ʕ/ - Fricativa Faríngea Sonora** (Khatt al-Ibad: **ع**)
     *   **Articulação:** Similar a /ħ/, com constrição da faringe, mas com **vibração** das cordas vocais. É a versão sonora de /ħ/. Para ouvidos não treinados, pode soar como uma vogal gutural profunda e estrangulada.
     *   **Comparação:** Inexistente em português. É frequentemente considerado o som mais difícil do Árabe.
     *   **Dicas:** Tente começar a dizer uma vogal como /a/ e, simultaneamente, contraia fortemente a parte de trás da garganta, como se estivesse sendo levemente estrangulado ou levantando algo pesado. O som deve vir da profundidade da faringe. A imitação de falantes nativos é indispensável.
@@ -366,12 +365,12 @@ Estes são os sons mais característicos e difíceis do Árabe (e, portanto, do 
 
 **2.5.8 Consoantes Glotais (Glote - espaço entre as cordas vocais)**
 
-*   **(ء / أ / إ) `’` - IPA /ʔ/ - Oclusiva Glotal Surda (Hamza)**
+*   **`’` - STP `’` - IPA /ʔ/ - Oclusiva Glotal Surda (Hamza)** (Khatt al-Ibad: **ء / أ / إ**)
     *   **Articulação:** As cordas vocais se fecham completamente, interrompendo o fluxo de ar momentaneamente, e depois se abrem. Sem vibração durante a oclusão.
     *   **Comparação:** Ocorre em português no início de palavras que começam com vogal tônica ("**A**gua!") ou entre vogais em algumas interjeições (como o hífen em "uh-oh!" inglês). Em Chakobsa/Árabe, é um fonema distinto.
     *   **Exemplos:** **مَاء** (*mā**’***) [R] - Água; **مُؤَدِّيب** (*Mu**’**addīb*) [C] - Muad'Dib; **أَنَا** (*’anā*) [R] - Eu (inicia com Hamza).
 
-*   **(ه) `h` - IPA /h/ - Fricativa Glotal Surda (Hā’)**
+*   **`h` - STP `h` - IPA /h/ - Fricativa Glotal Surda (Hā’)** (Khatt al-Ibad: **ه**)
     *   **Articulação:** O ar passa pela glote ligeiramente estreitada, criando uma fricção suave, como um sopro. Sem vibração vocal.
     *   **Comparação:** Como o 'h' no inglês "**h**at", "**h**ome", ou o 'rr' no português brasileiro em algumas regiões ("ca**rr**o"). É muito mais suave que o **`ḥ`** /ħ/ faríngeo.
     *   **Exemplos:** **هُوَ** (*huwa*) [R] - Ele; **ذَهَبَ** (*dhaha**b**a*) [R] - Ele foi; **قَهْوَة** (*qahwah*) [R] - Café.
@@ -380,25 +379,25 @@ Estes são os sons mais característicos e difíceis do Árabe (e, portanto, do 
 
 Estes sons (`ṣ`, `ḍ`, `ṭ`, `ẓ`) são contrapartes de consoantes não-enfáticas (`s`, `d`, `t`, `z`/`dh`). A diferença crucial é uma **articulação secundária**: além da articulação primária (alveolar/dental), a **raiz da língua é retraída em direção à faringe**, e o corpo da língua pode ficar mais achatado ou côncavo. Isso dá aos sons enfáticos uma qualidade mais "escura", "pesada" ou "grave", e afeta notavelmente a pronúncia das vogais adjacentes (especialmente /a/ e /ā/, que soam mais posteriores, como [ɑ] ou [ɒ]). A distinção entre enfático e não-enfático é fonêmica (muda significado).
 
-*   **(ص) `ṣ` - IPA /sˤ/ - Fricativa Alveolar Surda Faringealizada**
+*   **`ṣ` - STP `ṣ` - IPA /sˤ/ - Fricativa Alveolar Surda Faringealizada** (Khatt al-Ibad: **ص**)
     *   **Articulação:** Como /s/, mas com retração da raiz da língua.
     *   **Comparação:** Não existe em português. Imagine dizer /s/ com a garganta mais tensa e a língua mais "achatada".
     *   **Dicas:** A diferença para /s/ é sutil para iniciantes. Foque na qualidade "escura" que ele imprime nas vogais seguintes.
     *   **Exemplos:** **صَحْرَاء** (*ṣaḥrā’*) [R] - Deserto (compare com *sahar* "ficar acordado"); **صَبْر** (*ṣabr*) [R] - Paciência.
 
-*   **(ض) `ḍ` - IPA /dˤ/ - Oclusiva Alveolar Sonora Faringealizada**
+*   **`ḍ` - STP `ḍ` - IPA /dˤ/ - Oclusiva Alveolar Sonora Faringealizada** (Khatt al-Ibad: **ض**)
     *   **Articulação:** Como /d/, mas com retração da raiz da língua.
     *   **Comparação:** Não existe em português. Historicamente, em Árabe, era talvez uma lateral enfática, mas hoje é geralmente pronunciado como /dˤ/.
     *   **Dicas:** Similar ao `ṣ`, foque na qualidade "pesada" e no efeito sobre as vogais.
     *   **Exemplos:** **أَبْيَض** (*abya**ḍ***) [R] - Branco; **الأَرْض** (*al-ar**ḍ***) [R] - A terra.
 
-*   **(ط) `ṭ` - IPA /tˤ/ - Oclusiva Alveolar Surda Faringealizada**
+*   **`ṭ` - STP `ṭ` - IPA /tˤ/ - Oclusiva Alveolar Surda Faringealizada** (Khatt al-Ibad: **ط**)
     *   **Articulação:** Como /t/, mas com retração da raiz da língua.
     *   **Comparação:** Não existe em português. Soa como um /t/ mais "duro" ou "cheio".
     *   **Dicas:** Contraste com /t/. O /ṭ/ tem um impacto mais forte nas vogais.
     *   **Exemplos:** **طَرِيق** (*ṭarīq*) [R] - Caminho; **بَطِيء** (*ba**ṭ**ī’*) [R] - Lento.
 
-*   **(ظ) `ẓ` - IPA /zˤ/ ou /ðˤ/ - Fricativa Dental/Alveolar Sonora Faringealizada**
+*   **`ẓ` - STP `ẓ` - IPA /zˤ/ ou /ðˤ/ - Fricativa Dental/Alveolar Sonora Faringealizada** (Khatt al-Ibad: **ظ**)
     *   **Articulação:** Como /z/ (ou /ð/), mas com retração da raiz da língua. Sua pronúncia exata varia no mundo árabe (/zˤ/ é comum).
     *   **Comparação:** Não existe em português.
     *   **Dicas:** O menos comum dos enfáticos. Pense em um /z/ "pesado" ou /dh/ "pesado".
@@ -577,6 +576,3 @@ Prepare-se para ver as marcas na areia ganharem significado, para transformar os
 **(Exercício 2.8.6: Leitura em Voz Alta)**
 *   Depende da prática oral. Focar na clareza dos sons, distinção vogal longa/curta, guturais/enfáticos e acento conforme as regras.
 
----
-
-**(Fim do Capítulo 2 - Edição Altamente Expandida)**
