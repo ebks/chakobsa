@@ -1,5 +1,3 @@
----
-
 **Capítulo 1: O Chamado das Areias – Introdução ao Chakobsa e aos Fremen**
 
 **(Página de Abertura: Uma citação evocativa sobre linguagem ou segredo do universo de Duna, ou uma imagem estilizada do deserto de Arrakis ao pôr do sol, as dunas marcadas por sombras profundas, talvez com os primeiros caracteres do Khatt al-Ibad pairando como miragens.)**
