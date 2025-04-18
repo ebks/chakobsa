@@ -214,174 +214,233 @@ Estes não são comandos, mas explosões vocais de identidade, fé e desafio, us
 
 **Nota Cultural sobre Comandos e Gritos:** A comunicação em batalha é crucial. A clareza e a autoridade dos comandos do Naib ou líder de esquadrão são absolutas. A obediência é instantânea. Gritos de guerra servem para manter a coesão do grupo sob estresse extremo, focar a agressão e afirmar a superioridade moral e espiritual Fremen sobre seus inimigos "sem água" e "sem alma".
 
-**10.6 Colocando em Prática: Cenários de Combate Simulados (Diálogos Expandidos)**
 
-Estes diálogos mais longos tentam capturar a linguagem tensa e funcional do planejamento e execução de operações militares Fremen, integrando o vocabulário e a gramática marcial.
+Okay, let's integrate the additional requested dialogue scenarios into the expanded Chapter 10, further increasing its detail and practical application examples.
+
+---
+
+**(Continuing Chapter 10 after Section 10.6, adding more dialogues before the Exercises section)**
+
+**10.6 Colocando em Prática: Cenários de Combate e Suas Consequências (Diálogos Expandidos)**
+
+A teoria da guerra e o vocabulário marcial só ganham vida real no contexto da ação e de suas consequências. Os diálogos a seguir tentam capturar a linguagem tensa, funcional e culturalmente carregada de situações comuns ou cruciais na vida guerreira Fremen, integrando o léxico e a gramática que exploramos.
 
 **Cenário 1: Planejando uma Emboscada Noturna contra um Comboio de Especiaria**
-
-*Personagens: Naib do Sietch, Líder Fedaykin experiente (LFE), Batedor Jovem (BJ).*
-
-**النَّايِب:** **(يُنْشِرُ خَرِيطَةً رَمْلِيَّةً) القَافِلَةُ سَتَمُرُّ عَبْرَ هٰذَا المَمَرِّ الضَّيِّقِ قَبْلَ شُرُوقِ القَمَرِ الثَّانِي۔ اَلسَّارْدُوكَارُ يَحْرُسُونَهَا، حَوَالَيْ عِشْرِينَ جُنْدِيًّا مُجَهَّزِينَ بِاللازِ وَ الدُّرُوعِ۔ خُطَّتُنَا يَجِبُ أَنْ تَكُونَ دَقِيقَةً وَ مُمِيتَةً۔**
-*an-Nā’ib: (yunshiru kharīṭatan ramliyyah) al-Qāfilatu sa-tamurru ‘abra hādha l-mamarri ḍ-ḍayyiqi qabla shurūqi l-qamari th-thānī. as-Sārdūkāru yaḥrusūnahā, ḥawālay ‘ishrīna jundiyyan mujahhazīna bil-lāz wa d-durū‘. Khuṭṭatunā yajibu an takūna daqīqatan wa mumītah.* [R/C/D]
-(Naib: (Desenrola um mapa de areia - *kharīṭah ramliyyah*) O comboio (*qāfilah*) passará (*marra/yamurru*) através desta passagem estreita (*ḍayyiq*) antes do nascer da segunda lua. Os Sardaukar a guardam (*ḥarasa*), cerca de (*ḥawālay*) vinte soldados equipados (*mujahhaz*) com Lasguns e escudos. Nosso plano deve ser preciso e mortal (*mumītah*).)
-
-**الـ ل.ف.إ.:** **الكَمِينُ الكَلاسِيكِيُّ هُوَ الأَفْضَلُ هُنَا، يَا نَايِبُ. يُمْكِنُنَا وَضْعُ المُتَفَجِّرَاتِ لِتَعْطِيلِ المَرْكَبَةِ الأُولَى وَ الأَخِيرَةِ، ثُمَّ الهُجُومُ مِنَ المُرْتَفَعَاتِ بِالكَرِيسِ وَ المَوْلَى۔**
-*al-L.F.I.: al-Kamīnu l-klāsīkīyu huwa l-afḍalu hunā, yā Nā’ib. Yumkinunā waḍ‘u l-mutafajjirāti li-ta‘ṭīli l-markabati l-ūlā wa l-akhīrah, thumma l-hujūmu min al-murtafa‘āti bil-krīsi wa l-Mawlā.* [R]
-(LFE: A emboscada clássica é a melhor aqui, ó Naib. Podemos colocar (*waḍ‘*) os explosivos para desativar (*ta‘ṭīl*, masdar F-II) o veículo (*markabah*) primeiro e último, depois o ataque das alturas (*murtafa‘āt*) com o Kris e a Maula.)
-
-**النَّايِب:** **مُوَافِقٌ۔ البَطْءُ هُوَ مِفْتَاحُ اِخْتِرَاقِ الدُّرُوعِ۔ لا تُطْلِقُوا اللازَ تَحْتَ أَيِّ ظَرْفٍ! البَطِدُورُ الشَّابُّ، مَاذَا رَأَيْتَ فِي اِسْتِطْلاعِكَ الأَخِيرِ؟**
-*an-Nā’ib: Muwāfiqun. al-Buṭ’u huwa miftāḥu khtirāqi d-durū‘. Lā tuṭliqū l-lāza taḥta ayyi ẓarf! al-Baṭidūru sh-shābb, mādhā ra’ayta fī stiṭlā‘ika l-akhīr?* [R]
-(Naib: Concordo. A lentidão é a chave (*miftāḥ*) da penetração dos escudos. Não disparem (*aṭlaqa* F-IV imp. pl. negado) o Lasgun sob nenhuma circunstância (*ẓarf*)! Jovem Batedor, o que você viu em seu último reconhecimento?)
-
-**الـ ب.ج.:** **(بِصَوْتٍ مُنْخَفِضٍ وَ سَرِيعٍ) رَصَدْتُ نُقَطَ ضَعْفٍ فِي تَشْكِيلَتِهِمْ الدِّفَاعِيَّةِ عِنْدَ المُنْعَطَفِ۔ فَقَطْ حَارِسَانِ يُرَاقِبَانِ الجَانِبَ الشَّرْقِيَّ۔ يَبْدُو أَنَّهُمْ مُتْعَبُونَ وَ غَيْرُ مُنْتَبِهِينَ۔**
-*al-B.J.: (bi-ṣawtin munkhafiḍin wa sarī‘in) Raṣadtu nuqaṭa ḍa‘fin fī tashkīlatihim id-difā‘iyyah ‘inda l-mun‘aṭaf. Faqaṭ ḥārisāni yurāqibāni l-jāniba sh-sharqīy. Yabdū annahum mut‘abūna wa ghayru muntabihīn.* [R]
-(BJ: (Com voz baixa e rápida) Eu monitorei (*raṣada*) pontos de fraqueza (*nuqaṭ ḍa‘f*) em sua formação defensiva (*difā‘īy*) na curva (*mun‘aṭaf*). Apenas dois guardas vigiam o lado leste (*sharqīy*). Parece (*badā*) que eles estão cansados e desatentos (*ghayr muntabih*).)
-
-**النَّايِب:** **جَيِّدٌ جِدًّا۔ الفَرِيقُ (أ) سَيُحَيِّدُ الحَارِسَيْنِ بِالمَوْلَى. الفَرِيقُ (ب) يَزْرَعُ المُتَفَجِّرَاتِ. الجَمِيعُ يَنْتَظِرُ إِشَارَتِي - صَوْتُ البُومَةِ الصَّحْرَاوِيَّةِ ثَلاثَ مَرَّاتٍ. بَعْدَ ذٰلِكَ، الهُجُومُ كَالعَاصِفَةِ! لا رَحْمَةَ، لا أَسْرَى! اِسْتَعِدُّوا لِإِرْسَالِ أَرْوَاحِهِمْ إِلَى أَجْدَادِهِمْ!‏**
-*an-Nā’ib: Jayyidun jiddan. al-Farīqu (A) sa-yuḥayyidu l-ḥārisayni bil-Mawlā. al-Farīqu (B) yazra‘u l-mutafajjirāt. al-Jamī‘u yantaẓiru ishāratī - ṣawtu l-būmati ṣ-ṣaḥrāwiyyah thalātha marrāt. Ba‘da dhālika, al-hujūmu kal-‘āṣifah! Lā raḥmata, lā asrā! Ista‘iddū li-irsāli arwāḥihim ilā ajdādihim!* [R]
-(Naib: Muito bom. O Time (A) neutralizará (*ḥayyada* F-II fut.) os dois guardas com a Maula. O Time (B) planta (*zara‘a*) os explosivos. Todos esperam meu sinal - o som da coruja do deserto (*būmah ṣaḥrāwiyyah*) três vezes (*marrāt*). Depois disso, o ataque como a tempestade! Sem piedade, sem prisioneiros! Preparem-se (*ista‘adda* F-X imp. pl.) para enviar (*irsāl*, masdar F-IV) suas almas para seus ancestrais!)
-
-**الجَمِيع:** **يَحْيَى الشُّهَدَاء!‏**
-*al-Jamī‘: Yaḥyā sh-shuhadā’!* [C]
-(Todos: Longa vida aos Mártires!)
+*(Diálogo já expandido na resposta anterior)*
 
 **Cenário 2: Defesa Urgente de uma Entrada do Sietch**
+*(Diálogo já expandido na resposta anterior)*
 
-*Personagens: Líder da Guarda (LG), Guerreiro (G1), Guerreira (G2).*
+**Cenário 3: O Duelo Tahaddi (Desafio do Crysknife)**
+*Contexto: Jamis desafiou Paul (Usul) formalmente após uma infração percebida da lei Fremen. O duelo está prestes a começar, supervisionado por Stilgar (Naib).*
 
-**الـ ل.غ.:** **(يَصْرُخُ) اِخْتِرَاقٌ! اِخْتِرَاقٌ عِنْدَ البَابِ الشِّمَالِيِّ! سَارْدُوكَار! الجَمِيعُ إِلَى مَوَاقِعِكُمْ!‏**
-*al-L.Gh.: (yaṣrukhu) Ikhtirāq! Ikhtirāq ‘inda l-bābi sh-shimālīy! Sārdūkār! al-Jamī‘u ilā mawāqi‘ikum!* [R/C]
-(LG: (Grita - *ṣarakha*) Invasão (*ikhtirāq*)! Invasão na porta norte (*shimālīy*)! Sardaukar! Todos para suas posições (*mawqi‘* pl. *mawāqi‘*)!)
+**سْتِيلْغار:** **(يَقِفُ بَيْنَهُمَا) هَلْ أَنْتُمَا مُسْتَعِدَّانِ لِتَحَدِّي البُرْهَانِ؟ لا رُجُوعَ الآنَ. القَانُونُ وَاضِحٌ: يُقَرِّرُ الكَرِيسُ الحَقَّ، وَ المَاءُ يَعُودُ إِلَى القَبِيلَةِ۔**
+*Stīlghār: (yaqifu baynahumā) Hal antumā musta‘iddāni li-Taḥaddī l-Burhān? Lā rujū‘a l-āna. al-Qānūnu wāḍiḥun: Yuqarriru l-Krīsu l-ḥaqqa, wa l-mā’u ya‘ūdu ilā l-qabīlah.* [R/C/D]
+(Stilgar: (Fica entre eles) Vocês dois (*antumā*, dual) estão prontos para o Desafio da Prova? Não há retorno (*rujū‘*) agora. A lei é clara: O Kris decide (*qarrara*) a verdade/direito (*ḥaqq*), e a água retorna (*‘āda*) à tribo.)
 
-**الـ غ1:** **(يُطْلِقُ المَوْلَى) إِنَّهُمْ كَثِيرُونَ! يَسْتَخْدِمُونَ قَنَابِلَ صَوْتِيَّةً لِتَشْوِيشِنَا!‏**
-*al-Gh1: (yuṭliqu l-Mawlā) Innahum kathīrūn! Yastakhdimūna qanābila ṣawtiyyatan li-tashwīshinā!* [R]
-(G1: (Dispara a Maula) Eles são muitos! Usam granadas sônicas (*qanābil ṣawtiyyah*) para nossa confusão (*tashwīsh*)!)
+**جَامِيس:** **(يَنْظُرُ إِلَى بُولَ بِغَضَبٍ) مُسْتَعِدٌّ. هٰذَا الأَجْنَبِيُّ أَهَانَ عَادَاتِنَا. سَيَدْفَعُ الثَّمَنَ بِمَائِهِ۔**
+*Jamīs: (yanẓuru ilā Būla bi-ghaḍabin) Musta‘iddun. Hādha l-ajnabīyu ahāna ‘ādātinā. Sa-yadfa‘u th-thamana bi-mā’ihi.* [R]
+(Jamis: (Olha para Paul com raiva - *ghaḍab*) Pronto. Este forasteiro insultou (*ahāna* F-IV) nossos costumes (*‘ādāt*). Ele pagará (*dafa‘a*) o preço com sua água.)
 
-**الـ ل.غ.:** **اُثْبُتُوا! اِسْتَخْدِمُوا المَمَرَّاتِ الضَّيِّقَةَ لِصَالِحِكُمْ! لا تَدَعُوهُمْ يَتَقَدَّمُونَ! يَا (غ2)، خُذِي رَجُلَيْنِ وَ اِلْتَفِّي حَوْلَهُمْ مِنَ النَّفَقِ الجَانِبِيِّ!‏**
-*al-L.Gh.: Uthbutū! Ista‘milū l-mamarrāti ḍ-ḍayyiqah li-ṣāliḥikum! Lā tada‘ūhum yataqaddamūn! Yā (Gh2), khudhī rajulayni wa ltaffī ḥawlahum min an-nafaq al-jānibīy!* [R]
-(LG: Mantenham-se firmes (*thabata* imp. pl.)! Usem as passagens estreitas a seu favor (*li-ṣāliḥikum*)! Não os deixem (*wada‘a* imp. pl. negado) avançar (*taqaddama* F-V)! Ó (G2), pegue (*akhadha* imp. fem.) dois homens e flanqueie (*iltaffa ḥawla* F-VIII imp. fem.) ao redor deles pelo túnel lateral (*jānibīy*)!)
+**بُول (أُصُول):** **(بِهُدُوءٍ وَ تَرْكِيزٍ) أَقْبَلُ التَّحَدِّيَ، لَيْسَ لِأَنَّنِي أَهَنْتُ شَيْئًا، بَلْ لِأَنَّ القَانُونَ يَتَطَلَّبُ ذٰلِكَ. لٰكِنْ، أَسْأَلُ: هَلِ القَتْلُ هُوَ الطَّرِيقَةُ الوَحِيدَةُ؟**
+*Būl (Uṣūl): (bi-hudū’in wa tarkīzin) Aqbalu t-taḥaddiya, laysa li-annanī ahantu shay’an, bal li-anna l-qānūna yataṭallabu dhālika. Lākin, as’alu: Hal il-qatlu huwa ṭ-ṭarīqatu l-waḥīdah?* [R/C]
+(Paul (Usul): (Com calma e concentração - *tarkīz*) Aceito (*qabila*) o desafio, não porque (*li-anna*) eu insultei algo, mas sim porque a lei exige (*taṭallaba* F-V) isso. Mas, eu pergunto: a matança é a única maneira (*ṭarīqah waḥīdah*)?)
 
-**الـ غ2:** **أَمْرُكَ يَا قَائِدُ! (تَصْرُخُ لِلآخَرِينَ) مَعِي! بِسُرْعَةٍ! اِحْمُوا ظُهُورَنَا!‏**
-*al-Gh2: Amruka yā qā’id! (taṣrukhu lil-ākharīn) Ma‘ī! Bi-sur‘ah! Iḥmū ẓuhūranā!* [R]
-(G2: Sua ordem, ó comandante! (Grita para os outros) Comigo! Rapidamente! Protejam (*ḥamā* imp. pl.) nossas costas (*ẓuhūr*)!)
+**سْتِيلْغار:** **(بِصَرَامَةٍ) عِنْدَمَا يُسَلُّ الكَرِيسُ فِي تَحَدٍّ، يَجِبُ أَنْ يَسِيلَ الدَّمُ. إِمَّا دَمُكَ أَوْ دَمُهُ. لا خِيَارَ آخَرَ. الآنَ، اِبْدَأُوا! فَلْيَحْكُمْ الصَّانِعُ!‏**
+*Stīlghār: (bi-ṣarāmah) ‘Indamā yusallu l-Krīsu fī taḥaddin, yajibu an yasīla d-damu. Immā damuka aw damuhu. Lā khiyāra ākhar. Al-āna, ibda’ū! Fal-yaḥkum aṣ-Ṣāni‘!* [R/C]
+(Stilgar: (Com severidade - *ṣarāmah*) Quando o Kris é desembainhado (*salla* passivo *yusallu*) em um desafio, o sangue deve fluir (*sāla/yasīlu*). Ou (*immā... aw...*) seu sangue (masc.) ou o sangue dele. Não há outra escolha (*khiyār ākhar*). Agora, comecem (*bada’a* imp. pl.)! Que o Criador julgue (*ḥakama* Jussivo com *fa-li-*))!
 
-**(Mais diálogos poderiam ilustrar: um duelo Tahaddi; tratamento de feridos após combate; discussão sobre táticas contra Lasguns; interrogatório de um prisioneiro - talvez com foco na água).**
+**Cenário 4: Tratamento de Feridos Após um Combate**
+*Contexto: Em uma área de triagem improvisada no sietch após uma incursão.*
+*Personagens: Sayyadina (atuando como curandeira), Guerreiro Ferido (GF), Assistente (A).*
+
+**السَّيِّدِينَا:** **(تَفْحَصُ جُرْحًا فِي ذِرَاعِ المُحَارِبِ) الجُرْحُ عَمِيقٌ، لٰكِنَّ العَظْمَ سَلِيمٌ. فَقَدْتَ بَعْضَ الدَّمِ، لٰكِنْ لَيْسَ كَثِيرًا۔ اَلأَلَمُ شَدِيدٌ؟**
+*as-Sayyidīnā: (tafḥaṣu jurḥan fī dhirā‘i l-muḥārib) al-Jurḥu ‘amīqun, lākinna l-‘aẓma salīmun. Faqadta ba‘ḍa d-dam, lākin laysa kathīran. al-Alamu shadīd?* [R]
+(Sayyadina: (Examina - *faḥaṣa* - um ferimento - *jurḥ* - no braço - *dhirā‘* - do guerreiro) O ferimento é profundo (*‘amīq*), mas o osso (*‘aẓm*) está intacto (*salīm*). Você (masc.) perdeu algum sangue, mas não muito. A dor (*alam*) é intensa?)
+
+**الـ غ.ف.:** **(يَتَأَلَّمُ) نَعَمْ يَا سَيِّدِينَا... كَالنَّارِ۔ هَلْ سَأَفْقِدُ ذِرَاعِي؟**
+*al-Gh.F.: (yata’allamu) Na‘am yā Sayyidīnā... kal-nār. Hal sa-afqidu dhirā‘ī?* [R]
+(GF: (Sente dor - *ta’allama* F-V) Sim, ó Sayyadina... como fogo. Eu perderei meu braço?)
+
+**السَّيِّدِينَا:** **لا، لا تَخَفْ. بِعِنَايَةِ اللهِ وَ بِبَعْضِ الأَعْشَابِ المُطَهِّرَةِ، سَتُشْفَى. (لِلمُسَاعِدِ) أَحْضِرْ لِي المَاءَ النَّقِيَّ وَ الضِّمَادَاتِ، وَ مَسْحُوقَ الجَذْرِ الأَحْمَرِ۔ بِسُرْعَةٍ!‏**
+*as-Sayyidīnā: Lā, lā takhaf. Bi-‘ināyati-llāhi wa bi-ba‘ḍi l-a‘shābi l-muṭahhirah, sa-tushfā. (lil-Musā‘id) Aḥḍir lī l-mā’a n-naqīya wa ḍ-ḍimādāt, wa masḥūqa l-jadhri l-aḥmar. Bi-sur‘ah!* [R]
+(Sayyadina: Não, não tema. Com o cuidado (*‘ināyah*) de Deus e com algumas ervas purificadoras (*muṭahhir* F-II Part.Ativo), você será curado (*shafā* F-I passivo fut. *sa-tushfā*). (Para o Assistente) Traga (*aḥḍara* F-IV imp.) para mim a água pura e as ataduras (*ḍimādah* pl. *ḍimādāt*), e o pó (*masḥūq*) da raiz (*jadhr*) vermelha. Rapidamente!)
+
+**المُسَاعِد:** **حَاضِرٌ يَا سَيِّدِينَا۔**
+*al-Musā‘id: Ḥāḍirun yā Sayyidīnā.* [R]
+(Assistente: Presente/Pronto, ó Sayyadina.)
+
+**السَّيِّدِينَا:** **(لِلغ.ف.) اِصْبِرْ قَلِيلاً. هٰذَا قَدْ يُؤْلِمُ أَكْثَرَ فِي البِدَايَةِ، لٰكِنَّهُ سَيُنَظِّفُ الجُرْحَ وَ يَمْنَعُ الالْتِهَابَ۔ حَافِظْ عَلَى قُوَّتِكَ۔ القَبِيلَةُ تَحْتَاجُ إِلَيْكَ۔**
+*as-Sayyidīnā: (lil-Gh.F.) Iṣbir qalīlan. Hādha qad yu’limu akthara fī l-bidāyah, lākinnhu sa-yunaẓẓifu l-jurḥa wa yamna‘u l-iltihāb. Ḥāfiẓ ‘alā quwwatik. al-Qabīlah taḥtāju ilayk.* [R]
+(Sayyadina: (Para o GF) Seja paciente (*ṣabara* imp.) um pouco. Isto talvez doa (*’alama* F-IV) mais no início (*bidāyah*), mas limpará (*naẓẓafa* F-II) o ferimento e prevenirá (*mana‘a*) a infecção (*iltihāb*). Conserve (*ḥāfaẓa ‘alā* F-III imp.) sua força. A tribo precisa de você.)
+
+**Cenário 5: Discussão sobre Táticas Contra Lasguns e Escudos**
+*Contexto: Após uma batalha onde sofreram perdas devido à combinação Lasgun-Escudo.*
+*Personagens: Líder de Esquadrão (LE), Guerreira Experiente (GE).*
+
+**الـ ل.إ.:** **(بِإِحْبَاطٍ) فَقَدْنَا ثَلاثَةَ مُحَارِبِينَ اليَوْمَ بِسَبَبِ تِلْكَ الاِنْفِجَارَاتِ اللَّعِينَةِ! يَجِبُ أَنْ نَجِدَ طَرِيقَةً أَفْضَلَ لِلتَّعَامُلِ مَعَ الدُّرُوعِ وَ اللازِ۔**
+*al-L.I.: (bi-iḥbāṭin) Faqadnā thalāthata muḥāribīna l-yawma bi-sababi tilka l-infijārāti l-la‘īnah! Yajibu an najida ṭarīqatan afḍala lit-ta‘āmuli ma‘a d-durū‘i wa l-lāz.* [R]
+(LE: (Com frustração - *iḥbāṭ*) Perdemos três guerreiros hoje por causa daquelas explosões malditas! Devemos encontrar uma maneira (*ṭarīqah*) melhor para lidar (*ta‘āmul*, masdar F-VI) com os escudos e o Lasgun.)
+
+**الـ غ.إ.:** **الهُجُومُ المُبَاشِرُ ضِدَّ خَطٍّ مُدَرَّعٍ هُوَ الجُنُونُ بِعَيْنِهِ. عَلَيْنَا أَنْ نَعُودَ إِلَى الأُصُولِ: الكَمِينُ، السُّرْعَةُ، الاِسْتِغْلالُ الذَّكِيُّ لِلأَرْضِ۔**
+*al-Gh.I.: al-Hujūmu l-mubāshiru ḍidda khaṭṭin mudarra‘in huwa l-junūnu bi-‘aynih. ‘Alaynā an na‘ūda ilā l-uṣūl: al-kamīnu, as-sur‘atu, al-istighlālu dh-dhakīyu lil-arḍ.* [R]
+(GE: O ataque direto contra uma linha blindada (*khaṭṭ mudarra‘*) é a loucura (*junūn*) em si (*bi-‘aynih*). Devemos retornar (*‘āda*) aos fundamentos (*uṣūl*): a emboscada, a velocidade, a exploração inteligente (*istighlāl dhakīy*) do terreno.)
+
+**الـ ل.إ.:** **لٰكِنْ، حَتَّى فِي الكَمِينِ، إِذَا نَشَرَ العَدُوُّ حُرَّاسًا مُدَرَّعِينَ بِشَكْلٍ جَيِّدٍ، فَإِنَّ الاِقْتِرَابَ لِلطَّعْنِ بِالكَرِيسِ يَكُونُ خَطِيرًا۔ وَ المَوْلَى مَدَاهَا قَصِيرٌ۔**
+*al-L.I.: Lākin, ḥattā fī l-kamīn, idhā nashara l-‘aduwwu ḥurrāsan mudarra‘īna bi-shaklin jayyidin, fa-inna l-qtirāba liṭ-ṭa‘ni bil-krīsi yakūnu khaṭīran. Wa l-Mawlā madāhā qaṣīr.* [R]
+(LE: Mas, mesmo na emboscada, se o inimigo posicionar (*nashara*) guardas blindados de forma boa, então a aproximação (*qtirāb*) para a estocada com o Kris torna-se perigosa. E a Maula, seu alcance (*madā*) é curto.)
+
+**الـ غ.إ.:** **رُبَّمَا عَلَيْنَا أَنْ نُجْبِرَهُمْ عَلَى تَعْطِيلِ دُرُوعِهِمْ؟ اِسْتِدْرَاجُهُمْ إِلَى مَنَاطِقَ يُمْكِنُ أَنْ يَظْهَرَ فِيهَا الصَّانِعُ؟ أَوْ اِسْتِخْدَامُ مُتَفَجِّرَاتٍ صَغِيرَةٍ لِخَلْقِ الفَوْضَى وَ فَتْحِ الثَّغَرَاتِ؟**
+*al-Gh.I.: Rubbamā ‘alaynā an nujbirahum ‘alā ta‘ṭīli durū‘ihim? Istidrājuhum ilā manāṭiqa yumkinu an yaẓhara fīhā ṣ-Ṣāni‘? Aw istikhdāmu mutafajjirātin ṣaghīratin li-khalqi l-fawḍā wa fatḥi th-thagharāt?* [R]
+(GE: Talvez devamos forçá-los (*ajbara ‘alā* F-IV) a desativar (*ta‘ṭīl*) seus escudos? Atraí-los (*istidrāj*) para áreas onde o Criador pode aparecer? Ou o uso de explosivos pequenos para criar o caos (*fawḍā*) e abrir brechas (*thagharah* pl. *thagharāt*)?)
+
+**الـ ل.إ.:** **(يُفَكِّرُ) أَفْكَارٌ جَيِّدَةٌ... تَحْتَاجُ إِلَى تَخْطِيطٍ دَقِيقٍ۔ لِنُنَاقِشْ هٰذِهِ الخِيَارَاتِ مَعَ النَّايِبِ۔**
+*al-L.I.: (yufakkiru) Afkārun jayyidah... Taḥtāju ilā takhṭīṭin daqīq. Li-nunāqish hādhihi l-khiyārāt ma‘a n-Nā’ib.* [R]
+(LE: (Pensa - *fakkara* F-II) Boas ideias (*fikrah* pl. *afkār*)... Precisam de planejamento (*takhṭīṭ*) preciso. Discutamos (*nāqasha* F-III Juss. com *li-*) estas opções (*khiyār* pl. *khiyārāt*) com o Naib.)
+
+**Cenário 6: Interrogatório de um Prisioneiro Harkonnen (Foco na Água)**
+*Contexto: Um soldado Harkonnen capturado, fraco e desidratado, é interrogado.*
+*Personagens: Interrogador Fremen (IF), Prisioneiro Harkonnen (PH).*
+
+**الـ إ.ف.:** **(يُقَدِّمُ قَطْرَةَ مَاءٍ عَلَى طَرَفِ سِكِّينٍ) اِشْرَبْ. قَلِيلٌ فَقَطْ. نَحْنُ لَسْنَا مُتَوَحِّشِينَ مِثْلَ أَسْيَادِكَ الهَارْكُونِنِ۔**
+*al-I.F.: (yuqaddimu qaṭrata mā’in ‘alā ṭarafi sikkīn) Ishrab. Qalīlun faqaṭ. Naḥnu lasnā mutawaḥḥishīna mithla asyādika l-Hārkūnin.* [R]
+(IF: (Oferece uma gota d'água na ponta de uma faca) Beba. Apenas um pouco. Nós não somos selvagens (*mutawaḥḥish*) como seus mestres (*sayyid* pl. *asyād*) Harkonnen.)
+
+**الـ س.هـ.:** **(يَلْعَقُ المَاءَ بِجَشَعٍ) مَ... مَاء... أَكْثَر... أَرْجُوكَ...‏**
+*al-S.H.: (yal‘aqu l-mā’a bi-jasha‘in) Ma... Mā’... Akthar... Arjūk...* [R]
+(PH: (Lambe a água com avidez - *jasha‘*) Á... Água... Mais... Eu te imploro...)
+
+**الـ إ.ف.:** **الصَّبْرُ. المَاءُ لَهُ ثَمَنٌ هُنَا، حَتَّى لِلأَسْرَى۔ أَخْبِرْنِي عَنْ تَحَرُّكَاتِ قُوَّاتِكُمْ فِي القِطَاعِ الجَنُوبِيِّ. كَمْ عَدَدُكُمْ؟ مَا هِيَ أَسْلِحَتُكُمْ؟ أَيْنَ تُخَزِّنُونَ مَاءَكُمْ؟**
+*al-I.F.: aṣ-Ṣabr. al-Mā’u lahu thamanun hunā, ḥattā lil-asrā. Akhbirnī ‘an taḥarrukāti quwwātikum fī l-qiṭā‘i l-janūbīy. Kam ‘adadukum? Mā hiya asliḥatukum? Ayna tukhazzinūna mā’akum?* [R]
+(IF: Paciência. A água tem um preço aqui, mesmo para os prisioneiros (*asrā*). Informe-me (*akhbara* F-IV imp. + *nī*) sobre os movimentos (*taḥarrukāt*) de suas forças (*quwwāt*) no setor (*qiṭā‘*) sul (*janūbīy*). Qual é o seu número (*‘adad*)? Quais são suas armas? Onde vocês armazenam (*khazzana* F-II) sua água?)
+
+**الـ س.هـ.:** **(يَتَرَدَّدُ) لا... لا أَسْتَطِيعُ... سَيَقْتُلُونَنِي...‏**
+*al-S.H.: (yataraddadu) Lā... Lā astaṭī‘u... Sa-yaqtulūnanī...* [R]
+(PH: (Hesita - *taraddada* F-V) Não... não posso... Eles me matarão...)
+
+**الـ إ.ف.:** **(يُقَرِّبُ السِّكِّينَ مِنْ جَفْنِ عَيْنِهِ) عَدَمُ الكَلامِ سَيَقْتُلُكَ أَسْرَعَ، وَ بِطَرِيقَةٍ أَكْثَرَ جَفَافًا. لَيْسَ لَدَيْكَ الكَثِيرُ مِنَ المَاءِ لِتَفْقِدَهُ. تَكَلَّمْ، وَ رُبَّمَا تَعِيشُ لِتَرَى شُرُوقًا آخَرَ. اَلسُّؤَالُ الأَخِيرُ: أَيْنَ بِئْرُكُمْ السِّرِّيَّةُ لِلمَاءِ؟**
+*al-I.F.: (yuqarribu s-sikkīna min jafni ‘aynih) ‘Adamu l-kalāmi sa-yaqtuluka asra‘, wa bi-ṭarīqatin akthara jafāfan. Laysa ladayka l-kathīru min al-mā’i li-tafqidah. Takallam, wa rubbamā ta‘īshu li-tarā shurūqan ākhar. as-Su’ālu l-akhīr: Ayna bi’rukumu s-sirriyyatu lil-mā’?* [R]
+(IF: (Aproxima a faca da pálpebra - *jafn* - de seu olho) A falta de fala (*‘adam al-kalām*) te matará mais rápido (*asra‘*), e de uma maneira (*ṭarīqah*) mais seca (*jafāf* = secura). Você não tem (*laysa ladayka*) muita água para perder (*li-tafqidahu* subj.). Fale, e talvez você viva para ver outro nascer do sol (*shurūq*). A última pergunta: Onde (está) seu poço (*bi’r*) secreto para água?)
 
 **10.7 Exercícios Expansivos e Integrados sobre Combate e Guerra**
 
-Estes exercícios foram projetados para testar sua compreensão aprofundada do vocabulário marcial, tático e dos comandos de batalha introduzidos neste capítulo.
+Estes exercícios foram projetados para testar sua compreensão aprofundada do vocabulário marcial, tático e dos comandos de batalha introduzidos neste capítulo, exigindo aplicação em contextos complexos.
 
-**(A): Nomenclatura de Armas e Tecnologia**
-Associe o termo Chakobsa à sua descrição técnica ou tática mais precisa.
+**(A): Nomenclatura de Armas e Tecnologia (Expandido)**
+Descreva brevemente a função tática principal e uma vulnerabilidade chave para cada item, usando termos Chakobsa quando possível.
 
-| Coluna 1 (Chakobsa)                          | Coluna 2 (Descrição Técnica/Tática)                                                               |
-| :------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| 1. **سِكِّينُ الكَرِيس** (*Sikkīn al-Kris*) [R/D] | a) Arma de energia padrão imperial, letal contra não-escudados, perigosa contra escudos.        |
-| 2. **مُسَدَّسُ المَوْلَى** (*Musaddas al-Mawlā*) [R]| b) Campo de energia defensivo vulnerável a penetração lenta e interação com Lasgun.           |
-| 3. **مُسَدَّسُ اللاز** (*Musaddas al-Lāz*) [R]   | c) Lâmina sagrada de dente de verme, eficaz contra escudos se usada com habilidade específica. |
-| 4. **دِرْع جَسَدِيّ** (*Dir‘ jasadīy*) [R]       | d) Dispositivo que emite som rítmico para atrair Vermes da Areia.                              |
-| 5. **خُطَّافَاتُ الصَّانِعِ** (*Khuṭṭāfāt aṣ-ṣāni‘*)[R]| e) Arma de projétil por mola/gás, dispara dardos lentos, ideal contra escudos a curta distância. |
-| 6. **مِدَقَّة** (*Midaqqah*) [R]                | f) Ferramenta especializada para montar e direcionar Vermes da Areia gigantes.                    |
+1.  **دِرْع جَسَدِيّ** (*Dir‘ jasadīy*) [R]
+2.  **سِكِّين الكَرِيس (ثَابِتَة)** (*Sikkīn al-Kris (thābitah)*) [R/D]
+3.  **مُسَدَّس اللاز** (*Musaddas al-Lāz*) [R]
+4.  **مُسَدَّس المَوْلَى** (*Musaddas al-Mawlā*) [R]
+5.  **مِدَقَّة** (*Midaqqah*) [R]
 
-**(B): Termos Táticos e Estratégicos**
-Complete as frases com o termo tático ou estratégico Chakobsa mais apropriado. Escreva em Khatt al-Ibad e STP.
+**(B): Conceitos Táticos e Estratégicos (Análise)**
+Explique os seguintes conceitos táticos Fremen em português, destacando por que são eficazes em Arrakis e mencionando termos Chakobsa relevantes.
 
-*Lista:* **كَمِين** (*kamīn*), **غَارَة** (*ghārah*), **اِنْسِحَاب** (*insiḥāb*), **جِهَاد** (*jihād*), **تَمْوِيه** (*tamwīh*), **اِسْتِطْلاع** (*istiṭlā‘*), **حِصَار** (*ḥiṣār*), **مَعْرَكَة** (*ma‘rakah*).
+1.  A importância do **كَمِين** (*kamīn*) e seus elementos chave.
+2.  A lógica por trás do **اِنْسِحَاب تَكْتِيكِيّ** (*insiḥāb taktīkīy*).
+3.  Como os Fremen exploram a vulnerabilidade da interação **لاز-دِرْع** (*lāz-dir‘*).
+4.  O significado da **غَنِيمَة** (*ghanīmah*), especialmente em relação à água.
+5.  O propósito e o impacto psicológico da **غَارَة** (*ghārah*).
 
-1.  A melhor defesa contra um inimigo superior em número é frequentemente um ______ bem executado.
-2.  A ______ liderada por Muad'Dib mudou o destino do universo conhecido.
-3.  Antes de qualquer ataque, um ______ cuidadoso é essencial para identificar as fraquezas do inimigo.
-4.  A ______ rápida sobre o posto avançado Harkonnen nos rendeu água e armas preciosas.
-5.  Sob fogo pesado e sem chance de vitória, o Naib ordenou um ______ tático para preservar vidas Fremen.
-6.  O ______ do sietch inimigo durou muitas luas, testando a paciência e os recursos de ambos os lados.
-7.  Um bom ______ usando mantos e o terreno é crucial para não ser detectado antes da emboscada.
-8.  A ______ final pela posse da ponte foi feroz e custou muitas vidas.
+**(C): Formulação de Comandos Complexos**
+Traduza os seguintes comandos complexos para Chakobsa (Khatt al-Ibad e STP), prestando atenção à pessoa, número e gênero.
 
-**(C): Comandos de Batalha (Flexão e Uso)**
-Traduza os seguintes comandos para Chakobsa, prestando atenção à pessoa e número indicados. Use Khatt al-Ibad e STP.
+1.  Avancem (Masc. Pl.) silenciosamente até as rochas e esperem meu sinal!
+2.  Não usem (Fem. Pl.) os Lasguns; usem as Maulas e os Krises!
+3.  Defenda (Fem. Sg.) esta entrada do sietch com sua vida!
+4.  Retirem-se (Masc. Pl.) para o ponto de encontro (*nuqṭat al-iltiqā’*) imediatamente!
+5.  Mate (Masc. Sg.) o oficial Harkonnen primeiro, depois neutralize (*ḥayyid*) os guardas!
 
-1.  Espere (Fem. Sg.) pelo meu sinal!
-2.  Não matem (Masc. Pl.) os prisioneiros!
-3.  Defenda (Masc. Sg.) esta passagem!
-4.  Sigam-me (Fem. Pl.) silenciosamente!
-5.  Dispersem (Masc. Pl.) e procurem (*ibḥathū ‘an*) cobertura (*sitr*)!
+**(D): Identificação e Contextualização de Termos**
+Para cada termo Chakobsa, forneça seu significado e explique seu papel ou contexto específico na guerra Fremen.
 
-**(D): Identificação de Inimigos e Aliados**
-Responda às perguntas em português com base no vocabulário e contexto cultural.
+1.  **أَسِير** (*Asīr*) [R]
+2.  **جِهَاد** (*Jihād*) [C]
+3.  **طَلِيعَة** (*Ṭalī‘ah*) [R]
+4.  **خُطَّة** (*Khuṭṭah*) [R]
+5.  **يَحْيَى الشُّهَدَاء!‏** (*Yaḥyā sh-shuhadā’*) [C]
 
-1.  Quem são os **الهَارْكُونِن** (*al-Hārkūnin*) e qual a percepção Fremen sobre eles?
-2.  Qual a principal diferença tática entre um **مُسَدَّسُ المَوْلَى** (*Musaddas al-Mawlā*) e um **مُسَدَّسُ اللاز** (*Musaddas al-Lāz*) em relação aos escudos?
-3.  Por que os **السَّارْدُوكَار** (*as-Sārdūkār*) são inimigos particularmente temidos, e por que os Fremen se orgulham de derrotá-los?
-4.  Qual o significado cultural da palavra **غَنِيمَة** (*Ghanīmah*) para os Fremen?
-5.  O que o termo **خَائِن** (*Khā’in*) implica na sociedade Fremen e qual seria sua punição provável?
+**(E): Análise de Cenário Tático**
+Leia o seguinte cenário e responda às perguntas em português, usando termos Chakobsa quando apropriado:
+*"Uma pequena unidade Fedaykin (**فِدَائِيُّون**) está posicionada para uma emboscada (**كَمِين**) noturna contra uma colheitadeira de especiaria Harkonnen escoltada por dois ornitópteros leves e uma patrulha terrestre de seis soldados com escudos (**دُرُوع**) e Lasguns (**لاز**). O objetivo é destruir a colheitadeira (**الحَصَّادَة** - *al-ḥaṣṣādah*) e capturar água/armas, minimizando perdas Fremen."*
 
-**(E): Análise Tática Fremen**
-Com base no vocabulário e conceitos apresentados (emboscada, incursão, uso do ambiente, guerra de atrito, retirada estratégica, combate contra escudos), escreva um parágrafo em português explicando os princípios fundamentais da doutrina militar Fremen e como sua linguagem reflete essa abordagem.
+1.  Qual seria a tática Fremen mais provável para iniciar o ataque e por quê?
+2.  Que armas Fremen seriam mais eficazes contra a patrulha terrestre escudada?
+3.  Qual é o maior perigo que os Fremen enfrentam dos escoltas (ornitópteros e patrulha)?
+4.  Que tipo de comando o líder Fedaykin poderia dar para iniciar a fase de retirada (*insiḥāb*)?
+5.  Qual seria o principal tipo de **غَنِيمَة** (*ghanīmah*) buscado nesta operação, além da destruição da colheitadeira?
 
-**(F): Criação de Cenário de Combate**
-Descreva uma breve cena de combate (3-5 frases) em Chakobsa, utilizando vocabulário de armas, táticas e comandos deste capítulo. Exemplo: Uma pequena unidade Fedaykin emboscando uma patrulha Sardaukar em um cânion estreito.
+**(F): Criação de Relatório de Batalha**
+Escreva um breve relatório (4-6 frases) em Chakobsa, como se fosse um líder Fedaykin reportando ao Naib após uma incursão bem-sucedida. Mencione o alvo, a tática usada, as perdas inimigas, as perdas próprias (se houver) e os espólios obtidos.
 
-**(G): Tradução Complexa (Chakobsa ↔ Português)**
+**(G): Tradução Avançada (Chakobsa ↔ Português)**
 
 **(Chakobsa → Português):**
-1.  **"يُعَلِّمُنَا النَّايِبُ أَنَّ أَفْضَلَ دِفَاعٍ هُوَ الهُجُومُ الخَاطِفُ وَ المَعْرِفَةُ العَمِيقَةُ بِالصَّحْرَاءِ۔"** (*Yu‘allimunā n-Nā’ibu anna afḍala difā‘in huwa l-hujūmu l-khāṭifu wa l-ma‘rifatu l-‘amīqatu biṣ-ṣaḥrā’.*) [R/D] (*khāṭif* = rápido/relâmpago; *‘amīq* = profundo).
-2.  **"لَنْ يَخْتَرِقَ السَّارْدُوكَارُ خُطُوطَنَا الدِّفَاعِيَّةَ مَا دُمْنَا مُتَّحِدِينَ كَقَبِيلَةٍ وَاحِدَةٍ۔"** (*Lan yakhtariqa s-Sārdūkāru khuṭūṭanā d-difā‘iyyah mā dumnā muttaḥidīna ka-qabīlatin wāḥidah.*) [R/C] (*khuṭūṭ difā‘iyyah* = linhas defensivas; *mā dumna* = enquanto nós estivermos; *muttaḥid* = unido F-VIII).
-3.  **"هَلْ تَعْتَقِدُ أَنَّ اسْتِخْدَامَ اللازِ ضِدَّ الدُّرُوعِ هُوَ عَمَلٌ اِنْتِحَارِيٌّ أَمْ تَكْتِيكٌ ذَكِيٌّ فِي بَعْضِ الأَحْيَانِ؟"** (*Hal ta‘taqidu anna stikhdāma l-lāzi ḍidda d-durū‘i huwa ‘amalun intiḥārīyun am taktīkun dhakiyun fī ba‘ḍi l-aḥyān?*) [R] (*intiḥārīy* = suicida; *dhakīy* = inteligente; *aḥyān* = vezes/situações).
+1.  **"قَبْلَ بِدَايَةِ الجِهَادِ الكَبِيرِ، كَانَتْ حَرْبُنَا مُجَرَّدَ كَرٍّ وَ فَرٍّ فِي الصَّحْرَاءِ۔"** (*Qabla bidāyati l-jihādi l-kabīr, kānat ḥarbunā mujarrada karrin wa farrin fī ṣ-ṣaḥrā’.*) [R/C] (*karr wa farr* = ataque e fuga, tática de guerrilha).
+2.  **"يُدَرِّبُ النَّايِبُ شَبَابَ السِّيَتْشِ عَلَى عَدَمِ الخَوْفِ مِنَ المَوْتِ، بَلْ عَلَى اِحْتِرَامِ قِيمَةِ الحَيَاةِ وَ المَاءِ۔"** (*Yudarribu n-nā’ibu shabāba s-sīetchi ‘alā ‘adami l-khawfi min al-mawt, bal ‘alā ḥtirāmi qīmati l-ḥayāti wa l-mā’.*) [R/D] (*darraba ‘alā* = treinar em; *‘adam* = falta de; *khawf* = medo; *iḥtirām* = respeito; *qīmah* = valor).
+3.  **"لَنْ نَسْمَحَ لِأَيِّ خَائِنٍ بِتَسْلِيمِ أَسْرَارِ مَمَرَّاتِنَا السِّرِّيَّةِ لِلأَعْدَاءِ۔"** (*Lan nasmaḥa li-ayyi khā’inin bi-taslīmi asrāri mamarrātinā s-sirriyyah lil-a‘dā’.*) [R] (*samaḥa li-* = permitir a; *taslīm* = entrega; *mamarrāt* = passagens).
 
 **(Português → Chakobsa):**
-1.  O batedor relatou (F-IV *ablagha*) a posição exata (*al-mawqi‘ ad-daqīq*) da patrulha inimiga.
-2.  Preparem a emboscada (Imperativo Pl.) na passagem estreita e esperem meu sinal (*ishāratī*)!
-3.  A Jihad não é apenas guerra física, mas uma luta pela alma de Arrakis e do universo. (Use *laysa faqaṭ... bal ayḍan...*)
-4.  Um Crysknife não-fixo foi encontrado perto do corpo do traidor. (Use passivo *wujida*).
+1.  A estratégia deles dependia (*i‘tamada ‘alā*) de um ataque surpresa usando os túneis ocultos (*al-anfāq al-makhfiyyah*).
+2.  Se o prisioneiro Sardaukar não falar (Jussivo de *takallama*), reclamaremos (*sanastarji‘u*) sua água para a tribo. (Condicional com *in*).
+3.  A vitória final na Jihad exigirá (*sataṭallabu*) o sacrifício (*taḍḥiyah*) de muitos mártires.
+4.  "Preparem os Ganchos!" gritou (*ṣāḥa*) o cavaleiro da areia ao sentir (*ḥassa bi-*) a aproximação do Verme.
 
 ---
-**Respostas dos Exercícios do Capítulo 10**
+**10.8 Respostas dos Exercícios do Capítulo 10**
 
 **(A): Nomenclatura de Armas e Tecnologia**
-1-c; 2-e; 3-a; 4-b; 5-f; 6-d.
+1.  (Dir‘) - b) Campo de energia defensivo vulnerável a penetração lenta e interação com Lasgun.
+2.  (Sikkīn al-Kris - thābitah) - c) Lâmina sagrada de dente de verme, eficaz contra escudos (...), ligada à vida do dono.
+3.  (Musaddas al-Lāz) - a) Arma de energia padrão imperial, letal contra não-escudados, perigosa contra escudos.
+4.  (Musaddas al-Mawlā) - e) Arma de projétil por mola/gás, dispara dardos lentos, ideal contra escudos a curta distância.
+5.  (Khuṭṭāfāt aṣ-ṣāni‘) - f) Ferramenta especializada para montar e direcionar Vermes da Areia gigantes.
+6.  (Midaqqah) - d) Dispositivo que emite som rítmico para atrair Vermes da Areia.
 
-**(B): Termos Táticos e Estratégicos**
-1.  **كَمِين** (*kamīn*)
-2.  **جِهَاد** (*jihād*)
-3.  **اِسْتِطْلاع** (*istiṭlā‘*)
-4.  **غَارَة** (*ghārah*)
-5.  **اِنْسِحَاب** (*insiḥāb*)
-6.  **حِصَار** (*ḥiṣār*)
-7.  **تَمْوِيه** (*tamwīh*)
-8.  **مَعْرَكَة** (*ma‘rakah*)
+**(B): Conceitos Táticos e Estratégicos**
+1.  **كَمِين** (*kamīn*): Tática Fremen essencial. Usa conhecimento do terreno, camuflagem, silêncio e surpresa para atacar de posição vantajosa. Eficaz em Arrakis devido ao terreno acidentado e à capacidade Fremen de se moverem sem serem detectados.
+2.  **اِنْسِحَاب تَكْتِيكِيّ** (*insiḥāb taktīkīy*): Retirada estratégica. Não é covardia, mas preservação de vidas Fremen (recurso mais valioso após a água) para lutar em condições mais favoráveis. Essencial na guerra de guerrilha contra um inimigo numericamente superior.
+3.  **لاز-دِرْع** (*lāz-dir‘*): Fremen evitam usar Lasguns contra escudos. Exploram a vulnerabilidade inimiga: forçam o inimigo a desativar escudos (atraindo vermes), usam armas que penetram lentamente (Kris, Maula), ou (raramente/taticamente) podem induzir a explosão.
+4.  **غَنِيمَة** (*ghanīmah*): Espólios. Crucial para Fremen, inclui armas, equipamentos, especiaria, mas acima de tudo, a **água** reclamada dos inimigos mortos, que retorna para a tribo.
+5.  **غَارَة** (*ghārah*): Incursão rápida. Causa dano e desmoralização com risco mínimo, obtém recursos vitais, reforça a imagem de "fantasmas do deserto" e explora a lentidão da resposta inimiga.
 
-**(C): Comandos de Batalha**
+**(C): Formulação de Comandos Complexos**
 1.  Espere (Fem. Sg.) pelo meu sinal! → **اِنْتَظِرِي إِشَارَتِي!‏** (*Intaẓirī ishāratī!*)
 2.  Não matem (Masc. Pl.) os prisioneiros! → **لا تَقْتُلُوا الأَسْرَى!‏** (*Lā taqtulū l-asrā!*)
 3.  Defenda (Masc. Sg.) esta passagem! → **دَافِعْ عَنْ هٰذَا المَمَرِّ!‏** (*Dāfi‘ ‘an hādha l-mamarr!*)
-4.  Sigam-me (Fem. Pl.) silenciosamente! → **اِتْبَعْنَنِي بِصَمْتٍ!‏** (*Itba‘nanī bi-ṣamtin!*) (Forma Jussiva *itba‘na* + *nī*)
-5.  Dispersem (Masc. Pl.) e procurem cobertura! → **اِنْتَشِرُوا وَ ابْحَثُوا عَنْ سِتْرٍ!‏** (*Intashirū wa bḥathū ‘an sitrin!*)
+4.  Sigam-me (Fem. Pl.) silenciosamente! → **اِتْبَعْنَنِي بِصَمْتٍ!‏** (*Itba‘nanī bi-ṣamtin!*)
+5.  Dispersem (Masc. Pl.) e procurem cobertura (*sitr*)! → **اِنْتَشِرُوا وَ ابْحَثُوا عَنْ سِتْرٍ!‏** (*Intashirū wa bḥathū ‘an sitrin!*)
 
-**(D): Identificação de Inimigos e Aliados**
-1.  **Harkonnen:** A Casa opressora de Arrakis, inimigos mortais dos Atreides. Percepção Fremen: Ódio profundo, desprezo; símbolo de crueldade, ganância e decadência.
-2.  **Maula vs. Lasgun:** A Maula dispara projéteis lentos que podem penetrar escudos; o Lasgun dispara um feixe de energia que causa uma explosão catastrófica ao atingir um escudo.
-3.  **Sardaukar:** Tropas de elite do Imperador, muito bem treinadas e fanáticas. Temidas por sua letalidade. Os Fremen se orgulham de derrotá-los pois prova sua própria superioridade como guerreiros adaptados a Arrakis, superando a força bruta imperial com habilidade e conhecimento do deserto.
-4.  **Ghanīmah:** Espólios de batalha. Para os Fremen, isso inclui não apenas armas e equipamentos, mas vitalmente, a água reclamada dos corpos dos inimigos mortos.
-5.  **Khā’in:** Traidor. Implica a violação máxima da lealdade à tribo ou à disciplina Fremen. A punição provável seria a morte sumária e desonrosa, talvez com a recusa em reclamar a água do corpo.
+**(D): Identificação e Contextualização de Termos**
+1.  **أَسِير** (*Asīr*): Prisioneiro. Para Fremen, fonte potencial de água ou informação, mas raramente mantido vivo por muito tempo devido ao custo hídrico.
+2.  **جِهَاد** (*Jihād*): Guerra Santa. Luta total Fremen pela libertação/transformação de Arrakis e, sob Muad'Dib, da galáxia. Motivada por fé e necessidade.
+3.  **طَلِيعَة** (*Ṭalī‘ah*): Batedor/Escolta/Vanguarda. Guerreiros enviados à frente para reconhecimento e alerta precoce. Papel crucial na guerra Fremen.
+4.  **خُطَّة** (*Khuṭṭah*): Plano. Essencial para o sucesso das operações Fremen, que dependem de coordenação e exploração de oportunidades, não de força bruta.
+5.  **يَحْيَى الشُّهَدَاء!‏** (*Yaḥyā sh-shuhadā’*): Grito de guerra ("Longa vida aos Mártires!"). Expressa disposição ao sacrifício, fé na causa e conexão com ancestrais guerreiros.
 
-**(E): Análise Tática Fremen**
-*   Resposta discursiva. Deve mencionar: guerra assimétrica/guerrilha; importância do conhecimento do terreno e do ambiente (deserto como arma); foco em emboscadas, incursões rápidas e furtividade; exploração das fraquezas inimigas (dependência tecnológica, medo de vermes, vulnerabilidade a ataques corpo-a-corpo contra escudos); disciplina, paciência e disposição para o sacrifício; retirada estratégica como tática válida. A linguagem reflete isso na precisão de termos para táticas (kamīn, ghārah), ambiente, e nos comandos curtos e diretos.
+**(E): Análise de Cenário Tático**
+1.  **Tática Inicial:** Provavelmente uma **emboscada** (**كَمِين**) coordenada. Poderiam usar **explosivos** (**مُتَفَجِّرَات**) para imobilizar a colheitadeira ou veículos de escolta, seguido por um ataque rápido das dunas/rochas. O objetivo seria criar caos e isolar alvos.
+2.  **Armas Eficazes:** Contra soldados escudados, o **Crysknife** (**الكَرِيس**) usado com técnica de penetração lenta e a **Maula Pistol** (**مُسَدَّسُ المَوْلَى**) a curta distância seriam as armas primárias. Lasguns seriam evitadas.
+3.  **Maior Perigo:** Os Lasguns (**لاز**) da patrulha e dos ornitópteros. Se os Fremen forem detectados à distância, ou se a interação Lasgun-Escudo ocorrer acidentalmente, as perdas podem ser altas. A mobilidade aérea dos ornitópteros também é uma ameaça.
+4.  **Comando de Retirada:** **"اِنْسَحِبُوا! إِلَى نُقْطَةِ الاِلْتِقَاءِ!"** (*Insaḥibū! Ilā nuqṭati l-iltiqā’!*) (Retirem-se! Para o ponto de encontro!) ou similarmente direto.
+5.  **Espólios (Ghanīmah):** Além da destruição da colheitadeira (negando especiaria ao inimigo), a **água** dos soldados mortos (**مَاءُ الأَعْدَاءِ**), suas **armas** (Lasguns, Maulas, munição, escudos talvez para estudo/troca) e qualquer **especiaria** que pudessem carregar seriam os principais espólios.
 
-**(F): Criação de Cenário de Combate**
-*   Respostas variadas. Exemplo: **"كَمِينٌ فِي المَمَرِّ! اِنْتَظِرُوا الإِشَارَةَ... الآنَ! اُهْجُمُوا! اِسْتَعْمِلُوا الكَرِيسَاتِ! لا تَدَعُوا أَحَدًا يَهْرُبُ! يَحْيَى الشُّهَدَاء!‏"** (*Kamīnun fī l-mamarr! Intaẓirū l-ishārah... Al-āna! Uhjumū! Ista‘milū l-krīsāt! Lā tada‘ū aḥadan yahrubu! Yaḥyā sh-shuhadā’!*) (Emboscada na passagem! Esperem o sinal... Agora! Ataquem! Usem os Krises! Não deixem ninguém escapar! Longa vida aos Mártires!)
+**(F): Criação de Relatório de Batalha**
+*   Respostas variadas. Exemplo: **"يَا نَايِبُ، الغَارَةُ عَلَى القَافِلَةِ نَجَحَتْ۔ دَمَّرْنَا ثَلاثَ مَرْكَبَاتٍ وَ قَتَلْنَا خَمْسَةَ عَشَرَ جُنْدِيًّا هَارْكُونِنِيًّا۔ فَقَدْنَا مُحَارِبًا وَاحِدًا، شَهِيدًا لِلقَبِيلَةِ۔ الغَنَائِمُ كَثِيرَةٌ: مَاءٌ، أَسْلِحَةٌ، وَ صُنْدُوقٌ مِنَ التَّابِلِ۔ نَعُودُ إِلَى السِّيَتْشِ حَالاً۔"** (*Yā Nā’ib, al-ghāratu ‘alā l-qāfilati najaḥat. Dammarnā thalātha markabātin wa qatalnā khamsata ‘ashara jundiyyan hārkūninīyan. Faqadnā muḥāriban wāḥidan, shahīdan lil-qabīlah. al-Ghanā’imu kathīrah: mā’un, asliḥatun, wa ṣundūqun min at-tābil. Na‘ūdu ilā s-sīetchi ḥālan.*) (Ó Naib, a incursão sobre o comboio teve sucesso. Destruímos [F-II *dammara*] três veículos e matamos quinze soldados Harkonnen. Perdemos um guerreiro, um mártir para a tribo. Os espólios são muitos: água, armas, e uma caixa [*ṣundūq*] de especiaria. Retornamos ao sietch imediatamente.)
 
-**(G): Tradução Complexa**
+**(G): Tradução Avançada**
 **(Chakobsa → Português):**
 1.  Nosso Naib nos ensina que a melhor defesa é o ataque relâmpago e o conhecimento profundo do deserto.
-2.  Os Sardaukar nunca penetrarão nossas linhas defensivas enquanto estivermos unidos como uma única tribo.
-3.  Você (masc.) acredita que usar o Lasgun contra escudos é um ato suicida ou uma tática inteligente em algumas situações?
+2.  Os Sardaukar nunca penetrarão nossas linhas defensivas enquanto nós estivermos unidos como uma única tribo.
+3.  Você (masc.) acredita que usar o Lasgun contra escudos é um ato suicida ou uma tática inteligente em algumas situações/às vezes?
 
 **(Português → Chakobsa):**
 1.  O batedor relatou a posição exata da patrulha inimiga. → **أَبْلَغَ الكَشَّافُ عَنِ المَوْقِعِ الدَّقِيقِ لِلدَّوْرِيَّةِ العَدُوَّةِ۔** (*Ablagha l-kashshāfu ‘an al-mawqi‘i d-daqīqi lid-dawriyyati l-‘aduwwah.*)
-2.  Preparem a emboscada na passagem estreita e esperem meu sinal! → **أَعِدُّوا الكَمِينَ فِي المَمَرِّ الضَّيِّقِ وَ انْتَظِرُوا إِشَارَتِي!‏** (*A‘iddū l-kamīna fī l-mamarri ḍ-ḍayyiqi wa ntaẓirū ishāratī!*) (*a‘adda* F-IV imp. pl.)
-3.  A Jihad não é apenas guerra física, mas sim uma luta pela alma de Arrakis e do universo. → **الجِهَادُ لَيْسَ فَقَطْ حَرْبًا جَسَدِيَّةً، بَلْ أَيْضًا صِرَاعٌ مِنْ أَجْلِ رُوحِ أَرَّاكِسَ وَ الكَوْنِ۔** (*al-Jihādu laysa faqaṭ ḥarban jasadiyyatan, bal ayḍan ṣirā‘un min ajli rūḥi Arrakis wa l-kawn.*) (*ṣirā‘* = luta).
-4.  Um Crysknife não-fixo foi encontrado perto do corpo do traidor. → **وُجِدَ كَرِيسٌ غَيْرُ ثَابِتٍ قُرْبَ جُثَّةِ الخَائِنِ۔** (*Wujida krīsun ghayru thābitin qurba juththati l-khā’in.*) (*juththah* = corpo/cadáver).
+2.  Preparem a emboscada na passagem estreita e esperem meu sinal! → **أَعِدُّوا الكَمِينَ فِي المَمَرِّ الضَّيِّقِ وَ انْتَظِرُوا إِشَارَتِي!‏** (*A‘iddū l-kamīna fī l-mamarri ḍ-ḍayyiqi wa ntaẓirū ishāratī!*)
+3.  A Jihad não é apenas guerra física, mas sim uma luta pela alma de Arrakis e do universo. → **الجِهَادُ لَيْسَ فَقَطْ حَرْبًا جَسَدِيَّةً، بَلْ أَيْضًا صِرَاعٌ مِنْ أَجْلِ رُوحِ أَرَّاكِسَ وَ الكَوْنِ۔** (*al-Jihādu laysa faqaṭ ḥarban jasadiyyatan, bal ayḍan ṣirā‘un min ajli rūḥi Arrakis wa l-kawn.*)
+4.  "Preparem os Ganchos!" gritou o cavaleiro da areia ao sentir a aproximação do Verme. → **"جَهِّزُوا الخُطَّافَاتِ!" صَاحَ فَارِسُ الرَّمْلِ عِنْدَمَا أَحَسَّ بِاقْتِرَابِ الدُّودَةِ۔** (*"Jahhizū l-khuṭṭāfāt!" ṣāḥa fārisu r-ramli ‘indamā aḥassa bi-qtirābi d-dūdah.*) (*jahhaza* F-II imp. pl.; *ṣāḥa*; *aḥassa bi-* F-IV; *iqtirāb* masdar F-VIII).
 
 ---
-A linguagem do combate Fremen é tão afiada quanto suas lâminas. Com este conhecimento, podemos apreciar melhor as cenas de batalha e a mentalidade guerreira descritas nos épicos de Duna. No próximo capítulo, exploraremos um contraste fascinante: a linguagem da fé, do ritual e da profecia, revelando o lado místico e espiritual do povo do deserto.
+A linguagem do combate Fremen é tão afiada quanto suas lâminas. Com este conhecimento aprofundado do vocabulário, táticas e comandos, podemos apreciar melhor as cenas de batalha e a mentalidade guerreira descritas nos épicos de Duna. No próximo capítulo, exploraremos um contraste fascinante e igualmente vital: a linguagem da fé, do ritual e da profecia, revelando o lado místico e espiritual do povo do deserto.
