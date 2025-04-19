@@ -76,7 +76,7 @@ Aqui, montamos os blocos de construção gramaticais do Chakobsa reconstruído. 
 **Parte III: Chakobsa em Uso - Contexto e Prática**
 Esta seção dá vida à língua, aplicando-a a contextos culturais Fremen específicos. Cada capítulo foca em um domínio temático, introduzindo vocabulário relevante e apresentando diálogos simulados ou textos curtos para prática, sempre acompanhados de notas culturais.
 
-*   [**Capítulo 8: Vocabulário Essencial para a Vida em Arrakis – Parte I:**](capitulo-08.md) Saudações e expressões comuns; números; termos vitais sobre água e deserto; vocabulário familiar e social.
+*   [**Capítulo 8: Vocabulário Essencial para a Vida em Arrakis:**](capitulo-08.md) Saudações e expressões comuns; números; termos vitais sobre água e deserto; vocabulário familiar e social.
 *   [**Capítulo 9: A Linguagem da Sobrevivência – Vida no Sietch:**](capitulo-09.md) Vocabulário de ferramentas (Crysknife, Destiltraje), vestimenta, comida, abrigo; diálogos sobre disciplina da água e rotinas do sietch.
 *   [**Capítulo 10: A Linguagem da Incursão – Combate e Guerra em Chakobsa:**](capitulo-10.md) Vocabulário de armas, táticas, inimigos (Harkonnen, Sardaukar); comandos de batalha e gritos de guerra.
 *   [**Capítulo 11: A Linguagem da Fé e do Ritual – Profecia e o Sagrado em Chakobsa:**](capitulo-11.md) Termos religiosos (Deus, profecia, Jihad, Lisan al-Gaib), rituais (Água da Vida, funeral), figuras e lugares sagrados.
