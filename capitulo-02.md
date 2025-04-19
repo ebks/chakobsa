@@ -1,7 +1,7 @@
 ---
 # Capítulo 2
 
-# Os Sons das Dunas – Fonética e Fonologia Chakobsa Detalhadas**
+# Os Sons das Dunas – Fonética e Fonologia Chakobsa Detalhadas
 ---
 
 
