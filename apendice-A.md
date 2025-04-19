@@ -1,5 +1,9 @@
 
-**Apêndice A: Glossário Chakobsa – Português**
+---
+# Apêndice A
+
+# Glossário Chakobsa – Português
+---
 
 Este glossário lista as palavras Chakobsa introduzidas neste livro, ordenadas alfabeticamente pela sua transliteração no Sistema de Transliteração Padronizado (STP). Cada entrada inclui a escrita proposta *Khatt al-Ibad* (representada com caracteres árabes como base visual), a transliteração STP em itálico e a tradução para o Português.
 
