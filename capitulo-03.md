@@ -1,12 +1,13 @@
-Okay, aqui está o Capítulo 3 completo, integrando a introdução altamente detalhada, as explicações dos caracteres e diacríticos, os exemplos de escrita, a tabela resumo, os exercícios e as respostas, formatado para alinhamento à esquerda.
-
 ---
 
-**Capítulo 3: Marcas na Areia – O Sistema de Escrita Chakobsa (Khatt al-Ibad) em Profundidade**
+# Capítulo 3
 
-**(Página de Abertura: Uma imagem estilizada mostrando os caracteres propostos do Khatt al-Ibad como se estivessem entalhados em rocha ou traçados na areia, talvez com uma mão Fremen segurando um estilete improvisado. A imagem poderia transitar de traços efêmeros na areia para marcas permanentes em pedra.)**
+# Marcas na Areia – O Sistema de Escrita Chakobsa (Khatt al-Ibad) em Profundidade
+---
 
-*   *“O deserto não guarda segredos por muito tempo sob o sol aberto, mas as marcas certas na sombra de uma rocha, na pele de um odre, ou na memória viva de uma Sayyadina podem durar gerações incontáveis. A escrita, para o Povo Livre, não é um luxo, mas uma âncora contra a erosão do tempo e da areia, uma cifra contra o olhar do inimigo.”* – Arquivos do Sietch Tabr (Registro Especulativo) [R]
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“O deserto não guarda segredos por muito tempo sob o sol aberto, mas as marcas certas na sombra de uma rocha, na pele de um odre, ou na memória viva de uma Sayyadina podem durar gerações incontáveis. A escrita, para o Povo Livre, não é um luxo, mas uma âncora contra a erosão do tempo e da areia, uma cifra contra o olhar do inimigo.”* – Arquivos do Sietch Tabr (Registro Especulativo) [R]
 
 **3.1 A Necessidade de um Registro Secreto: Por Que os Fremen Escreveriam?**
 
@@ -349,7 +350,7 @@ Aqui estão os blocos de construção fundamentais do *Khatt al-Ibad*. Para cada
 
 ---
 
-**3.4 As Marcas Vocálicas (Ḥarakāt ar-Rūḥ – حركات الروح [R] - "Marcas do Espírito") - Expandido)**
+**3.4 As Marcas Vocálicas (Ḥarakāt ar-Rūḥ – حركات الروح [R] - "Marcas do Espírito")**
 
 Estes pequenos sinais são a alma da palavra escrita, dando voz às consoantes mudas. Sem eles, a leitura do Chakobsa (como do Árabe não vocalizado) dependeria fortemente do contexto e do conhecimento prévio do leitor. Em nosso guia, sempre os incluiremos para máxima clareza. Lembre-se, eles são escritos **acima** ou **abaixo** da consoante que *precedem* foneticamente, mas modificam o som *dessa* consoante adicionando a vogal curta seguinte ou indicando sua ausência/duplicação.
 
@@ -405,7 +406,7 @@ Estes pequenos sinais são a alma da palavra escrita, dando voz às consoantes m
         *   **مُعَلِّم** (*mu‘allim*): **L(shadda+kasra)** = **لِّ** -> **مُعَلِّم** (Geminação do L)
         *   **الشَّمْس** (*ash-shams*): **SH(shadda+fatḥa)** = **شَّ** -> **الشَّمْس** (Geminação do Sh devido à assimilação do L solar de *al-*)
 
-**3.5 Juntando Tudo: Escrevendo Palavras em Khatt al-Ibad - Expandido com Mais Detalhes)**
+**3.5 Juntando Tudo: Escrevendo Palavras em Khatt al-Ibad**
 
 Agora, vamos solidificar nosso entendimento combinando letras e diacríticos para escrever palavras completas, relembrando sempre a direção **Direita para Esquerda (→)**. Vamos revisitar exemplos anteriores com mais detalhe e adicionar novos.
 
@@ -570,7 +571,7 @@ Antes de prosseguirmos para os exercícios práticos, esta tabela resume os comp
 
 ---
 
-**3.7 Prática de Leitura - Expandida**
+**3.7 Prática de Leitura**
 
 Tente decifrar estas palavras e frases escritas em *Khatt al-Ibad*. A transliteração STP e a tradução são fornecidas após os exercícios. (Em um livro real, as imagens seriam mostradas aqui).
 
@@ -583,7 +584,7 @@ Tente decifrar estas palavras e frases escritas em *Khatt al-Ibad*. A transliter
 7.  **[Imagem de هَلْ أَنْتَ فِرِمِنِيّ؟]**
 8.  **[Imagem de اُكْتُبِ اسْمَكَ هُنَا۔]**
 
-**(3.8 Prática de Escrita - Expandida)**
+**3.8 Prática de Escrita**
 
 1.  **Cópia Detalhada:** Dedique tempo a praticar o desenho de cada letra (Alif a Yā’) em suas formas (se simplificadas ou posicionais, conforme ensinado). Preste atenção à ordem e direção dos traços. Pratique também cada diacrítico. Use papel quadriculado ou com linhas-guia se ajudar.
 2.  **Transliteração para Khatt al-Ibad (Palavras):** Escreva as seguintes palavras em *Khatt al-Ibad*, adicionando todos os diacríticos necessários. Lembre-se da direção RTL e das regras de conexão.
@@ -601,7 +602,7 @@ Tente decifrar estas palavras e frases escritas em *Khatt al-Ibad*. A transliter
     *   *Man anta?* (Quem é você?)
     *   *Shukran yā akhī.* (Obrigado, meu irmão.)
 
-**(3.9 Olhando Adiante: Integrando a Escrita na Aprendizagem**
+**3.9 Olhando Adiante: Integrando a Escrita na Aprendizagem**
 
 Dominar um novo sistema de escrita, especialmente um que flui em direção oposta ao nosso e usa uma lógica diferente (Abjad vs. Alfabeto), é um desafio significativo, mas imensamente recompensador. Requer paciência, repetição e, acima de tudo, **exposição constante**.
 
@@ -647,6 +648,4 @@ Você deu um passo monumental. Não está mais apenas ouvindo as *Vozes das Arei
 3.  *Man anta?* -> **مَنْ أَنْتَ؟**
 4.  *Shukran yā akhī.* -> **شُكْرًا يَا أَخِي۔**
 
----
 
-**(Fim do Capítulo 3 - Edição Altamente Expandida com Tabela Resumo)**
