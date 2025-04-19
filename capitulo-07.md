@@ -286,9 +286,9 @@ Preposições são palavras curtas e essenciais que governam um substantivo ou p
 *   **كَـ** (*ka-*) - **Como, Tal como.** (Prefixo ligado).
     *   **هُوَ قَوِيٌّ كَالأَسَدِ۔** (*Huwa qawiyyun kal-asad.*) [R] - Ele é forte como o leão.
 
-**(Seção 7.8 Exemplos Integrados - pode ser expandida com frases mais longas e complexas, mostrando a interação de múltiplas regras)**
 
-**(Seção 7.9 Exercícios - expandidos e diversificados)**
+
+**7.9 Exercícios**
 
 **(A): Identificação de Tipo de Frase e Ordem**
 Identifique se cada frase é Nominal ou Verbal. Se for Verbal, indique a ordem dos constituintes principais (VSO, SVO).
