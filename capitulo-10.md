@@ -1,8 +1,14 @@
-**Capítulo 10: A Linguagem da Incursão – Combate, Guerra e Sobrevivência Marcial em Chakobsa**
+---
 
-**(Página de Abertura: Uma imagem dinâmica e talvez brutal de guerreiros Fremen em combate cerrado – talvez uma carga Fedaykin emergindo de uma tempestade de areia, ou a defesa desesperada de uma passagem de sietch contra invasores blindados – com gritos de guerra e comandos curtos em Khatt al-Ibad ecoando visualmente como relâmpagos na poeira.)**
+# Capítulo 10
 
-*   *“Fale com o forasteiro opressor na única língua que sua cobiça e brutalidade compreendem: a da **سِكِّين حَادّ** (*sikkīn ḥādd* [R] - faca afiada) que encontra a junta da armadura, a da **رَمْل** (*raml* [R] - areia) que cobre seus rastros e engole seus mortos, a do **صَمْت** (*ṣamt* [R] - silêncio) que precede a emboscada fatal. A clemência (**رَأْفَة** - *ra’fah* [R]) é um luxo que Arrakis não oferece aos seus filhos, nem aos seus inimigos. Em Chakobsa, as palavras de guerra (**كَلِمَاتُ الحَرْبِ** - *kalimāt al-ḥarb* [R]) são forjadas no fogo da necessidade, temperadas no sangue dos **شُهَدَاء** (*shuhadā’* [C] - mártires) e desembainhadas com a mesma precisão letal de um Crysknife.”* – Dito atribuído a Stilgar, durante o treinamento de jovens Fedaykin [R]
+# A Linguagem da Incursão – Combate, Guerra e Sobrevivência Marcial em Chakobsa
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“Fale com o forasteiro opressor na única língua que sua cobiça e brutalidade compreendem: a da **سِكِّين حَادّ** (*sikkīn ḥādd* [R] - faca afiada) que encontra a junta da armadura, a da **رَمْل** (*raml* [R] - areia) que cobre seus rastros e engole seus mortos, a do **صَمْت** (*ṣamt* [R] - silêncio) que precede a emboscada fatal. A clemência (**رَأْفَة** - *ra’fah* [R]) é um luxo que Arrakis não oferece aos seus filhos, nem aos seus inimigos. Em Chakobsa, as palavras de guerra (**كَلِمَاتُ الحَرْبِ** - *kalimāt al-ḥarb* [R]) são forjadas no fogo da necessidade, temperadas no sangue dos **شُهَدَاء** (*shuhadā’* [C] - mártires) e desembainhadas com a mesma precisão letal de um Crysknife.”* – Dito atribuído a Stilgar, durante o treinamento de jovens Fedaykin [R]
 
 **10.1 A Voz da Lâmina e da Emboscada: O Imperativo Marcial na Linguagem Fremen**
 
@@ -442,5 +448,3 @@ Escreva um breve relatório (4-6 frases) em Chakobsa, como se fosse um líder Fe
 3.  A Jihad não é apenas guerra física, mas sim uma luta pela alma de Arrakis e do universo. → **الجِهَادُ لَيْسَ فَقَطْ حَرْبًا جَسَدِيَّةً، بَلْ أَيْضًا صِرَاعٌ مِنْ أَجْلِ رُوحِ أَرَّاكِسَ وَ الكَوْنِ۔** (*al-Jihādu laysa faqaṭ ḥarban jasadiyyatan, bal ayḍan ṣirā‘un min ajli rūḥi Arrakis wa l-kawn.*)
 4.  "Preparem os Ganchos!" gritou o cavaleiro da areia ao sentir a aproximação do Verme. → **"جَهِّزُوا الخُطَّافَاتِ!" صَاحَ فَارِسُ الرَّمْلِ عِنْدَمَا أَحَسَّ بِاقْتِرَابِ الدُّودَةِ۔** (*"Jahhizū l-khuṭṭāfāt!" ṣāḥa fārisu r-ramli ‘indamā aḥassa bi-qtirābi d-dūdah.*) (*jahhaza* F-II imp. pl.; *ṣāḥa*; *aḥassa bi-* F-IV; *iqtirāb* masdar F-VIII).
 
----
-A linguagem do combate Fremen é tão afiada quanto suas lâminas. Com este conhecimento aprofundado do vocabulário, táticas e comandos, podemos apreciar melhor as cenas de batalha e a mentalidade guerreira descritas nos épicos de Duna. No próximo capítulo, exploraremos um contraste fascinante e igualmente vital: a linguagem da fé, do ritual e da profecia, revelando o lado místico e espiritual do povo do deserto.
