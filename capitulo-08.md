@@ -606,18 +606,21 @@ A família nuclear e estendida é a base da vida no sietch.
 
 **Nota Cultural sobre Sociedade:** Organização forte, hierarquias funcionais, leis estritas, identidade coletiva poderosa, desconfiança de forasteiros, lealdade e disciplina como valores supremos.
 
-**8.7 Colocando em Prática: Diálogos Expandidos**
+
+**8.7 Colocando em Prática: Mini-Diálogos e Frases Expandidas**
+
+Estes diálogos tentam simular interações que poderiam ocorrer entre Fremen ou com forasteiros, usando o vocabulário e as estruturas gramaticais aprendidos neste capítulo (Saudações, Números, Ambiente, Família/Sociedade) e nos anteriores.
 
 **Diálogo 1: Encontro Cauteloso no Deserto Aberto**
-*Personagens: Jamis (Fremen), Kynes (Planetólogo).*
+*Personagens: Jamis (Fremen), Kynes (Planetólogo, ainda um forasteiro sendo testado).*
 
 **جَامِيس:** **قِفْ مَكَانَكَ! مَنْ هُنَاكَ يَتَجَرَّأُ عَلَى دُخُولِ أَرْضِ الفِرِمِنِ؟ عَرِّفْ بِنَفْسِكَ وَ بِقَصْدِكَ!‏**
-*Jamīs: Qif makānak! Man hunāka yatajarra’u ‘alā dukhūli arḍi l-Fremen? ‘Arrif bi-nafsik wa bi-qaṣdik!* [R]
+*Jamīs: Qif makānak! Man hunāk yatajarra’u ‘alā dukhūli arḍi l-Fremen? ‘Arrif bi-nafsik wa bi-qaṣdik!* [R]
 (Jamis: Pare onde está! Quem está lá que ousa (*tajara’a ‘alā* F-V) entrar na terra dos Fremen? Identifique-se e [identifique] sua intenção (*qaṣd*)!)
 
 **كَايْنِز:** **(بِاحْتِرَامٍ) السَّلامُ عَلَيْكُمْ يَا حَارِسَ هٰذِهِ الدِّيَارِ. أَنَا العَالِمُ الكَوْكَبِيُّ لِيتْ-كَايْنِز، مُرْسَلٌ مِنَ الإمبراطُورِ لِدِرَاسَةِ هٰذَا الكَوْكَبِ العَجِيبِ. لا أَقْصِدُ شَرًّا۔ أَبْحَثُ فَقَطْ عَنِ المَعْرِفَةِ وَ عَنْ سِيَتْشِ تَبْر۔**
 *Kāyniz: (bi-ḥtirāmin) as-Salāmu ‘alaykum yā ḥārisa hādhihi d-diyār. Anā l-‘ālimu l-kawkabīyu Līt-Kāyniz, mursalun min al-Imbarāṭūr li-dirāsati hādha l-kawkabi l-‘ajīb. Lā aqṣidu sharran. Abḥathu faqaṭ ‘an al-ma‘rifati wa ‘an Sīetch Tabr.* [R/D]
-(Kynes: (Com respeito - *iḥtirām*) A paz esteja convosco, ó guarda destas terras (*diyār* pl. de *dār*). Eu sou o cientista planetário Liet-Kynes, enviado (*mursal* Part.Pass.F-IV) do Imperador para o estudo (*dirāsah*) deste planeta maravilhoso (*‘ajīb*). Não intenciono (*qaṣada*) mal (*sharr*). Procuro apenas pelo conhecimento (*ma‘rifah*) e pelo Sietch Tabr.)
+(Kynes: (Com respeito - *iḥtirām*) A paz esteja convosco, ó guarda destas terras (*diyār* pl. de *dār*). Eu sou o cientista planetário (*kawkabīy*) Liet-Kynes, enviado (*mursal* Part.Pass.F-IV) do Imperador para o estudo (*dirāsah*) deste planeta maravilhoso (*‘ajīb*). Não intenciono (*qaṣada*) mal (*sharr*). Procuro apenas pelo conhecimento (*ma‘rifah*) e pelo Sietch Tabr.)
 
 **جَامِيس:** **(يَضْحَكُ بِسُخْرِيَةٍ) مُرْسَلٌ مِنَ الإمبراطُورِ؟ الإمبراطُورُ لا يَهْتَمُّ بِنَا إِلَّا لِتَابِلِنَا! المَعْرِفَةُ الَّتِي تَسْعَى إِلَيْهَا مَحْفُوظَةٌ بِالدَّمِ وَ العَرَقِ، وَ لَيْسَتْ لِأَمْثَالِكَ مِنَ البَرَّانِيِّينَ. سِيَتْش تَبْر بَعِيدٌ، وَ الطَّرِيقُ إِلَيْهِ خَطِيرٌ۔ مَاذَا تُقَدِّمُ لِلنَّايِبِ مُقَابِلَ ضِيَافَتِهِ؟ مَاؤُكَ؟**
 *Jamīs: (yaḍḥaku bi-sukhriyyah) Mursalun min al-Imbarāṭūr? al-Imbarāṭūru lā yahtammu binā illā li-tābilinā! al-Ma‘rifatu llatī tas‘ā ilayhā maḥfūẓatun bid-dami wa l-‘araq, wa laysat li-amthālika min al-barrānīyīn. Sīetch Tabr ba‘īd, wa ṭ-ṭarīqu ilayhi khaṭīr. Mādhā tuqaddimu lin-Nā’ibi muqābila ḍiyāfatih? Mā’uka?* [R/D]
@@ -627,12 +630,144 @@ A família nuclear e estendida é a base da vida no sietch.
 *Kāyniz: Uqaddimu fahman li-hādhihi l-arḍ... fahman qad yusā‘idukum fī taḥqīqi ḥulmikum bi-Arrakisa khaḍrā’. Anā lastu mujarrada ‘ālimin, anā afhamu qīmata l-mā’.* [R/D]
 (Kynes: Ofereço compreensão (*fahm*) desta terra... uma compreensão que talvez (*qad*) possa ajudá-los (*sā‘ada* F-III) na realização (*taḥqīq* masdar F-II) do seu sonho (*ḥulm*) de uma Arrakis verde (*khaḍrā’*). Eu não sou mero (*mujarrad*) cientista, eu entendo o valor (*qīmah*) da água.)
 
-**(Diálogo 2 e 3 seriam similarmente expandidos com mais detalhes e vocabulário)**
+**جَامِيس:** **(يُقَيِّمُهُ) الكَلَامُ سَهْلٌ، يَا أَجْنَبِيّ. الفِعْلُ هُوَ البُرْهَانُ الوَحِيدُ الَّذِي نَقْبَلُهُ۔ اِتْبَعْنِي... بِحَذَرٍ۔**
+*Jamīs: (yuqayyimuhu) al-Kalāmu sahlun, yā ajnabīy. al-Fi‘lu huwa l-burhānu l-waḥīdu lladhī naqbaluhu. Itba‘nī... bi-ḥadharin.* [R]
+(Jamis: (Avaliando-o - *qayyama* F-II) A fala é fácil, ó forasteiro. A ação é a única prova (*burhān*) que nós aceitamos (*qabila*). Siga-me... com cautela (*ḥadhar*).)
+
+
+
+**Diálogo 2: Preparação para uma Incursão Fedaykin**
+*Personagens: Líder Fedaykin (LFE), Guerreiro Jovem (GJ).*
+
+**الـ ق.ف.:** **اللَّيْلَةُ مُنَاسِبَةٌ لِلغَارَةِ. القَمَرُ جَدِيدٌ وَ الحُرَّاسُ الهَارْكُونِنِيُّونَ مُتْعَبُونَ۔ هَلِ الجَمِيعُ مُسْتَعِدٌّ؟**
+*al-Q.F.: al-Laylatu munāsibah lil-ghārah. al-Qamaru jadīd wa l-ḥurrāsu l-hārkūninīyūna mut‘abūn. Hal il-jamī‘u musta‘idd?* [R/D]
+(LFE: A noite é adequada (*munāsib*) para a incursão (*ghārah*). A lua é nova e os guardas Harkonnen estão cansados (*mut‘ab*). Todos estão prontos?)
+
+**الـ غ.ش.:** **نَعَمْ يَا سَيِّدِي! كَرِيسَاتُنَا حَادَّةٌ وَ قُلُوبُنَا أَشَدُّ! نَنْتَظِرُ أَمْرَكَ۔**
+*al-Gh.Sh.: Na‘am yā sayyidī! Krīsātunā ḥāddah wa qulūbunā ashaddu! Nantaẓiru amraka.* [R/D]
+(GJ: Sim, meu senhor! Nossos Crysknifes (*krīsāt* pl. proposto) estão afiados (*ḥāddah*) e nossos corações (estão) mais fortes/resolutos (*ashadd* superlativo)! Esperamos sua ordem (*amr*).)
+
+**الـ ق.ف.:** **حَسَنًا۔ الخُطَّةُ بَسِيطَةٌ: نَقْتَرِبُ بِصَمْتٍ مِنْ الجَنُوبِ. أَنْتَ وَ فَرِيقُكَ تُعَطِّلُونَ المَوْلَى؛ نَحْنُ نَقْتَحِمُ الخَيْمَةَ الرَّئِيسِيَّةَ. لا أَسْرَى، لا شُهُودَ۔ فَقَطْ المَوْتُ لِأَعْدَاءِ الفِرِمِنِ۔ اِفْهَمْتُمْ؟**
+*al-Q.F.: Ḥasanan. al-Khuṭṭatu basīṭah: Naqtaribu bi-ṣamtin min al-janūb. Anta wa farīquka tu‘aṭṭilūna l-mawlā; naḥnu naqtaḥimu l-khaymata r-ra’īsiyyah. Lā asrā, lā shuhūd. Faqaṭ al-mawtu li-a‘dā’i l-Fremen. Ifhamtum?* [R/D]
+(LFE: Bem. O plano é simples (*basīṭah*): nos aproximamos (*iqtaraba* F-VIII) silenciosamente pelo sul (*janūb*). Você e seu time (*farīq*) desativam (*‘aṭṭala* F-II) a Maula (arma/gerador?); nós invadimos (*iqtaḥama* F-VIII) a tenda principal (*ra’īsīy*). Sem prisioneiros (*asrā*), sem testemunhas (*shuhūd*). Apenas a morte para os inimigos dos Fremen. Entenderam? [*ifhamtum* = vós entendestes, F-I])
+
+**الـ غ.ش. وَ الآخَرُونَ:** **مَفْهُوم! يَحْيَى الشُّهَدَاء!‏**
+*al-Gh.Sh. wa l-ākharūn: Mafhūm! Yaḥyā sh-shuhadā’!* [R/C]
+(GJ e Outros: Entendido! Longa vida aos Mártires!)
+
+
+
+**Diálogo 3: Conversa sobre a Água e a Fé**
+*Personagens: Sayyadina idosa (SI), Jovem Fremen (JF).*
+
+**الـ ش.ف.:** **يَا سَيِّدِينَا، هَلْ صَحِيحٌ أَنَّ مَاءَ الحَيَاةِ يَقْتُلُ الرِّجَالَ؟ لِمَاذَا هُوَ مُقَدَّسٌ إِذَنْ؟**
+*ash-Sh.F.: Yā Sayyidīnā, hal ṣaḥīḥun anna Mā’a l-Ḥayāti yaqtulu r-rijāl? Limādhā huwa muqaddasun idhan?* [C/D/R]
+(JF: Ó Sayyadina, é verdade que a Água da Vida mata os homens? Por que ela é sagrada, então (*idhan*)?)
+
+**السَّيِّدِينَا:** **(بِهُدُوءٍ) المَاءُ يُعْطِي وَ يَأْخُذُ، يَا بُنَيَّ. هُوَ يَقْتُلُ الجَسَدَ الضَّعِيفَ أَوْ الرُّوحَ غَيْرَ المُسْتَعِدَّةِ. لٰكِنْ، لِمَنْ يَصْبِرُ وَ يُؤْمِنُ، هُوَ يَفْتَحُ الأَبْوَابَ إِلَى المَاضِي... إِلَى ذِكْرَيَاتِ الأُمَّهَاتِ اللَّوَاتِي جِئْنَ قَبْلَنَا۔ هُوَ لَيْسَ مُجَرَّدَ سُمٍّ، بَلْ هُوَ مِفْتَاحٌ۔**
+*as-Sayyidīnā: (bi-hudū’in) al-Mā’u yu‘ṭī wa ya’khudhu, yā bunayy. Huwa yaqtulu l-jasada ḍ-ḍa‘īfa aw ar-rūḥa ghayra l-musta‘iddah. Lākin, li-man yaṣbiru wa yu’minu, huwa yaftaḥu l-abwāba ilā l-māḍī... ilā dhikrayāti l-ummahāti l-lawātī ji’na qablanā. Huwa laysa mujarrada summin, bal huwa miftāḥ.* [R/D]
+(SI: (Com calma - *hudū’*) A Água dá (*a‘ṭā* F-IV) e tira (*akhadha*), meu pequeno filho (*bunayy* diminutivo). Ela mata o corpo fraco ou o espírito não preparado (*ghayr musta‘idd*). Mas, para quem persevera (*ṣabara*) e acredita (*āmana* F-IV), ela abre as portas para o passado... para as memórias das mães (*al-lawātī* = que, fem. pl.) que vieram antes de nós. Ela não é mero veneno (*mujarrad summ*), mas sim (*bal*) uma chave (*miftāḥ*).)
+
+**الـ ش.ف.:** **أَفْهَمُ... قَلِيلاً. شُكْرًا لِحِكْمَتِكِ يَا سَيِّدِينَا۔**
+*ash-Sh.F.: Afhamu... qalīlan. Shukran li-ḥikmatiki yā Sayyidīnā.* [R/D]
+(JF: Eu entendo... um pouco. Obrigado por sua sabedoria, ó Sayyadina.)
+
+
+
+**Diálogo 4: Contando Recursos no Sietch**
+*Personagens: Mestre da Água (MA), Assistente Jovem (AJ).*
+
+**الـ م.م.:** **(يَفْحَصُ سِجِلاًّ) كَمْ لِتْرًا مِنَ المَاءِ النَّقِيِّ أَضَفْنَا إِلَى الصِّهْرِيجِ الرَّئِيسِيِّ هٰذَا الأُسْبُوعَ؟**
+*al-M.M.: (yafḥaṣu sijillan) Kam litran min al-mā’i n-naqīyi aḍafnā ilā ṣ-ṣihrīji r-ra’īsīyi hādha l-usbū‘?* [R]
+(MA: (Examina um registro - *sijill*) Quantos litros (*litr*) de água pura adicionamos (*aḍāfa* F-IV) à cisterna principal esta semana?)
+
+**الـ م.ج.:** **أَضَفْنَا مَاءَ خَمْسَةِ أَعْدَاءٍ قُتِلُوا فِي الغَارَةِ الأَخِيرَةِ، وَ حَصَلْنَا عَلَى مِائَةِ لِتْرٍ مِنَ الرُّطُوبَةِ الجَوِّيَّةِ. المَجْمُوعُ... رُبَّمَا مِائَةٌ وَ ثَمَانُونَ لِتْرًا، يَا سَيِّدِي۔**
+*al-A.J.: Aḍafnā mā’a khamsati a‘dā’in qutilū fī l-ghārati l-akhīrah, wa ḥaṣalnā ‘alā mi’ati litrin min ar-ruṭūbati l-jawwiyyah. al-Majmū‘u... rubbamā mi’atun wa thamānūna litran, yā sayyidī.* [R]
+(AJ: Adicionamos a água de cinco inimigos (*‘aduww* pl. *a‘dā’*) que foram mortos (*qutilū*, passivo) na última incursão, e obtivemos (*ḥaṣala ‘alā*) cem litros da umidade atmosférica (*ruṭūbah jawwiyyah*). O total... talvez cento e oitenta litros, meu senhor.)
+
+**الـ م.م.:** **خَمْسَةُ أَعْدَاءٍ فَقَطْ؟ قَلِيلٌ. وَ مِائَةٌ وَ ثَمَانُونَ لِتْرًا لَيْسَ كَافِيًا لِسَدِّ حَاجَاتِ القَبِيلَةِ لِشَهْرٍ كَامِلٍ. عَلَيْنَا أَنْ نَزِيدَ كَفَاءَةَ جَمْعِ الرُّطُوبَةِ۔**
+*al-M.M.: Khamsatu a‘dā’in faqaṭ? Qalīlun. Wa mi’atun wa thamānūna litran laysa kāfiyan li-saddi ḥājāti l-qabīlati li-shahrin kāmil. ‘Alaynā an nazīda kafā’ata jam‘i r-ruṭūbah.* [R]
+(MA: Apenas cinco inimigos? Pouco. E cento e oitenta litros não é suficiente (*kāfin*) para suprir (*sadda*) as necessidades (*ḥājāt*) da tribo por um mês (*shahr*) completo. Devemos aumentar (*zāda/yazīdu* -> *nazīda* subj.) a eficiência (*kafā’ah*) da coleta (*jam‘*) de umidade.)
+
+**الـ م.ج.:** **نَعَمْ يَا سَيِّدِي. سَنَعْمَلُ بِجِدٍّ أَكْبَرَ۔**
+*al-A.J.: Na‘am yā sayyidī. Sa-na‘malu bi-jiddin akbar.* [R]
+(AJ: Sim, meu senhor. Trabalharemos com maior afinco (*jidd*).)
+
+
+
+**Diálogo 5: Interação Familiar Simples**
+*Personagens: Mãe Fremen (Umm), Filho Pequeno (Ibn).*
+
+**الأُمّ:** **يَا وَلَدِي، هَلْ أَكْمَلْتَ وَاجِبَاتِكَ؟ هَلْ سَاعَدْتَ أَبَاكَ فِي الوَرْشَةِ؟**
+*al-Umm: Yā waladī, hal akmalta wājibātika? Hal sā‘adta abāka fī l-warshah?* [R]
+(Mãe: Ó meu filho (*waladī*), você (masc.) completou (*akmala* F-IV) seus deveres (*wājibāt*)? Você ajudou (*sā‘ada* F-III) seu pai (*abāka* acusativo) na oficina?)
+
+**الاِبْن:** **نَعَمْ يَا أُمِّي. نَظَّفْتُ الأَدَوَاتِ كَمَا أَمَرْتِ. وَ أَعْطَيْتُ المَاءَ لِلنَّبَاتَاتِ فِي البُسْتَانِ أَيْضًا۔ هَلْ يُمْكِنُنِي الذَّهَابُ لِلَّعِبِ مَعَ أَصْدِقَائِي الآنَ؟**
+*al-Ibn: Na‘am yā ummī. Naẓẓaftu l-adawāti kamā amarti. Wa a‘ṭaytu l-mā’a lin-nabātāti fī l-bustāni ayḍan. Hal yumkinunī dh-dhahābu lil-la‘ibi ma‘a aṣdiqā’ī l-ān?* [R]
+(Filho: Sim, minha mãe (*ummī*). Limpei (*naẓẓafa* F-II) as ferramentas como você (fem.) ordenou (*amarti*). E dei (*a‘ṭaytu*) a água para as plantas (*nabātāt*) no jardim também. É possível para mim ir (*dhahāb*) para brincar (*la‘ib*) com meus amigos (*aṣdiqā’ī*) agora?)
+
+**الأُمّ:** **(تَبْتَسِمُ قَلِيلاً) طَيِّب. لٰكِنْ لا تَتَأَخَّرْ، وَ لا تُصْدِرْ ضَوْضَاءَ عَالِيَةً. وَ تَذَكَّرْ، المَاءُ يَنْتَمِي إِلَى القَبِيلَةِ، حَتَّى فِي اللَّعِبِ۔**
+*al-Umm: (tabtasimu qalīlan) Ṭayyib. Lākin lā tata’akhkhar, wa lā tuṣdir ḍawḍā’an ‘āliyah. Wa tadhakkar, al-mā’u yantamī ilā l-qabīlah, ḥattā fī l-la‘ib.* [R]
+(Mãe: (Sorri - *ibtásama* F-VIII - um pouco) Bem. Mas não se atrase (*ta’akhkhara* F-V jussivo), e não faça (*aṣdara* F-IV jussivo) barulho (*ḍawḍā’*) alto. E lembre-se, a água pertence (*intamā ilā* F-VIII) à tribo, mesmo na brincadeira.)
+
+**الاِبْن:** **حَاضِرٌ يَا أُمِّي! شُكْرًا!‏**
+*al-Ibn: Ḥāḍirun yā ummī! Shukran!* [R]
+(Filho: Presente/Entendido, minha mãe! Obrigado!)
+
+
+
+**Diálogo 6: Comentários sobre o Ambiente do Deserto**
+*Personagens: Dois Fremen em patrulha externa.*
+
+**الفِرِمِنِيّ 1:** **اُنْظُرْ إِلَى تِلْكَ الرِّمَالِ! الرِّيحُ الشَّرْقِيَّةُ غَيَّرَتْ شَكْلَ الكُثْبَانِ كُلِّيًّا اللَّيْلَةَ المَاضِيَةَ۔**
+*al-Firemenīy 1: Unẓur ilā tilka r-rimāl! ar-Rīḥu sh-sharqiyyatu ghayyarat shakla l-kuthbāni kullīyan al-laylata l-māḍiyah.* [R]
+(Fremen 1: Olhe para aquelas areias! O vento leste (*sharqīy*) mudou (*ghayyara* F-II) a forma das dunas completamente (*kullīyan*) na noite passada.)
+
+**الفِرِمِنِيّ 2:** **صَحِيح. وَ الهَوَاءُ جَافٌّ جِدًّا اليَوْمَ. أَشْعُرُ بِهِ حَتَّى مِنْ خِلالِ البَدْلَةِ. يَجِبُ أَنْ نَكُونَ حَذِرِينَ مِنْ فُقْدَانِ المَاءِ بِسُرْعَةٍ۔**
+*al-Firemenīy 2: Ṣaḥīḥ. Wa l-hawā’u jāffun jiddan al-yawm. Ash‘uru bihi ḥattā min khilāli l-badlah. Yajibu an nakūna ḥadhirīna min fuqdāni l-mā’i bi-sur‘ah.* [R]
+(Fremen 2: Correto. E o ar está muito seco hoje. Eu sinto (*sha‘ara bi-*) isso mesmo através (*min khilāli*) do traje. Devemos ser cautelosos (*ḥadhirīn* pl.) sobre a perda de água rapidamente.)
+
+**الفِرِمِنِيّ 1:** **نَعَمْ. وَ القَمَرُ الأَوَّلُ سَيَغْرُبُ قَرِيبًا. لِنَجِدْ مَكَانًا لِلاِسْتِرَاحَةِ فِي ظِلِّ تِلْكَ الصُّخُورِ هُنَاكَ۔**
+*al-Firemenīy 1: Na‘am. Wa l-qamaru l-awwalu sa-yaghrubu qarīban. Li-najid makānan lil-istirāḥati fī ẓilli tilka ṣ-ṣukhūr hunāk.* [R]
+(Fremen 1: Sim. E a primeira lua se porá (*gharaba*) em breve. Encontremos (*wajada* jussivo com *li-*) um lugar para descanso (*istirāḥah* F-X masdar) na sombra (*ẓill*) daquelas rochas ali.)
+
+**الفِرِمِنِيّ 2:** **فِكْرَةٌ جَيِّدَةٌ۔ لِنَتَحَرَّكْ۔**
+*al-Firemenīy 2: Fikratun jayyidah. Li-nataḥarrak.* [R]
+(Fremen 2: Boa ideia. Movamo-nos (*taḥarraka* F-V jussivo com *li-*).)
+
+
+
+**Diálogo 7: Identificação Social e Procedência**
+*Personagens: Guarda do Sietch (Ḥāris), Viajante Fremen (Musāfir).*
+
+**الحَارِس:** **قِفْ! مَنْ أَنْتَ؟ مِنْ أَيِّ قَبِيلَةٍ وَ سِيَتْشٍ أَنْتَ؟**
+*al-Ḥāris: Qif! Man anta? Min ayyi qabīlatin wa sietchin anta?* [R/C/D]
+(Guarda: Pare! Quem é você? De qual tribo e sietch você é?)
+
+**المُسَافِر:** **أَنَا زَايِدُ بْنُ سُلَيْمَانَ، مِنْ قَبِيلَةِ البَنِي خَالِد، سِيَتْشِ الغُرَابِ الأَسْوَدِ۔ أَحْمِلُ رِسَالَةً لِنَايِبِكُمْ۔**
+*al-Musāfir: Anā Zāyidu bnu Sulaymāna, min qabīlati l-Banī Khālid, Sīetchi l-Ghurābi l-Aswad. Aḥmilu risālatan li-nā’ibikum.* [R]
+(Viajante: Eu sou Zayd filho de Sulayman, da tribo Bani Khalid, Sietch do Corvo Negro (*ghurāb aswad*). Eu carrego (*ḥamala*) uma mensagem para o seu Naib.)
+
+**الحَارِس:** **(يَنْظُرُ بِشَكٍّ) البَنِي خَالِد... قَبِيلَةٌ بَعِيدَةٌ. مَا هِيَ كَلِمَةُ السِّرِّ لِهٰذَا اليَوْمِ؟**
+*al-Ḥāris: (yanẓuru bi-shakkin) al-Banī Khālid... Qabīlatun ba‘īdah. Mā hiya kalimatu s-sirri li-hādha l-yawm?* [R]
+(Guarda: (Olha com suspeita) Bani Khalid... uma tribo distante. Qual é a senha para este dia?)
+
+**المُسَافِر:** **(يَهْمِسُ) "المَاءُ يَتَذَكَّرُ"۔**
+*al-Musāfir: (yahmisu) "al-Mā’u yatadhakkaru".* [R]
+(Viajante: (Sussurra) "A água lembra".)
+
+**الحَارِس:** **(يُومِئُ بِرَأْسِهِ) صَحِيح. يُمْكِنُكَ الدُّخُولُ، لٰكِنَّكَ سَتُرَافَقُ إِلَى المَجْلِسِ مُبَاشَرَةً۔ اِتْبَعْنِي۔**
+*al-Ḥāris: (yūmi’u bi-ra’sihi) Ṣaḥīḥ. Yumkinuka d-dukhūlu, lākinaka sa-turāfaqu ilā l-majlisi mubāsharatan. Itba‘nī.* [R]
+(Guarda: (Acena com a cabeça - *awma’a bi-ra’sihi*) Correto. É possível para você a entrada, mas você será acompanhado (*rāfaqa* F-III passivo fut.) ao Conselho imediatamente. Siga-me.)
+
+
 
 **8.8 Exercícios Expansivos e Integrados**
 
+Estes exercícios visam a testar sua compreensão do vocabulário introduzido neste capítulo (Saudações, Números, Ambiente, Família/Sociedade) dentro de contextos gramaticais variados.
+
 **(A): Completar Frases com Vocabulário Apropriado (Expandido)**
-Complete com a palavra Chakobsa mais adequada da lista ou do capítulo. Escreva em Khatt al-Ibad e STP.
+Escolha a palavra ou expressão Chakobsa mais adequada da lista (ou do capítulo) para completar cada frase. Escreva a frase completa em Khatt al-Ibad e STP.
 
 *Lista:* **عَطْشَان** (*‘aṭshān*), **قَبَائِل** (*qabā’il*), **مُحَارِبِين** (*muḥāribīn*), **شُكْرًا جَزِيلاً** (*shukran jazīlan*), **لابَأْس** (*lā ba’s*), **صَحْرَاوِيّ** (*ṣaḥrāwīy*), **خَمْسَة** (*khamsah*), **رِمَال** (*rimāl*), **سِيَتْشَات** (*sīetchāt*), **مَرْحَبًا** (*marḥaban*), **أَخِي** (*akhī*), **أَجْنَبِيّ** (*ajnabīy*), **مَاء** (*mā’*), **أُمِّي** (*ummī*).
 
@@ -646,68 +781,82 @@ Complete com a palavra Chakobsa mais adequada da lista ou do capítulo. Escreva 
 8.  **______ لِمُسَاعَدَتِكَ يَا ______۔** (______ por sua ajuda, ó ______.) (*musā‘adah* = ajuda)
 
 **(B): Formação de Números e Concordância (Avançado)**
-Escreva corretamente em Chakobsa (Khatt al-Ibad e STP).
+Escreva os números e substantivos corretamente em Chakobsa (Khatt al-Ibad e STP).
 
-1.  14 livros
-2.  28 guerreiros (nominativo)
-3.  Eu vi 60 mulheres (acusativo)
-4.  Com 1000 amigos (genitivo)
-5.  A décima primeira noite
-6.  Sete sietches
-7.  Três Reverendas Madres
+1.  Cinco livros (livro = *kitāb*, masc.)
+2.  Sete filhas (filha = *bint*, fem.)
+3.  Doze guerreiros (guerreiro = *muḥārib*, masc.)
+4.  Vinte e uma noites (noite = *laylah*, fem.)
+5.  Cem sietches (sietch = *sīetch*, masc.)
+6.  A quarta duna (duna = *kathīb*, masc.)
+7.  Duas facas (faca = *sikkīn*, masc.)
+8.  Quinhentas tâmaras (tâmara = *tamrah*, fem.)
+9.  Mil e uma estrelas (estrela = *najm*, masc.)
+10. O trigésimo ano (ano = *‘ām*, masc.)
 
 **(C): Tradução de Frases Médias (Português → Chakobsa)**
 
-1.  Meu irmão disse que talvez chova (*tumṭiru*) amanhã. (Use *anna*)
-2.  As crianças Fremen aprendem sobre Shai-Hulud muito cedo (*mubakkiran jiddan*).
-3.  Quantos dias há (*hunāka*) em um mês (*shahr*) de Arrakis?
-4.  Não há lugar seguro (*āmin*) fora dos sietches durante uma tempestade Coriolis.
-5.  A disciplina da água e a fé em Deus são os pilares (*arkān*) de nossa sociedade.
+1.  Bem-vindo à nossa tribo (**قَبِيلَة**).
+2.  A paciência do deserto é longa (**طَوِيل**).
+3.  Meu pai era um Naib forte (**قَوِيّ**).
+4.  Quantos anéis de água você (fem.) tem?
+5.  Não, obrigado, eu não estou com sede. (Use *lastu* para "não estou").
+6.  As duas luas de Arrakis guiam (*tahdī*) os viajantes.
+7.  Existem muitas (**كَثِيرَة**) tribos Fremen espalhadas (*muntaširah*) pelo deserto.
+8.  "Como vão as coisas no seu sietch?" perguntou (*sa’ala*) o batedor.
 
 **(D): Tradução de Frases Médias (Chakobsa → Português)**
 
-1.  **لَيْسَ كُلُّ مَنْ يَعِيشُ فِي الصَّحْرَاءِ فِرِمِنِيًّا۔** (*Laysa kullu man ya‘īshu fī ṣ-ṣaḥrā’i firemenīyan.*) (*man* = quem/aquele que).
-2.  **أَتَذْكُرُ اليَوْمَ الأَوَّلَ الَّذِي رَأَيْنَا فِيهِ المُؤَدِّيبَ؟** (*A-tadhkuru l-yawma l-awwala lladhī ra’aynā fīhi l-Mu’addīb?*) (*tadhkuru* = você lembra; *alladhī* = que/o qual).
-3.  **قَدَّمَتِ البِنْتُ الصَّغِيرَةُ ثَلاثَ تَمَرَاتٍ لِأُمِّهَا۔** (*Qaddamati l-bintu ṣ-ṣaghīratu thalātha tamarātin li-ummihā.*)
-4.  **إِنْ تَصْبِرْ، تَنَلْ مَا تُرِيدُ۔** (*In taṣbir, tanal mā turīd.*) (Condicional com Jussivo: *ṣabara*; *nāla/yanālu* = obter → *tanal* Juss.)
-5.  **هَلْ تُفَضِّلُ الأَقَامَةَ فِي الوَاحَةِ أَمِ العَوْدَةَ إِلَى السِّيَتْشِ؟** (*Hal tufaḍḍilu l-iqāmata fī l-wāḥati am al-‘awdata ilā s-sīetch?*) (*faḍḍala* = preferir; *iqāmah* = estadia; *am* = ou (em perguntas); *‘awdah* = retorno).
+1.  **مَعَ السَّلامَة يَا أُخْتِي العَزِيزَة۔ نَلْتَقِي قَرِيبًا إِنْ شَاءَ اللهُ۔** (*Ma‘a s-salāmah yā ukhtī l-‘azīzah. Naltaqī qarīban in shā’a llāh.*) [R] (*‘azīz* = querido/caro; *naltaqī* = nos encontramos; *in shā’a llāh* = se Deus quiser).
+2.  **أَبْنَاءُ الفِرِمِنِ يَتَعَلَّمُونَ اِنْضِبَاطَ المَاءِ مُنْذُ نُعُومَةِ أَظْفَارِهِمْ۔** (*Abnā’u l-Fremeni yata‘allamūna nḍibāṭa l-mā’i mundhu nu‘ūmati aẓfārihim.*) [R/D] (*mundhu nu‘ūmati aẓfārihim* = desde a maciez de suas unhas = desde a infância).
+3.  **هَلْ رَأَيْتَ القَمَرَيْنِ اللَّيْلَةَ المَاضِيَةَ؟ كَانَا جَمِيلَيْنِ بِشَكْلٍ خَاصٍّ۔** (*Hal ra’ayta l-qamarayni l-laylata l-māḍiyah? Kānā jamīlayni bi-shaklin khāṣṣin.*) [R] (*laylah māḍiyah* = noite passada; *jamīlayn* dual; *bi-shaklin khāṣṣ* = de forma especial).
+4.  **قَدَّمَ الضَّيْفُ سَبْعَ تَمَرَاتٍ وَ إِبْرِيقًا مِنْ قَهْوَةِ التَّابِلِ لِلنَّايِبِ كَعَلَامَةِ اِحْتِرَامٍ۔** (*Qaddama ḍ-ḍayfu sab‘a tamarātin wa ibrīqan min qahwati t-tābili lin-Nā’ibi ka-‘alāmati ḥtirām.*) [R] (*ibrīq* = jarro/bule; *ka-‘alāmati* = como sinal de).
+5.  **لا ثِقَةَ لِلأَجْنَبِيِّ حَتَّى يُثْبِتَ وَلاءَهُ لِلقَبِيلَةِ وَ لِشَرِيعَةِ الصَّحْرَاءِ۔** (*Lā thiqata lil-ajnabīyi ḥattā yuthbita walā’ahu lil-qabīlati wa li-sharī‘ati ṣ-ṣaḥrā’.*) [R] (*thiqah* = confiança; *athbata* = provar F-IV; *walā’* = lealdade).
+6.  **تَتَكَلَّمُ الأُسْطُورَةُ عَنْ وَقْتٍ كَانَتْ فِيهِ أَرَّاكِسُ خَضْرَاءَ، مَلِيئَةً بِالأَنْهَارِ وَ البُحَيْرَاتِ۔** (*Tatakallamu l-usṭūratu ‘an waqtin kānat fīhi Arrakisu khaḍrā’a, malī’atan bil-anhāri wa l-buḥayrāt.*) [R] (*anhār* pl. de *nahr*; *buḥayrāt* pl. de *buḥayrah*).
+7.  **الأُمُّ هِيَ المَدْرَسَةُ الأُولَى لِلطِّفْلِ الفِرِمِنِيِّ۔** (*al-Ummu hiya l-madrasatu l-ūlā liṭ-ṭifli l-firemenīy.*) [R]
 
-**(E): Explicação de Termos Culturais (Expandido)**
-Escolha **cinco** termos ou conceitos introduzidos neste capítulo (e.g., *as-Salāmu ‘alaykum*, Polaridade de Gênero 3-10, *Shams*, *Qamarāni*, *Ummah*, *Ajnabīy*, *Mā’ al-Ḥayāt*, *Inḍibāṭ al-mā’*). Para cada um, escreva dois parágrafos: o primeiro explicando seu significado literal e estrutura (se aplicável), e o segundo explorando seu significado cultural, simbólico ou prático profundo dentro do contexto Fremen.
+**(E): Análise Cultural de Termos (Expandido)**
+Escolha **cinco** termos ou conceitos introduzidos neste capítulo (e.g., *as-Salāmu ‘alaykum*, Polaridade de Gênero 3-10, *Shams*, *Qamarāni*, *Ummah*, *Ajnabīy*, *Mā’ al-Ḥayāt*, *Inḍibāṭ al-mā’*, *Fedaykin*) e escreva uma análise detalhada (mínimo dois parágrafos longos por conceito) em português, explorando suas origens (Zensunni, Missionaria Protectiva, Adaptação Arrakiana), seu significado multifacetado para os Fremen, e como ele se manifesta na trama de Duna.
 
 **(F): Criação de Diálogo Temático (Expandido)**
 Escreva um diálogo mais longo (8-10 linhas) entre uma Sayyadina e um jovem Fedaykin que está prestes a partir em sua primeira missão perigosa. O diálogo deve incorporar saudações/despedidas formais, vocabulário familiar (talvez referências a pais/mães), termos sobre fé/destino, e talvez uma bênção ou conselho final. Use o vocabulário e a gramática aprendidos até agora.
 
-**(G): Identificação e Correção de Erros**
+**(G): Identificação e Correção de Erros (Expandido)**
 As seguintes frases Chakobsa contêm erros de concordância, formação de número ou uso de artigo. Identifique o erro e reescreva a frase corretamente (Khatt al-Ibad e STP).
 
 1.  **ثَلاث بَنُونَ ذَهَبُوا۔** (*thalāth banūna dhahabū.*) (Erro: Gênero do número 3 com substantivo masculino plural).
-2.  **رَأَيْتُ السِيَتْش الكَبِير۔** (*Ra’aytu as-sīetch al-kabīr.*) (Erro: Concordância de adjetivo com possível gênero de *Sīetch* ou definição).
+2.  **رَأَيْتُ السِيَتْش الكَبِير۔** (*Ra’aytu as-sīetch al-kabīr.*) (Erro: Definição do adjetivo).
 3.  **عِنْدِي كِتَاب وَاحِدَةٌ۔** (*‘Indī kitāb wāḥidah.*) (Erro: Concordância de gênero do número 1).
 4.  **خَمْسَة نِسَاء جَاءُوا۔** (*khamsah nisā’ jā’ū.*) (Erro: Gênero do número 5 com substantivo feminino plural; verbo *jā’a* deveria estar fem. sg. em VSO?).
 5.  **اليَوْم ثَالِث مُهِمّ۔** (*al-yawm thālith muhimm.*) (Erro: Falta de concordância de definição no ordinal e adjetivo).
+6.  **عَشْرَة رِجَالٍ قَوِيٌّ۔** (*‘asharah rijālin qawiyyun.*) (Erro: Concordância de número do adjetivo).
+7.  **القَبِيلَة الأُولَى كَانُوا أَشْجَعُ۔** (*al-qabīlah al-ūlā kānū ashja‘u.*) (Erro: Concordância de gênero/número do verbo *kāna*).
+8.  **أَرْبَعَة بَنَاتٍ لَعِبُوا هُنَاكَ۔** (*arba‘ah banātin la‘ibū hunāka.*) (Erro: Gênero do número 4 e concordância verbal VSO).
 
 ---
-**Respostas dos Exercícios do Capítulo 8**
+**8.9 Respostas dos Exercícios do Capítulo 8**
 
 **(A): Completar Frases com Vocabulário Apropriado**
-1.  B: **نَعَمْ** (*na‘am*)
-2.  **قَبِيلَةٌ** (*qabīlatun*) (Unidade tribal)
-3.  **مَاءٍ** (*mā’in*) (água)
-4.  **النَّايِبُ** (*an-nā’ibu*) (o Naib)
-5.  **الصَّحْرَاءِ** (*aṣ-ṣaḥrā’i*) (o deserto)
-6.  **أَهْلاً** (*ahlan*) ou **مَرْحَبًا** (*marḥaban*)
-7.  **أُقَدِّمُ لَكَ **أَخِي**، **مُحَارِبٌ** وَاحِدٌ مِنَ الشُّجْعَانِ۔** (*...akhī, muḥāribun...*) (meu irmão, guerreiro)
-8.  **ثَلاثَةٌ** (*thalāthatun*) (três - com ة porque *‘aduww* é masc.)
+1.  **أَخِي** (*akhī*) / **لابَأْس** (*lā ba’s*) (ou *bi-khayr*)
+2.  **أَجْنَبِيّ** (*ajnabīy*)
+3.  **قَبَائِل** (*qabā’il*)
+4.  **عَطْشَانًا** (*‘aṭshānan*) / **مَاءٍ** (*mā’in*)
+5.  **مُحَارِبُونَ** (*muḥāribūn*)
+6.  **الرِّمَالُ** (*ar-rimālu*)
+7.  **أَهْلاً** (*ahlan*) ou **مَرْحَبًا** (*marḥaban*)
+8.  **شُكْرًا جَزِيلاً** (*shukran jazīlan*) / **أُمِّي** (*ummī*) (ou outro termo familiar)
 
 **(B): Formação de Números e Concordância**
-1.  14 livros: **أَرْبَعَةَ عَشَرَ كِتَابًا** (*arba‘ata ‘ashara kitāban*)
-2.  28 guerreiros (nom.): **ثَمَانِيَةٌ وَ عِشْرُونَ مُحَارِبًا** (*thamāniyatun wa ‘ishrūna muḥāriban*)
-3.  Eu vi 60 mulheres (acc.): **رَأَيْتُ سِتِّينَ اِمْرَأَةً** (*Ra’aytu sittīna mra’atan*)
-4.  Com 1000 amigos (gen.): **مَعَ أَلْفِ صَدِيقٍ** (*Ma‘a alfi ṣadīqin*)
-5.  A décima primeira noite: **اللَّيْلَةُ الحَادِيَةَ عَشْرَةَ** (*al-Laylatu l-ḥādiyata ‘ashrah*)
-6.  Sete sietches: **سَبْعَةُ سِيَتْشَاتٍ** (*sab‘atu sīetchātin*) (usando plural regular proposto)
-7.  Três Reverendas Madres: **ثَلاثُ أُمَّهَاتٍ مُبَجَّلاتٍ** (*thalāthu ummahātin mubajjalātin*) (Número sem ة; Plural fem + Adj fem pl)
+1.  Cinco livros: **خَمْسَةُ كُتُبٍ** (*khamsatu kutubin*)
+2.  Sete filhas: **سَبْعُ بَنَاتٍ** (*sab‘u banātin*)
+3.  Doze guerreiros: **اِثْنَا عَشَرَ مُحَارِبًا** (*ithnā ‘ashara muḥāriban*)
+4.  Vinte e uma noites: **إِحْدَى وَ عِشْرُونَ لَيْلَةً** (*iḥdā wa ‘ishrūna laylatan*)
+5.  Cem sietches: **مِائَةُ سِيَتْشٍ** (*mi’atu sietchin*)
+6.  A quarta duna: **الكَثِيبُ الرَّابِعُ** (*al-Kathību r-rābi‘u*)
+7.  Duas facas: **سِكِّينَانِ اِثْنَتَانِ** (*sikkīnāni ithnatāni*) ou **سِكِّينَانِ** (*sikkīnāni*)
+8.  Quinhentas tâmaras: **خَمْسُ مِائَةِ تَمْرَةٍ** (*khamsu mi’ati tamrah*)
+9.  Mil e uma estrelas: **أَلْفُ نَجْمٍ وَ نَجْمٌ وَاحِدٌ** (*alfu najmin wa najmun wāḥid*)
+10. O trigésimo ano: **العَامُ الثَّلاثُونَ** (*al-‘Āmu th-thalāthūn*)
 
 **(C): Tradução (Português → Chakobsa)**
 1.  Bem-vindo à nossa tribo. → **أَهْلاً بِكُمْ فِي قَبِيلَتِنَا۔** (*Ahlan bikum fī qabīlatinā.*)
@@ -715,24 +864,32 @@ As seguintes frases Chakobsa contêm erros de concordância, formação de núme
 3.  Meu pai era um Naib forte. → **كَانَ أَبِي نَايِبًا قَوِيًّا۔** (*Kāna abī nā’iban qawiyyan.*)
 4.  Quantos anéis de água você (fem.) tem? → **كَمْ حَلَقَةَ مَاءٍ عِنْدَكِ؟** (*Kam ḥalaqata mā’in ‘indaki?*)
 5.  Não, obrigado, eu não estou com sede. → **لا، شُكْرًا، لَسْتُ عَطْشَانًا۔** (*Lā, shukran, lastu ‘aṭshānan.*) (Se falante for mulher: **لَسْتُ عَطْشَى۔** *lastu ‘aṭshā*)
+6.  As duas luas de Arrakis guiam os viajantes. → **قَمَرَا أَرَّاكِسَ يَهْدِيَانِ المُسَافِرِينَ۔** (*Qamarā Arrakisa yahdiyāni l-musāfirīn.*)
+7.  Existem muitas tribos Fremen espalhadas pelo deserto. → **هُنَاكَ قَبَائِلُ فِرِمِنِيَّةٌ كَثِيرَةٌ مُنْتَشِرَةٌ عَبْرَ الصَّحْرَاءِ۔** (*Hunāka qabā’ilu firemeniyyatun kathīratun muntashiratun ‘abra ṣ-ṣaḥrā’.*)
+8.  "Como vão as coisas no seu sietch?" perguntou o batedor. → **"كَيْفَ الأَحْوَالُ فِي سِيَتْشِكَ؟" سَأَلَ الكَشَّافُ۔** (*"Kayfa l-aḥwālu fī sīetchik?" sa’ala l-kashshāfu.*)
 
 **(D): Tradução (Chakobsa → Português)**
-1.  Adeus (Vá com segurança), minha querida irmã.
-2.  Os filhos dos Fremen aprendem a disciplina da água cedo.
-3.  Você (masc.) viu as duas luas na noite passada? Elas (duas) estavam bonitas.
-4.  O convidado apresentou três tâmaras ao Naib.
-5.  Não há confiança para o forasteiro até que ele prove sua lealdade.
+1.  Adeus (Vá com segurança), minha querida irmã. Nos encontramos em breve, se Deus quiser.
+2.  Os filhos dos Fremen aprendem a disciplina da água desde a (maciez de suas unhas =) infância.
+3.  Você (masc.) viu as duas luas na noite passada? Elas (duas) estavam bonitas de forma especial.
+4.  O convidado apresentou sete tâmaras e um jarro de café de especiaria ao Naib como sinal de respeito.
+5.  Não há confiança para o forasteiro até que ele prove sua lealdade à tribo e à lei do deserto.
+6.  A lenda fala de um tempo em que Arrakis era verdejante, cheia de rios e lagos.
+7.  A mãe é a primeira escola para a criança Fremen.
 
 **(E): Análise Cultural de Termos**
 *   Respostas discursivas variadas, focando na conexão entre significado literal e importância/simbolismo em Duna.
 
-**(F): Criação de Diálogo**
+**(F): Criação de Diálogo Temático**
 *   Respostas variadas, avaliadas pela correção gramatical, uso apropriado do vocabulário do capítulo e adequação ao cenário proposto.
 
 **(G): Identificação e Correção de Erros**
-1.  Erro: Gênero do número 3. Correto: **ثَلاثَةُ بَنِينَ ذَهَبُوا۔** (*thalāthatu banīna dhahabū.*) (Forma genitiva/acc. de *banūn*; verbo pode ser singular *dhahaba* em VSO). Ou **ثَلاثَةُ أَبْنَاءٍ ذَهَبُوا۔** (*thalāthatu abnā’in dhahabū.*)
-2.  Erro: Definição do adjetivo. Correto: **رَأَيْتُ السِيَتْشَ الكَبِيرَ۔** (*Ra’aytu s-sīetcha l-kabīr.*) (Ambos definidos e no acusativo como objeto).
-3.  Erro: Gênero do número 1. Correto: **عِنْدِي كِتَابٌ وَاحِدٌ۔** (*‘Indī kitābun wāḥidun.*)
-4.  Erro: Gênero do número 5 e concordância verbal. Correto: **خَمْسُ نِسَاءٍ جِئْنَ۔** (*khamsu nisā’in ji’na.*) (Número sem ة; verbo no feminino plural). Ou em VSO: **جَاءَتْ خَمْسُ نِسَاءٍ۔** (*jā’at khamsu nisā’in.*)
-5.  Erro: Concordância de definição e caso. Correto: **اليَوْمُ الثَّالِثُ مُهِمٌّ۔** (*al-Yawmu th-thālithu muhimmun.*) (Todos definidos e nominativos, se for frase nominal). Ou **اليَوْمَ الثَّالِثَ...** (*al-Yawma th-thālitha...*) se for advérbio de tempo.
+1.  Erro: Gênero número 3. Correto: **ثَلاثَةُ بَنِينَ ذَهَبُوا۔** (*thalāthatu banīna dhahabū.*) (Forma genitiva/acc. de *banūn*; verbo pode ser singular *dhahaba* em VSO). Ou **ثَلاثَةُ أَبْنَاءٍ ذَهَبُوا۔** (*thalāthatu abnā’in dhahabū.*)
+2.  Erro: Definição adjetivo. Correto: **رَأَيْتُ السِيَتْشَ الكَبِيرَ۔** (*Ra’aytu s-sīetcha l-kabīra.*) (Ambos definidos e no acusativo como objeto).
+3.  Erro: Gênero número 1. Correto: **عِنْدِي كِتَابٌ وَاحِدٌ۔** (*‘Indī kitābun wāḥidun.*)
+4.  Erro: Gênero número 5; concordância verbal VSO. Correto: **جَاءَتْ خَمْسُ نِسَاءٍ۔** (*jā’at khamsu nisā’in.*)
+5.  Erro: Concordância definição/caso. Correto: **اليَوْمُ الثَّالِثُ مُهِمٌّ۔** (*al-Yawmu th-thālithu muhimmun.*) (Todos definidos e nominativos, se for frase nominal).
+6.  Erro: Concordância número adjetivo. Correto: **عَشَرَةُ رِجَالٍ أَقْوِيَاءُ۔** (*‘asharatu rijālin aqwiyā’.*) (ou *qawiyyūn*).
+7.  Erro: Concordância verbo *kāna*. Correto: **القَبِيلَةُ الأُولَى كَانَتْ أَشْجَعَ۔** (*al-Qabīlah al-ūlā kānat ashja‘a.*)
+8.  Erro: Gênero número 4; concordância VSO. Correto: **لَعِبَتْ أَرْبَعُ بَنَاتٍ هُنَاكَ۔** (*la‘ibat arba‘u banātin hunāka.*)
 
