@@ -3,7 +3,7 @@
 
 # Apêndice B: 
 
-# Glossário Português – Chakobsa**
+# Glossário Português – Chakobsa
 ---
 
 Este glossário lista palavras em Português e seus equivalentes Chakobsa conforme introduzidos neste livro. A entrada inclui a palavra em Português, seguida pela(s) forma(s) Chakobsa em *Khatt al-Ibad* (representada com caracteres árabes como base visual) e a(s) transliteração(ões) STP em itálico. A ordenação é alfabética pela palavra em Português.
