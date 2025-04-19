@@ -1,8 +1,14 @@
-**Capítulo 9: A Linguagem da Sobrevivência – A Vida Pulsa no Coração do Sietch**
+---
 
-**(Página de Abertura: Uma imagem detalhada do interior de um Sietch – talvez uma vista ampla mostrando áreas de convivência comunal com tapeçarias Zensunni, crianças em treinamento silencioso, o brilho azulado de globos de luz em nichos rochosos, a entrada guardada de uma cisterna, e a sensação de um espaço vivo e funcional escavado na rocha protetora.)**
+# Capítulo 9
 
-*   *“Fora, na **صَحْرَاء** (*ṣaḥrā’*), reside a vastidão, o perigo manifesto, a provação do sol e do verme. Mas aqui, nas profundezas da rocha, no útero do **سِيَتْش** (*sīetch*), pulsa a verdadeira vida Fremen. Cada ferramenta (**أَدَاة** - *adāh*) tem seu lugar sagrado, cada gota d'água (**قَطْرَةُ مَاءٍ** - *qaṭratu mā’*) seu propósito inviolável, cada palavra (**كَلِمَة** - *kalimah*) seu peso cuidadosamente medido contra a balança da sobrevivência e do segredo. O desperdício – de recursos, de fôlego, de confiança – não é apenas um erro; é o primeiro passo para a morte, não apenas do indivíduo, mas da própria tribo. Aqui, a linguagem da sobrevivência é a linguagem da existência.”* – Manual de Disciplina do Sietch Tabr, Introdução aos Iniciados [R]
+# A Linguagem da Sobrevivência – A Vida Pulsa no Coração do Sietch
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“Fora, na **صَحْرَاء** (*ṣaḥrā’*), reside a vastidão, o perigo manifesto, a provação do sol e do verme. Mas aqui, nas profundezas da rocha, no útero do **سِيَتْش** (*sīetch*), pulsa a verdadeira vida Fremen. Cada ferramenta (**أَدَاة** - *adāh*) tem seu lugar sagrado, cada gota d'água (**قَطْرَةُ مَاءٍ** - *qaṭratu mā’*) seu propósito inviolável, cada palavra (**كَلِمَة** - *kalimah*) seu peso cuidadosamente medido contra a balança da sobrevivência e do segredo. O desperdício – de recursos, de fôlego, de confiança – não é apenas um erro; é o primeiro passo para a morte, não apenas do indivíduo, mas da própria tribo. Aqui, a linguagem da sobrevivência é a linguagem da existência.”* – Manual de Disciplina do Sietch Tabr, Introdução aos Iniciados [R]
 
 **9.1 Ferramentas do Deserto, Palavras da Casa: O Léxico da Vida no Sietch**
 
@@ -435,6 +441,4 @@ Imagine que você (usando **أَنَا** *anā*) está na **وَرْشَة** (*w
     *   Você: **هَلْ عِنْدَكَ وَاحِدَةٌ؟ أَحْتَاجُ إِلَيْهَا حَالاً، لَدَيَّ دَوْرِيَّةٌ قَرِيبًا۔** (*Hal ‘indaka wāḥidah? Aḥtāju ilayhā ḥālan, ladayya dawriyyatun qarīban.*) (Você tem uma? Preciso dela imediatamente, eu tenho uma patrulha em breve.)
     *   Responsável: **سَأَبْحَثُ فِي المَخْزَنِ۔ اِنْتَظِرْ هُنَا۔** (*Sa-abḥathu fī l-makhzan. Intaẓir hunā.*) (Procurarei no armazém. Espere aqui.)
 
----
-Com este vocabulário ricamente contextualizado, podemos começar a descrever a vida prática, as ferramentas essenciais e as rotinas disciplinares dentro de um Sietch Fremen. No próximo capítulo, nossa atenção se voltará para o exterior e para a ameaça constante: a linguagem da guerra, do combate e da defesa contra os inimigos que cobiçam Arrakis e oprimem seu povo.
 
