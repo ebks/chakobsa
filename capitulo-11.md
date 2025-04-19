@@ -6,6 +6,8 @@
 
 ---
 
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
 > *“Nas profundezas silenciosas do **سِيَتْش** (*sīetch*), onde a vida e a morte dançam ao ritmo eterno do verme, a **إِيمَان** (*īmān* - fé) não é um consolo para os fracos, nem uma abstração filosófica. É uma arma forjada na adversidade, um mapa estelar para a alma navegando no oceano de areia do tempo, a lente através da qual a própria realidade de Arrakis é percebida e moldada. E a língua dessa fé (**لُغَةُ الإِيمَانِ** - *lughat al-īmān* [R]), o Chakobsa dos rituais e das visões, é forjada no fogo da **نُبُوءَة** (*nubū’ah* - profecia), temperada na água sagrada da **ذِكْرَى** (*dhikrā* - memória) e desembainhada nos **طُقُوس** (*ṭuqūs* - rituais) que unem o Povo Livre ao seu destino manifesto.”* – Extrato dos Pergaminhos Secretos do Sietch, Meditações sobre a Natureza da Fé Fremen [R]
 
 **11.1 O Espírito nas Palavras: Explorando a Dimensão Sagrada do Chakobsa**
