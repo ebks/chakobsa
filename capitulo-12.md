@@ -1,22 +1,20 @@
-**Capítulo 12: Vozes Integradas – Prática Abrangente, Tradução e Aplicação Criativa do Chakobsa**
+---
 
-**(Página de Abertura: Uma imagem complexa, talvez um diagrama estilizado de um qanat Fremen, mostrando como diferentes riachos (representando fonologia, gramática, vocabulário temático) convergem e fluem juntos para irrigar um jardim escondido (representando a comunicação fluente). Inscrições em Khatt al-Ibad marcam os diferentes afluentes e o jardim.)**
+# Capítulo 12
 
-*   *“A gramática te dá a estrutura do qanat, os canais escavados na rocha da lógica. O vocabulário te dá a água, cada palavra uma gota preciosa coletada da experiência e da necessidade. Mas só a **مُمَارَسَة** (*mumārasah* - prática) constante, o fluxo incessante do uso e da aplicação, faz a água correr por esses canais, superar os bloqueios da hesitação e finalmente dar vida ao jardim da comunicação verdadeira. Não basta conhecer as palavras; é preciso fazê-las dançar ao ritmo do deserto.”* – Lema dos Escribas e Mestres de Língua do Sietch [R]
+# Vozes Integradas – Prática Abrangente, Tradução e Aplicação Criativa do Chakobsa**
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“A gramática te dá a estrutura do qanat, os canais escavados na rocha da lógica. O vocabulário te dá a água, cada palavra uma gota preciosa coletada da experiência e da necessidade. Mas só a **مُمَارَسَة** (*mumārasah* - prática) constante, o fluxo incessante do uso e da aplicação, faz a água correr por esses canais, superar os bloqueios da hesitação e finalmente dar vida ao jardim da comunicação verdadeira. Não basta conhecer as palavras; é preciso fazê-las dançar ao ritmo do deserto.”* – Lema dos Escribas e Mestres de Língua do Sietch [R]
 
 **12.1 Reunindo os Fios da Tapeçaria: Da Análise Teórica à Prática Fluente**
 
-Nossa longa e árdua jornada através das *Vozes das Areias* nos conduziu desde os fundamentos sonoros e gráficos do Chakobsa (Capítulos 2 e 3) até a intrincada arquitetura de sua gramática – os substantivos e suas flexões (Cap. 4), os adjetivos e sua concordância precisa (Cap. 5), a dinâmica complexa dos verbos com seus aspectos, modos e formas derivadas (Cap. 6), e a sintaxe que une tudo em frases coesas (Cap. 7). Em seguida, enriquecemos essa estrutura com o vocabulário vital que permeia a vida Fremen, desde as interações sociais e a relação com o ambiente hostil (Cap. 8) até a linguagem específica da sobrevivência no sietch (Cap. 9), do combate implacável (Cap. 10) e da fé profunda que os sustenta (Cap. 11).
+Ao longo desta jornada pelas *Vozes das Areias*, você desvendou os sons, a escrita, a gramática e o vocabulário essencial do Chakobsa. Aprendemos a nomear o mundo de Arrakis, descrevê-lo, narrar ações e expressar crenças fundamentais. Agora, no limiar de nossa exploração formal, é hora de integrar todo esse conhecimento.
 
-Possuímos agora as ferramentas – os conceitos, as regras, as palavras – para compreender e começar a expressar pensamentos na língua reconstruída do Povo Livre. No entanto, o conhecimento teórico, por mais detalhado que seja, permanece como água estagnada em uma cisterna se não for colocado em movimento. Chegamos, portanto, ao limiar de nossa exploração formal, ao capítulo onde a análise cede lugar à **síntese**, onde os fios individuais que tecemos meticulosamente serão reunidos para formar uma tapeçaria de comunicação mais completa e fluente.
-
-Este capítulo final de prática é dedicado à **integração e aplicação abrangente** de tudo o que aprendemos. Nosso foco agora não é mais introduzir novos conceitos, mas sim consolidar e aprofundar nosso domínio do sistema Chakobsa como um todo. Para isso, embarcaremos em três atividades principais:
-
-1.  **Leitura e Compreensão Aprofundada:** Trabalharemos com **textos Chakobsa mais longos e complexos** do que os mini-diálogos anteriores. Estes textos, reconstruídos para refletir diferentes registros e contextos (discurso de um Naib, reflexão filosófica, relato de missão, fragmento de lenda?), exigirão que você mobilize todo o seu conhecimento lexical e gramatical para decifrar não apenas o significado superficial, mas também as nuances culturais e estilísticas implícitas. Perguntas de compreensão detalhadas guiarão sua análise.
-2.  **Desafios de Tradução:** Testaremos nossa capacidade de transitar entre o português e o Chakobsa através de **exercícios de tradução mais extensos e exigentes** em ambas as direções. Traduzir *para* o Chakobsa exigirá a aplicação ativa das regras de formação de palavras, concordância e sintaxe. Traduzir *do* Chakobsa aprimorará nossa habilidade de reconhecimento de padrões e inferência de significado.
-3.  **Aplicação Criativa (Role-Playing e Escrita):** Iremos além dos exercícios estruturados, explorando como usar o Chakobsa de forma **criativa e espontânea**. Proporemos **cenários de role-playing** mais elaborados, incentivando você a formular respostas e diálogos em situações típicas do universo de Duna. Ofereceremos também **sugestões para escrita criativa**, como compor um pequeno poema, um juramento Fremen ou uma descrição evocativa em Chakobsa.
-
-O objetivo deste capítulo não é alcançar a fluência nativa – uma meta impossível para uma língua reconstruída – mas sim desenvolver uma **proficiência funcional e uma apreciação intuitiva** do fluxo e da cadência do Chakobsa. É o momento de fazer a água fluir pelos qanats que construímos, de começar a pensar e a sentir, mesmo que modestamente, através das *Vozes das Areias*. Prepare-se para o desafio final de integração.
+Este capítulo é dedicado à **prática abrangente**. Trabalharemos com textos mais longos para aprimorar a leitura e compreensão, desafiaremos nossas habilidades com exercícios de tradução em ambas as direções e exploraremos como usar o Chakobsa de forma criativa em cenários simulados. O objetivo não é mais apenas entender as regras isoladas, mas começar a sentir o fluxo e a cadência da língua como um todo, aplicando o que aprendemos em contextos mais complexos e realistas dentro do universo de Duna.
 
 **12.2 Lendo as Areias Profundas: Textos Chakobsa para Compreensão e Análise**
 
@@ -112,7 +110,7 @@ A capacidade de ler e compreender textos autênticos (ou, neste caso, autenticam
 *   **رَكَضَ (نَحْوَ)** (*rakaḍa (naḥwa)*): (Ele) correu (em direção a). **مُتَجَنِّبًا** (*mutajanniban*): Evitando (Part. Ativo F-V acusativo الحال). **الأَنْيَاب المُتَلَأْلِئَة** (*al-anyāb al-mutala’li’ah*): As presas/dentes brilhantes (*nāb* pl. *anyāb*; *tala’la’a* F-IV quadrilit. Part. Ativo fem.). **قَفْزَة مُذْهِلَة** (*qafzah mudhhilah*): Um salto (*qafzah*) surpreendente (*adhhala* F-IV Part. Ativo fem.).
 *   **ثَبَّتَ** (*thabbata*): (Ele) fixou (F-II). **مَخَالِبَهُ** (*makhālibahu*): Seus ganchos. **بَيْنَ** (*bayna*): Entre. **حَلَقَتَيْنِ هَائِلَتَيْنِ** (*ḥalaqatayni hā’ilatayn*): Dois anéis/segmentos enormes (dual genitivo). **صَرَخَتْ** (*ṣarakhat*): (Ela/Vento) gritou. **حَوْلَهُ** (*ḥawlahu*): Ao redor dele. **اِرْتَجَفَتْ** (*irtajafat*): (Ela/Terra) tremeu (F-VIII).
 *   **أَحْكَمَ قَبْضَتَهُ** (*aḥkama qabḍatahu*): (Ele) apertou/firmou seu aperto (*qabḍah*) (F-IV). **وَجَّهَ** (*wajjaha*): (Ele) direcionou (F-II). **الوَحْش** (*al-waḥsh*): A besta. **عَصًا رَفِيعَة** (*‘aṣan rafī‘ah*): Uma vara/bastão (*‘aṣā*) fino (*rafī‘*). **مُسْتَخْدِمًا** (*mustakhdiman*): Usando (Part. Ativo F-X acusativo الحال). **الأَلَم** (*al-alam*): A dor. **كَـ لِجَامٍ** (*ka-lijām*): Como um freio/rédea (*lijām*).
-*   **لَمْ يَعُدْ** (*lam ya‘ud*): (Ele) não mais era (Jussivo de *‘āda* F-I oco). **مُجَرَّدَ** (*mujarrada*): Mero. **بَلْ أَصْبَحَ** (*bal aṣbaḥa*): Mas sim tornou-se (*aṣbaḥa* F-IV). **فَارِسَ الرَّمْلِ الأَوَّلَ** (*Fārisa r-Ramli l-awwal*): O primeiro Cavaleiro da Areia. **أُسْطُورَة** (*usṭūrah*): Lenda. **تُهْمَسُ** (*tuhmasu*): É sussurrada (Passivo Impf. de *hamasa*). **بُرْهَانًا عَلَى أَنَّ...‏** (*burhānan ‘alā anna...*): Uma prova de que... **يُمْكِنُ أَنْ يَرْكَبَا** (*yumkinu an yarkabā*): Podem (subj. dual) cavalgar. **أَعْظَم قُوَى الطَّبِيعَةِ** (*a‘ẓam quwā ṭ-ṭabī‘ah*): As maiores forças (*quwwah* pl. *quwā*) da natureza (*ṭabī‘ah*).
+*   **لَمْ يَعُدْ** (*lam ya‘ud*): (Ele) não mais era (Jussivo de *‘āda* F-I oco). **مُجَرَّدَ** (*mujarrada*): Mero. **بَلْ أَصْبَحَ** (*bal aṣbaḥa*): Mas sim tornou-se (*aṣbaḥa* F-IV). **فَارِسَ الرَّمْلِ الأَوَّلَ** (*Fārisa r-Ramli l-awwal*): O primeiro Cavaleiro da Areia. **أُسْطُورَة** (*usṭūrah*): Lenda. **تُهْمَسُ** (*tuhmasu*): É sussurrada (Passivo Impf. de *hamasa*). **بُرْهَانًا عَلَى أَنَّ...‏** (*burhānan ‘alā anna...*): Uma prova de que... **يُمْكِنُ أَنْ يَرْكَبَا** (*yumkinu an yarkabā*): Podem (subj. dual) cavalgar. **أَعْظَم قُوَى الطَّبِيعَةِ** (*a‘ẓam quwā ṭ-ṭabī‘ah*): As maiores forças (*quwwah* pl. *quwā*) da naturez
 
 **Perguntas de Compreensão Detalhadas (Texto 2):**
 1.  Como Selim é descrito no início da lenda em termos de caráter e habilidade?
@@ -124,7 +122,7 @@ A capacidade de ler e compreender textos autênticos (ou, neste caso, autenticam
 7.  Qual foi a transformação final de Selim após seu feito? Como ele passou a ser conhecido?
 8.  Qual é a lição ou moral principal transmitida por esta lenda Fremen?
 
-**12.3 Decifrando as Vozes: Tradução (Chakobsa → Português) - Expandida**
+**12.3 Decifrando as Vozes: Tradução (Chakobsa → Português) - Expandida e Adicionada**
 
 Traduza as seguintes frases e pequenos parágrafos Chakobsa para o Português, prestando atenção às nuances gramaticais (formas verbais, concordância, Iḍāfah, partículas) e ao vocabulário dos capítulos anteriores.
 
@@ -138,10 +136,28 @@ Traduza as seguintes frases e pequenos parágrafos Chakobsa para o Português, p
     *Amaranā n-Nā’ibu bi-taqwiyati ḥirāsati madkhali l-kahfi sh-sharqīyi wa ‘adami s-samāḥi li-ayyi aḥadin bid-dukhūli ba‘da muntaṣafi l-layl.* [R/D] (*amara bi-* = ordenar; *taqwiyah* = fortalecimento F-II masdar; *‘adam as-samāḥ* = não permissão; *muntaṣaf al-layl* = meia-noite).
 5.  **قِيلَ لَنَا أَنَّ تَدْرِيبَ السَّارْدُوكَارِ يَبْدَأُ مُنْذُ الطُّفُولَةِ فِي بِيئَةٍ أَكْثَرَ قَسْوَةً حَتَّى مِنْ أَرَّاكِسَ۔ هَلْ هٰذَا مُمْكِنٌ؟**
     *Qīla lanā anna tadrība s-Sārdūkāri yabda’u mundhu ṭ-ṭufūlati fī bī’atin akthara qaswatan ḥattā min Arrakis. Hal hādha mumkin?* [R/C] (*qīla* = foi dito, passivo de *qāla*; *mundhu* = desde; *ṭufūlah* = infância; *bī’ah* = ambiente; *akthar qaswah* = mais severo; *ḥattā min* = mesmo que).
+6.  **اَلصَّمْتُ الَّذِي يَسْبِقُ العَاصِفَةَ يَكُونُ أَحْيَانًا أَكْثَرَ إِرْعَابًا مِنَ الرِّيَاحِ الصَّارِخَةِ نَفْسِهَا۔**
+    *aṣ-Ṣamtu lladhī yasbiqu l-‘āṣifata yakūnu aḥyānan akthara ir‘āban min ar-riyāḥi ṣ-ṣārikhati nafsihā.* [R] (*sabaqa* = preceder; *yakūnu* = é/está; *ir‘āb* = terror; *ṣārikh* = gritante).
+7.  **تَذَكَّرْ دَائِمًا: فَشَلُ فَرْدٍ وَاحِدٍ فِي اِنْضِبَاطِ المَاءِ قَدْ يُعَرِّضُ القَبِيلَةَ كُلَّهَا لِلْهَلاكِ۔**
+    *Tadhakkar dā’iman: Fashalu fardin wāḥidin fī nḍibāṭi l-mā’i qad yu‘arriḍu l-qabīlata kullahā lil-halāk.* [R] (*tadhakkar* imp. F-V = lembre-se; *fashal* = falha; *fard* = indivíduo; *‘arraḍa li-* F-II = expor a; *halāk* = destruição/perdição).
+8.  **عَلَى الرَّغْمِ مِنْ قُوَّتِهِمْ وَ تَفَوُّقِهِمِ التِّقْنِيِّ، فَإِنَّ الهَارْكُونِنَ لا يَفْهَمُونَ رُوحَ الصَّحْرَاءِ أَوْ صُمُودَ شَعْبِهَا۔**
+    *‘Alā r-raghmi min quwwatihim wa tafawwuqihimi t-tiqnīy, fa-inna l-Hārkūnina lā yafhamūna rūḥa ṣ-ṣaḥrā’i aw ṣumūda sha‘bihā.* [R/D] (*‘alā r-raghmi min* = apesar de; *tafawwuq tiqnīy* = superioridade tecnológica; *ṣumūd* = resiliência/firmeza; *sha‘b* = povo).
+9.  **قَبْلَ أَنْ تُصْبِحَ فَارِسَ الرَّمْلِ، يَجِبُ أَنْ تَتَعَلَّمَ الاِسْتِمَاعَ إِلَى هَمَسَاتِ الرِّمَالِ وَ أَنْ تَقْرَأَ إِشَارَاتِ الشَّيْءِ حُلُودَ۔**
+    *Qabla an tuṣbiḥa Fārisa r-Ramli, yajibu an tata‘allama l-istimā‘a ilā hamasāti r-rimāli wa an taqra’a ishārāti sh-Shay’i Ḥulūd.* [R/C/D] (*aṣbaḥa* F-IV = tornar-se; *istimā‘ ilā* = escutar a; *hamasāt* = sussurros; *qara’a* = ler).
+10. **لَمْ يَكُنِ المَاءُ المُقَدَّسُ مُجَرَّدَ سُمٍّ، بَلْ كَانَ مِفْتَاحًا لِفَتْحِ الأَبْوَابِ المُغْلَقَةِ لِلذَّاكِرَةِ الجَمَاعِيَّةِ۔**
+    *Lam yakuni l-mā’u l-muqaddasu mujarrada summin, bal kāna miftāḥan li-fatḥi l-abwābi l-mughlaqati lidh-dhākָirati l-jamā‘iyyah.* [R/D] (*mujarrad* = mero; *fatḥ* = abertura; *mughlaq* = fechado; *dhākirah jamā‘iyyah* = memória coletiva).
+11. **"سَوْفَ نُحَوِّلُ هٰذَا الكَوْكَبَ القَاحِلَ إِلَى جَنَّةٍ خَضْرَاءَ بِإِيمَانِنَا وَ عَرَقِنَا وَ دِمَائِنَا إِذَا لَزِمَ الأَمْرُ!" (مِنْ خُطْبَةِ لِيتْ-كَايْنِز)**
+    *"Sawfa nuḥawwilu hādha l-kawkaba l-qāḥila ilā jannatin khaḍrā’a bi-īmāninā wa ‘araqinā wa dimā’inā idhā lazima l-amr!" (Min khuṭbati Līt-Kāyniz)* [R/D] (*ḥawwala* F-II = transformar; *kawkab qāḥil* = planeta árido; *‘araq* = suor; *dimā’* pl. de *dam* = sangues; *idhā lazima l-amr* = se necessário).
+12. **اَلشَّكُّ فِي قُدْرَةِ المُؤَدِّيبِ عَلَى قِيَادَةِ الجِهَادِ يُعْتَبَرُ كُفْرًا فِي نَظَرِ الكَثِيرِينَ مِنَ الفِدَائِكِيِّينَ۔**
+    *ash-Shakku fī qudrati l-Mu’addībi ‘alā qiyādati l-jihādi yu‘tabaru kufran fī naẓari l-kathīrīna min al-fedā’ikīyīn.* [R/C/D] (*shakk fī* = dúvida sobre; *qiyādah* = liderança; *kufr* = incredulidade/blasfêmia; *fī naẓari* = aos olhos de).
+13. **يُرْوَى أَنَّ الأَجْدَادَ الزِّنْسُنِّيِّينَ عَبَرُوا الفَضَاءَ الشَّاسِعَ بَحْثًا عَنْ مَوْطِنٍ حُرٍّ لِأَجْيَالِهِمْ القَادِمَةِ۔**
+    *Yurwā anna l-ajdāda z-zinsunnīyīna ‘abarū l-faḍā’a sh-shāsi‘a baḥthan ‘an mawṭinin ḥurrin li-ajyālihim il-qādimah.* [R] (*yurwā* passivo = é narrado; *‘abara* = cruzar; *faḍā’ shāsi‘* = espaço vasto; *baḥthan ‘an* = em busca de; *mawṭin* = lar/pátria; *ajyāl qādimah* = gerações futuras).
+14. **قَبْلَ اِتِّخَاذِ أَيِّ قَرَارٍ حَاسِمٍ، يَتَشَاوَرُ النَّايِبُ مَعَ السَّيِّدِينَا وَ مَجْلِسِ الشُّيُوخِ۔**
+    *Qabla ttikhādhi ayyi qarārin ḥāsimin, yatashāwaru n-nā’ibu ma‘a s-sayyidīnā wa majlisi sh-shuyūkh.* [R/C/D] (*ittikhādh qarār* = tomar uma decisão; *ḥāsim* = decisivo; *tashāwara* F-VI = consultar-se com; *majlis ash-shuyūkh* = conselho dos anciãos).
+15. **اَلتَّضْحِيَةُ بِالذَّاتِ مِنْ أَجْلِ القَبِيلَةِ تُعْتَبَرُ أَعْلَى مَرَاتِبِ الشَّرَفِ فِي مُجْتَمَعِنَا۔**
+    *at-Taḍḥiyatu bidh-dhāti min ajli l-qabīlati tu‘tabaru a‘lā marātibi sh-sharafi fī mujtama‘inā.* [R] (*taḍḥiyah bidh-dhāt* = auto-sacrifício; *tu‘tabaru* passivo F-VIII = é considerada; *a‘lā marātib* = os mais altos níveis/graus; *sharaf* = honra).
 
-**(Adicionar mais 5-10 frases/parágrafos de complexidade crescente para tradução)**
-
-**12.4 Falando a Língua: Tradução (Português → Chakobsa) - Expandida**
+**12.4 Falando a Língua: Tradução (Português → Chakobsa) - Expandida e Adicionada**
 
 Traduza as seguintes frases e parágrafos para o Chakobsa, usando a escrita Khatt al-Ibad e a transliteração STP. Tente aplicar todas as regras gramaticais e o vocabulário aprendido de forma precisa e idiomática (dentro do nosso sistema reconstruído).
 
@@ -155,30 +171,65 @@ Traduza as seguintes frases e parágrafos para o Chakobsa, usando a escrita Khat
 8.  Embora a vida no sietch seja dura, a força da comunidade e a profundidade da nossa fé nos sustentam (*tusānidunā* F-III). (Use *‘alā ar-raghmi min anna...*)
 9.  O silêncio do deserto profundo à noite, sob as duas luas, é mais eloquente (*ablagh*) que mil palavras de filósofos forasteiros.
 10. A memória do sacrifício dos mártires nos impulsiona (*tadfa‘unā*) a continuar a Jihad até a vitória final ou a morte honrada (*al-mawt ash-sharīf*).
+11. O planetólogo Kynes acreditava (kāna ya‘taqidu) que a transformação ecológica (at-taḥawwul al-bī’īy) de Arrakis era possível com paciência e trabalho árduo (‘amal shāqq).
+12. "Lembrem-se (Imp. Pl. F-V *tadhakkarū*) das palavras da profecia: da escuridão virá a luz, e do deserto virá o salvador (*al-munkidh*)."
+13. O Crysknife não é apenas uma arma, mas um símbolo sagrado da nossa aliança (*ḥilf*) com Shai-Hulud.
+14. Muitos forasteiros não conseguem (*lā yastaṭī‘ūna*) sobreviver (*al-baqā’*) nem mesmo a um dia sob o sol implacável (*ash-shams al-qāsiyah*) sem um destiltraje perfeito (*kāmil*).
+15. Se perdermos (Jussivo F-I *nafqud*) nossa disciplina da água, perderemos nossa alma e nosso futuro. (Condicional com *in*).
+16. A água da cisterna deve ser distribuída (*yuwazza‘u*, passivo F-II) com justiça (*bi-‘adl*) entre todas as famílias (*al-‘ā’ilāt*) do sietch.
+17. Ele sonhava (kāna yaḥlumu bi-) em se tornar um Cavaleiro da Areia, mas o medo (*al-khawf*) o impedia (*mana‘ahu*).
+18. Eles aprenderam (F-V *ta‘allamū*) a ler as marcas na areia como se fossem (*ka-annahā*) um livro aberto.
+19. A resistência (*al-muqāwamah*) contra os Harkonnen continuará (*sa-tastamirru*) até que o último deles seja expulso (*yuṭrada*, passivo F-I) de nosso mundo.
+20. Que a memória de nossos ancestrais nos guie (Jussivo F-I de *hadā* com *li-*) através destes tempos difíceis (*aṣ-ṣa‘bah*)!
 
-**(Adicionar mais 5-10 frases/parágrafos de complexidade crescente para tradução)**
+**12.5 Vivendo o Papel: Cenários de Role-Playing e Escrita Criativa (Expandido com Exemplos de Resposta)**
 
-**12.5 Vivendo o Papel: Cenários de Role-Playing e Escrita Criativa (Expandido)**
-
-Agora é sua vez de usar o Chakobsa de forma mais livre e criativa. As situações abaixo fornecem um contexto; tente formular diálogos, descrições ou monólogos usando a língua que você aprendeu. Não se preocupe com a perfeição absoluta, mas foque em aplicar as regras e o vocabulário de forma coerente.
+Use seu Chakobsa em situações práticas! Tente formular o que você diria (mesmo que sejam frases simples) nestes cenários do universo de Duna. Use o vocabulário e a gramática dos capítulos relevantes. **Os exemplos de resposta são apenas sugestões; o objetivo é a sua própria prática criativa.**
 
 *   **Cenário 1 (Expandido): O Ritual de Aceitação no Sietch.** Você é um forasteiro (talvez um Atreides sobrevivente) que passou um tempo com os Fremen e agora está perante o Naib e o conselho para ser formalmente aceito na tribo.
-    *   **Sua Tarefa:** Prepare um pequeno discurso (4-6 frases) em Chakobsa expressando sua lealdade, seu respeito pelos costumes Fremen (especialmente a disciplina da água), e seu desejo de lutar ao lado deles. Use vocabulário relacionado à tribo, lealdade, água, e talvez uma referência respeitosa ao Naib ou Shai-Hulud. Use frases nominais e verbais.
-    *   **Possível Resposta do Naib (para você imaginar):** O Naib pode testar seu conhecimento, fazer uma pergunta sobre a lei Fremen, ou dar uma ordem para avaliar sua reação.
+    *   **Sua Tarefa:** Prepare um pequeno discurso (4-6 frases) em Chakobsa expressando sua lealdade, seu respeito pelos costumes Fremen (especialmente a disciplina da água), e seu desejo de lutar ao lado deles.
+    *   **Exemplo de Resposta (Você):**
+        **"يَا نَايِبُ، يَا شُيُوخَ السِّيَتْشِ. أَنَا أَقِفُ أَمَامَكُمْ بِقَلْبٍ مُتَوَاضِعٍ. لَقَدْ عِشْتُ بَيْنَكُمْ وَ تَعَلَّمْتُ قِيمَةَ المَاءِ وَ قُوَّةَ الاِنْضِبَاطِ. أُقْسِمُ بِالصَّانِعِ أَنَّ وَلائِي لِقَبِيلَتِكُمْ. أُرِيدُ أَنْ أُقَاتِلَ مَعَكُمْ ضِدَّ أَعْدَائِنَا المُشْتَرَكِينَ. اِقْبَلُونِي كَأَخٍ۔"**
+        *Yā Nā’ib, yā shuyūkha s-sīetch. Anā aqifu amāmakum bi-qalbin mutawāḍi‘. Laqad ‘ishtu baynakum wa ta‘allamtu qīmata l-mā’i wa quwwata l-inḍibāṭ. Uqsimu biṣ-Ṣāni‘i anna walā’ī li-qabīlatikum. Urīdu an uqātila ma‘akum ḍidda a‘dā’inā l-mushtarakīn. Iqbalūnī ka-akh.*
+        (Ó Naib, ó anciãos do sietch. Eu fico diante de vocês com um coração humilde. Eu vivi entre vocês e aprendi o valor da água e a força da disciplina. Juro pelo Criador que minha lealdade é para sua tribo. Quero lutar com vocês contra nossos inimigos comuns. Aceitem-me como um irmão.)
 
 *   **Cenário 2 (Expandido): Disputa por Água.** Dois Fremen estão discutindo asperamente sobre uma pequena quantidade de água que um acusa o outro de ter desperdiçado ou pego indevidamente. A tensão é alta, e um duelo *tahaddi* parece iminente.
-    *   **Sua Tarefa:** Escreva o diálogo tenso (6-8 linhas) entre os dois Fremen. Use vocabulário relacionado à água, disciplina, acusação (*ittihām*), talvez desonra (*‘ār*) e finalize com o desafio formal. Use perguntas, negações e talvez imperativos.
+    *   **Sua Tarefa:** Escreva o diálogo tenso (6-8 linhas) entre os dois Fremen.
+    *   **Exemplo de Resposta (Diálogo):**
+        **Fremen 1:** **"أَيْنَ المَاءُ الَّذِي كَانَ فِي قِرْبَتِي؟ أَتَّهِمُكَ بِأَخْذِهِ يَا جَامِيس!‏"** (*Ayna l-mā’u lladhī kāna fī qirbatī? Attahimuka bi-akhdhihi yā Jamīs!*) (Onde está a água que estava em meu odre? Acuso-te de pegá-la, ó Jamis!)
+        **Fremen 2 (Jamis):** **"لا تَتَّهِمْنِي بِالبَاطِلِ! لَمْ أَلْمَسْ قِرْبَتَكَ! رُبَّمَا أَضَعْتَهُ بِإِهْمَالِكَ۔"** (*Lā tattahimnī bil-bāṭil! Lam almas qirbataka! Rubbamā aḍa‘tahu bi-ihmālik.*) (Não me acuse falsamente! Não toquei seu odre! Talvez você o tenha perdido por sua negligência.)
+        **Fremen 1:** **"إِهْمَال؟ أَنَا أَتَّبِعُ اِنْضِبَاطَ المَاءِ بِحَرْفِيَّةٍ! أَنْتَ الكَاذِبُ! هٰذَا عَارٌ لا يُحْتَمَلُ!‏"** (*Ihmāl? Anā attabi‘u nḍibāṭa l-mā’i bi-ḥarfiyyah! Anta l-kādhib! Hādha ‘ārun lā yuḥtamal!*) (Negligência? Eu sigo a disciplina da água literalmente! Você é o mentiroso! Isto é uma desonra insuportável!)
+        **Fremen 2 (Jamis):** **"إِذَنْ فَلْيَحْكُمِ الكَرِيسُ بَيْنَنَا! أَتَحَدَّاكَ!‏"** (*Idhan fal-yaḥkumi l-Krīsu baynanā! Ataḥaddāk!*) (Então que o Kris julgue entre nós! Eu te desafio!)
+        **Fremen 1:** **"قَبِلْتُ التَّحَدِّيَ!‏"** (*Qabiltu t-taḥaddī!*) (Aceitei o desafio!)
 
 *   **Cenário 3 (Expandido): Ensinando uma Criança Fremen.** Você é um Fremen mais velho ensinando uma criança sobre a importância da manutenção do destiltraje OU sobre como ler os sinais do deserto (vento, areia, som).
-    *   **Sua Tarefa:** Escreva um monólogo instrutivo ou um diálogo curto (5-7 frases) onde você explica um conceito crucial de sobrevivência para a criança. Use vocabulário específico (partes do traje, tipos de vento/areia), imperativos gentis ( "Ouça!", "Veja!", "Lembre-se!") e talvez uma pequena história ou provérbio para ilustrar o ponto.
+    *   **Sua Tarefa:** Escreva um monólogo instrutivo ou um diálogo curto (5-7 frases) onde você explica um conceito crucial de sobrevivência para a criança.
+    *   **Exemplo de Resposta (Ensinando sobre o Destiltraje):**
+        **"اِسْمَعِي يَا صَغِيرَتِي. هٰذِهِ لَيْسَتْ مُجَرَّدَ مَلابِسَ؛ إِنَّهَا جِلْدُكِ الثَّانِي، حَيَاتُكِ. كُلَّ صَبَاحٍ، تَحَقَّقِي مِنَ الأَنَابِيبِ، نَظِّفِي المِرْشَحَاتِ، تَأَكَّدِي مِنَ الإِحْكَامِ. قَطْرَةٌ وَاحِدَةٌ مَفْقُودَةٌ هِيَ خَطْوَةٌ نَحْوَ القَبْرِ. اِحْتَرِمِي بَدْلَتَكِ، وَ سَتَحْتَرِمُكِ هِيَ بِالحَيَاةِ. هَلْ هٰذَا مَفْهُومٌ؟"**
+        *Isma‘ī yā ṣaghīratī. Hādhihi laysat mujarrada malābis; innahā jilduki th-thānī, ḥayātuki. Kulla ṣabāḥin, taḥaqqaqī min al-anābīb, naẓẓifī l-mirshaḥāt, ta’akkadī min al-iḥkām. Qaṭratun wāḥidatun mafqūdatun hiya khuṭwatun naḥwa l-qabr. Iḥtarimī badlataki, wa sa-taḥtarimuki hiya bil-ḥayāt. Hal hādha mafhūmun?*
+        (Ouça (fem.), minha pequena. Isto não são meras roupas; é sua segunda pele, sua vida. Toda manhã, verifique (*taḥaqqaqi*) os tubos, limpe (*naẓẓifī*) os filtros, certifique-se (*ta’akkadī*) do ajuste. Uma gota perdida é um passo em direção à tumba (*qabr*). Respeite seu traje, e ele te respeitará com a vida. Isto está entendido?)
 
 *   **Cenário 4 (Expandido): Visão Profética ou Memória Ancestral.** Você é uma Sayyadina descrevendo fragmentos de uma visão perturbadora ou uma memória ancestral vívida que você acessou.
-    *   **Sua Tarefa:** Escreva uma breve descrição poética ou fragmentada (4-6 frases) em Chakobsa, tentando capturar a natureza talvez desconcertante ou poderosa da experiência. Use vocabulário relacionado à visão (*ru’yā*), memória (*dhikrā*), passado (*māḍī*), futuro (*mustaqbal*), luz (*ḍaw’*), escuridão (*ẓalām*), e talvez emoções fortes (medo *khawf*, esperança *amal*).
+    *   **Sua Tarefa:** Escreva uma breve descrição poética ou fragmentada (4-6 frases) em Chakobsa, tentando capturar a natureza talvez desconcertante ou poderosa da experiência.
+    *   **Exemplo de Resposta (Sayyadina):**
+        **"الأَصْوَاتُ... أَصْوَاتٌ كَثِيرَةٌ تَتَدَافَعُ فِي رَأْسِي... حَيَوَاتٌ لا تُحْصَى، آلَامٌ قَدِيمَةٌ، أَفْرَاحٌ مَنْسِيَّةٌ۔ أَرَى نَهْرًا أَزْرَقَ يَجْرِي حَيْثُ الآنَ فَقَطْ رَمْلٌ وَ غُبَارٌ۔ ثُمَّ... ظَلامٌ... صُرَاخٌ... وَ الجِهَادُ يَأْكُلُ النُّجُومَ۔ الخَوْفُ يُحَاوِلُ أَنْ يَبْتَلِعَنِي، لٰكِنَّ ذِكْرَى الأُمَّهَاتِ تُقَوِّينِي۔ الطَّرِيقُ الذَّهَبِيُّ... طَوِيلٌ... وَ مُؤْلِمٌ۔"**
+        *al-Aṣwātu... aṣwātun kathīratun tatadāfa‘u fī ra’sī... Ḥayawātun lā tuḥṣā, ālāmun qadīmah, afrāḥun mansiyyah. Arā nahran azraqa yajrī ḥaythu l-āna faqaṭ ramlun wa ghubār. Thumma... ẓalāmun... ṣurākhun... wa l-jihādu ya’kulu n-nujūm. al-Khawfu yuḥāwilu an yabtali‘anī, lākinna dhikrā l-ummahāti tuqawwīnī. aṭ-Ṭarīqu dh-dhahabīyu... ṭawīlun... wa mu’lim.*
+        (As vozes... muitas vozes se empurram em minha cabeça... Vidas incontáveis, dores antigas, alegrias esquecidas. Vejo um rio azul correndo onde agora (há) apenas areia e poeira. Depois... escuridão... um grito... e a Jihad come as estrelas. O medo tenta me engolir, mas a memória das mães me fortalece. O Caminho Dourado... longo... e doloroso.)
 
 *   **Sugestão de Escrita Criativa:**
-    *   **Poema Curto:** Tente escrever um poema curto (4-8 linhas) em Chakobsa sobre a beleza austera do deserto, o poder de Shai-Hulud, ou a importância da água. Use adjetivos e talvez alguma estrutura repetitiva ou paralelismo.
-    *   **Juramento Fremen:** Crie um juramento de lealdade que um Fremen poderia fazer ao seu Naib ou à sua tribo. Use linguagem forte e talvez invocações religiosas.
-    *   **Descrição de um Objeto:** Descreva detalhadamente seu Crysknife pessoal (real ou imaginário) em Chakobsa – sua aparência, sua origem (o verme que você matou para obtê-lo?), seu significado para você.
+    *   **Poema Curto:** (Exemplo)
+        **فِي صَمْتِ الرِّمَالِ،** (*Fī ṣamti r-rimāl,*) - No silêncio das areias,
+        **تَحْتَ القَمَرَيْنِ،** (*Taḥta l-qamarayn,*) - Sob as duas luas,
+        **تَهْمِسُ الرِّيحُ حِكَايَاتٍ،** (*Tahmisu r-rīḥu ḥikāyāt,*) - O vento sussurra histórias,
+        **عَنِ المَاءِ وَ الحَيَاةِ وَ المَوْتِ۔** (*‘An al-mā’i wa l-ḥayāti wa l-mawt.*) - Sobre a água, a vida e a morte.
+    *   **Juramento Fremen:** (Exemplo)
+        **"أُقْسِمُ بِرَمْلِ أَرَّاكِسَ وَ بِمَاءِ قَبِيلَتِي وَ بِكَرِيسِي المُقَدَّسِ، أَنَّ وَلائِي لَكَ يَا نَايِبُ، وَ لِشَعْبِ الفِرِمِنِ، حَتَّى آخِرِ قَطْرَةٍ مِنْ دَمِي وَ مَائِي۔"**
+        *Uqsimu bi-ramli Arrakisa wa bi-mā’i qabīlatī wa bi-krīsī l-muqaddas, anna walā’ī laka yā Nā’ib, wa li-sha‘bi l-Fremen, ḥattā ākhiri qaṭratin min damī wa mā’ī.*
+        (Juro pela areia de Arrakis, pela água da minha tribo e pelo meu Kris sagrado, que minha lealdade é para ti, ó Naib, e para o povo Fremen, até a última gota do meu sangue e da minha água.)
+    *   **Descrição de um Objeto:** (Exemplo - Crysknife)
+        **"كَرِيسِي... لَيْسَ جَمِيلاً كَجَوَاهِرِ الأَجَانِبِ، لٰكِنَّهُ حَيٌّ. نَصْلُهُ حَلِيبِيٌّ، يَشُعُّ بِضَوْءٍ بَارِدٍ تَحْتَ القَمَرِ. صُنِعَ مِنْ سِنِّ ذٰلِكَ العِمْلاقِ الَّذِي قَتَلْتُهُ عِنْدَ حُدُودِ الإِقْلِيمِ الشَّمَالِيِّ. هُوَ جُزْءٌ مِنِّي، وَ أَنَا جُزْءٌ مِنْهُ. لا يُغْمَدُ إِلَّا بِالدَّمِ۔"**
+        *Krīsī... laysa jamīlan ka-jawāhiri l-ajānib, lākinnhu ḥayyun. Naṣluhu ḥalībīyun, yashu‘‘u bi-ḍaw’in bāridin taḥta l-qamar. Ṣuni‘a min sinni dhālika l-‘imlāqi lladhī qataltuhu ‘inda ḥudūdi l-iqlīmi sh-shamālīy. Huwa juz’un minnī, wa anā juz’un minhu. Lā yughmadu illā bid-dam.*
+        (Meu Kris... não é bonito como as joias dos forasteiros, mas ele é vivo. Sua lâmina é leitosa, irradia com uma luz fria sob a lua. Foi feito do dente daquele gigante que matei perto das fronteiras do território norte. Ele é parte de mim, e eu sou parte dele. Não é embainhado exceto com sangue.)
 
 **12.6 O Caminho Adiante: Continuando Sua Jornada Chakobsa**
 
@@ -204,7 +255,7 @@ Que sua jornada seja longa, sua água abundante e sua compreensão profunda. **�
 ---
 **Respostas dos Exercícios do Capítulo 12**
 
-**(Respostas Texto 1: Discurso de Stilgar)**
+**(Respostas 12.2 - Texto 1: Discurso de Stilgar)**
 1.  Notícias preocupantes (**أَخْبَارٌ مُقْلِقَةٌ**) de que sietches amigos caíram sob a opressão (**وَطْأَة**) Harkonnen, e sua água foi roubada (**سُرِقَ**) ou profanada (**دُنِّسَ**).
 2.  Ele os descreve como arrogantes e brutais (**جُرْأَةً وَ وَحْشِيَّةً**), que veem os Fremen como meros insetos do deserto (**حَشَرَاتٍ صَحْرَاوِيَّةٍ**) que podem ser esmagados. Seu erro fundamental é serem ignorantes (**جَاهِلُونَ**) da verdadeira força Fremen.
 3.  Os três pilares são: a força dos Fremen unidos (**قُوَّةَ الفِرِمِنِ المُتَّحِدِينَ**), a profundidade de sua fé (**عُمْقَ إِيمَانِنَا**), e a solidez de sua disciplina (**صَلابَةَ اِنْضِبَاطِنَا**).
@@ -215,7 +266,7 @@ Que sua jornada seja longa, sua água abundante e sua compreensão profunda. **�
 8.  O tempo de provação (**المِحْنَة**) é também o tempo da prova (**البُرْهَان**). Ele quer mostrar ao universo inteiro (**لِلْكَوْنِ بِأَسْرِهِ**) o significado (**مَا مَعْنَى**) de ser um Fremen livre (**فِرِمِنِيًّا حُرًّا**).
 9.  Os três comandos são: Fiquem comigo! (**قِفُوا مَعِي!**), Lutem comigo! (**قَاتِلُوا مَعِي!**). O grito final é: Morte aos opressores, e Vida para a tribo! (**المَوْتُ لِلظَّالِمِينَ، وَ الحَيَاةُ لِلقَبِيلَةِ!‏**)
 
-**(Respostas Texto 2: Lenda de Selim)**
+**(Respostas 12.2 - Texto 2: Lenda de Selim)**
 1.  Jovem, mais corajoso que um leão, e sua habilidade em combate era incomparável.
 2.  Cavalgar o Grande Criador, Shai-Hulud. Os mais velhos riram de sua ousadia, e a Sayyadina o advertiu do perigo dessa ambição louca.
 3.  Ele fez seus próprios ganchos do dente de um verme pequeno que matou; passou dias e noites estudando os movimentos do gigante arenoso e memorizando o ritmo do deserto.
@@ -231,7 +282,16 @@ Que sua jornada seja longa, sua água abundante e sua compreensão profunda. **�
 3.  "Não ofereça água a um convidado exceto depois que você testar sua honestidade e seu propósito." (Das leis de hospitalidade Fremen)
 4.  O Naib nos ordenou o fortalecimento da guarda da entrada da caverna leste e a não permissão para qualquer um entrar após a meia-noite.
 5.  Foi-nos dito que o treinamento Sardaukar começa desde a infância em um ambiente ainda mais severo que Arrakis. Isso é possível?
-**(Adicionar respostas para os 5-10 textos extras, se fossem incluídos)**
+6.  O silêncio que precede a tempestade é às vezes mais aterrorizante que os próprios ventos gritantes.
+7.  Lembre-se sempre: a falha de um único indivíduo na disciplina da água pode expor toda a tribo à destruição.
+8.  Apesar de sua força e sua superioridade tecnológica, os Harkonnen não entendem o espírito do deserto ou a resiliência de seu povo.
+9.  Antes que você se torne um Cavaleiro da Areia, você deve aprender a escutar os sussurros das areias e a ler os sinais de Shai-Hulud.
+10. A Água Sagrada não era mero veneno, mas sim era uma chave para abrir as portas fechadas da memória coletiva.
+11. "Nós transformaremos este planeta árido em um paraíso verdejante com nossa fé, nosso suor e nossos sangues, se necessário!" (De um discurso de Liet-Kynes)
+12. A dúvida sobre a capacidade de Muad'Dib de liderar a Jihad é considerada blasfêmia aos olhos de muitos dos Fedaykin.
+13. É narrado que os ancestrais Zensunni cruzaram o espaço vasto em busca de um lar livre para suas gerações futuras.
+14. Antes de tomar qualquer decisão decisiva, o Naib consulta-se com a Sayyadina e o conselho dos anciãos.
+15. O auto-sacrifício pela tribo é considerado o mais alto nível de honra em nossa sociedade.
 
 **(Respostas 12.4: Tradução Português → Chakobsa)**
 1.  A Sayyadina idosa ensinou às jovens os segredos das ervas do deserto. → **عَلَّمَتِ السَّيِّدِينَا العَجُوزُ الشَّابَّاتِ أَسْرَارَ أَعْشَابِ الصَّحْرَاءِ۔** (*‘Allamati s-Sayyidīnā l-‘ajūzu sh-shābbāti asrāra a‘shābi ṣ-ṣaḥrā’.*)
@@ -244,9 +304,52 @@ Que sua jornada seja longa, sua água abundante e sua compreensão profunda. **�
 8.  Embora a vida no sietch seja dura, a força da comunidade e a profundidade da nossa fé nos sustentam. → **عَلَى الرَّغْمِ مِنْ أَنَّ الحَيَاةَ فِي السِّيَتْشِ صَعْبَةٌ، فَإِنَّ قُوَّةَ المُجْتَمَعِ وَ عُمْقَ إِيمَانِنَا يُسَانِدَانِنَا۔** (*‘Alā r-raghmi min anna l-ḥayāta fī s-sīetchi ṣa‘batun, fa-inna quwwata l-mujtama‘i wa ‘umqa īmāninā yusānidāninā.*)
 9.  O silêncio do deserto profundo à noite, sob as duas luas, é mais eloquente que mil palavras de filósofos forasteiros. → **صَمْتُ الصَّحْرَاءِ العَمِيقِ لَيْلاً، تَحْتَ القَمَرَيْنِ، أَبْلَغُ مِنْ أَلْفِ كَلِمَةٍ مِنْ فَلَاسِفَةٍ أَجَانِبَ۔** (*Ṣamtu ṣ-ṣaḥrā’i l-‘amīqi laylan, taḥta l-qamarayn, ablaghu min alfi kalimatin min falāsifatin ajānib.*)
 10. A memória do sacrifício dos mártires nos impulsiona a continuar a Jihad até a vitória final ou a morte honrada. → **ذِكْرَى تَضْحِيَةِ الشُّهَدَاءِ تَدْفَعُنَا إِلَى مُوَاصَلَةِ الجِهَادِ حَتَّى النَّصْرِ النِّهَائِيِّ أَوِ المَوْتِ الشَّرِيفِ۔** (*Dhikrā taḍḥiyati sh-shuhadā’i tadfa‘unā ilā muwāṣalati l-jihādi ḥattā n-naṣri n-nihā’īyi awi l-mawti sh-sharīf.*)
-**(Adicionar respostas para os 5-10 frases/parágrafos extras, se fossem incluídos)**
+11. O planetólogo Kynes acreditava que a transformação ecológica de Arrakis era possível com paciência e trabalho árduo. → **كَانَ العَالِمُ الكَوْكَبِيُّ كَايْنِز يَعْتَقِدُ أَنَّ التَّحَوُّلَ البِيئِيَّ لِأَرَّاكِسَ كَانَ مُمْكِنًا بِالصَّبْرِ وَ العَمَلِ الشَّاقِّ۔** (*Kāna l-‘ālimu l-kawkabīyu Kāyniz ya‘taqidu anna t-taḥawwula l-bī’īya li-Arrakisa kāna mumkinan biṣ-ṣabri wa l-‘amali sh-shāqq.*)
+12. "Lembrem-se das palavras da profecia: da escuridão virá a luz, e do deserto virá o salvador." → **"تَذَكَّرُوا كَلِمَاتِ النُّبُوءَةِ: مِنَ الظَّلامِ سَيَأْتِي النُّورُ، وَ مِنَ الصَّحْرَاءِ سَيَأْتِي المُنْقِذُ۔"** (*"Tadhakkarū kalimāti n-nubū’ah: Min aẓ-ẓalāmi sa-ya’tī n-nūru, wa min aṣ-ṣaḥrā’i sa-ya’tī l-munqidh."*)
+13. O Crysknife não é apenas uma arma, mas um símbolo sagrado da nossa aliança com Shai-Hulud. → **الكَرِيسُ لَيْسَ مُجَرَّدَ سِلاحٍ، بَلْ هُوَ رَمْزٌ مُقَدَّسٌ لِحِلْفِنَا مَعَ الشَّيْءِ حُلُودَ۔** (*al-Krīsu laysa mujarrada silāḥin, bal huwa ramzun muqaddasun li-ḥilfinā ma‘a sh-Shay’i Ḥulūd.*)
+14. Muitos forasteiros não conseguem sobreviver nem mesmo a um dia sob o sol implacável sem um destiltraje perfeito. → **كَثِيرٌ مِنَ الأَجَانِبِ لا يَسْتَطِيعُونَ البَقَاءَ حَتَّى لِيَوْمٍ وَاحِدٍ تَحْتَ الشَّمْسِ القَاسِيَةِ بِدُونِ بَدْلَةٍ كَامِلَةٍ۔** (*Kathīrun min al-ajānibi lā yastaṭī‘ūna l-baqā’a ḥattā li-yawmin wāḥidin taḥta sh-shamsi l-qāsiyah bidūni badlatin kāmilah.*)
+15. Se perdermos nossa disciplina da água, perderemos nossa alma e nosso futuro. → **إِنْ نَفْقِدْ اِنْضِبَاطَ مَائِنَا، نَفْقِدْ أَرْوَاحَنَا وَ مُسْتَقْبَلَنَا۔** (*In nafqid inḍibāṭa mā’inā, nafqid arwāḥanā wa mustaqbalanā.*)
 
-**(Respostas 12.5: Cenários de Role-Playing e Escrita Criativa)**
-*   As respostas são abertas e avaliadas pela aplicação criativa e gramaticalmente correta (dentro do sistema) do Chakobsa aprendido. Não há respostas únicas "certas".
+**(Respostas 12.5: Cenários de Role-Playing e Escrita Criativa - Incluindo Exemplos)**
 
----
+*   **Cenário 1 (Discurso de Aceitação):**
+    *   **Exemplo de Resposta (Você):**
+        **"يَا نَايِبُ، يَا شُيُوخَ السِّيَتْشِ. أَنَا أَقِفُ أَمَامَكُمْ بِقَلْبٍ مُتَوَاضِعٍ. لَقَدْ عِشْتُ بَيْنَكُمْ وَ تَعَلَّمْتُ قِيمَةَ المَاءِ وَ قُوَّةَ الاِنْضِبَاطِ. أُقْسِمُ بِالصَّانِعِ أَنَّ وَلائِي لِقَبِيلَتِكُمْ. أُرِيدُ أَنْ أُقَاتِلَ مَعَكُمْ ضِدَّ أَعْدَائِنَا المُشْتَرَكِينَ. اِقْبَلُونِي كَأَخٍ۔"**
+        *Yā Nā’ib, yā shuyūkha s-sīetch. Anā aqifu amāmakum bi-qalbin mutawāḍi‘. Laqad ‘ishtu baynakum wa ta‘allamtu qīmata l-mā’i wa quwwata l-inḍibāṭ. Uqsimu biṣ-Ṣāni‘i anna walā’ī li-qabīlatikum. Urīdu an uqātila ma‘akum ḍidda a‘dā’inā l-mushtarakīn. Iqbalūnī ka-akh.*
+        (Ó Naib, ó anciãos do sietch. Eu fico diante de vocês com um coração humilde. Eu vivi entre vocês e aprendi o valor da água e a força da disciplina. Juro pelo Criador que minha lealdade é para sua tribo. Quero lutar com vocês contra nossos inimigos comuns. Aceitem-me como um irmão.)
+
+*   **Cenário 2 (Disputa por Água):**
+    *   **Exemplo de Resposta (Diálogo):**
+        **Fremen 1:** **"أَيْنَ المَاءُ الَّذِي كَانَ فِي قِرْبَتِي؟ أَتَّهِمُكَ بِأَخْذِهِ يَا جَامِيس!‏"** (*Ayna l-mā’u lladhī kāna fī qirbatī? Attahimuka bi-akhdhihi yā Jamīs!*) (Onde está a água que estava em meu odre? Acuso-te de pegá-la, ó Jamis!)
+        **Fremen 2 (Jamis):** **"لا تَتَّهِمْنِي بِالبَاطِلِ! لَمْ أَلْمَسْ قِرْبَتَكَ! رُبَّمَا أَضَعْتَهُ بِإِهْمَالِكَ۔"** (*Lā tattahimnī bil-bāṭil! Lam almas qirbataka! Rubbamā aḍa‘tahu bi-ihmālik.*) (Não me acuse falsamente! Não toquei seu odre! Talvez você o tenha perdido por sua negligência.)
+        **Fremen 1:** **"إِهْمَال؟ أَنَا أَتَّبِعُ اِنْضِبَاطَ المَاءِ بِحَرْفِيَّةٍ! أَنْتَ الكَاذِبُ! هٰذَا عَارٌ لا يُحْتَمَلُ!‏"** (*Ihmāl? Anā attabi‘u nḍibāṭa l-mā’i bi-ḥarfiyyah! Anta l-kādhib! Hādha ‘ārun lā yuḥtamal!*) (Negligência? Eu sigo a disciplina da água literalmente! Você é o mentiroso! Isto é uma desonra insuportável!)
+        **Fremen 2 (Jamis):** **"إِذَنْ فَلْيَحْكُمِ الكَرِيسُ بَيْنَنَا! أَتَحَدَّاكَ!‏"** (*Idhan fal-yaḥkumi l-Krīsu baynanā! Ataḥaddāk!*) (Então que o Kris julgue entre nós! Eu te desafio!)
+        **Fremen 1:** **"قَبِلْتُ التَّحَدِّيَ!‏"** (*Qabiltu t-taḥaddī!*) (Aceitei o desafio!)
+
+*   **Cenário 3 (Ensinando Criança):**
+    *   **Exemplo de Resposta (Ensinando sobre o Destiltraje):**
+        **"اِسْمَعِي يَا صَغِيرَتِي. هٰذِهِ لَيْسَتْ مُجَرَّدَ مَلابِسَ؛ إِنَّهَا جِلْدُكِ الثَّانِي، حَيَاتُكِ. كُلَّ صَبَاحٍ، تَحَقَّقِي مِنَ الأَنَابِيبِ، نَظِّفِي المِرْشَحَاتِ، تَأَكَّدِي مِنَ الإِحْكَامِ. قَطْرَةٌ وَاحِدَةٌ مَفْقُودَةٌ هِيَ خَطْوَةٌ نَحْوَ القَبْرِ. اِحْتَرِمِي بَدْلَتَكِ، وَ سَتَحْتَرِمُكِ هِيَ بِالحَيَاةِ. هَلْ هٰذَا مَفْهُومٌ؟"**
+        *Isma‘ī yā ṣaghīratī. Hādhihi laysat mujarrada malābis; innahā jilduki th-thānī, ḥayātuki. Kulla ṣabāḥin, taḥaqqaqī min al-anābīb, naẓẓifī l-mirshaḥāt, ta’akkadī min al-iḥkām. Qaṭratun wāḥidatun mafqūdatun hiya khuṭwatun naḥwa l-qabr. Iḥtarimī badlataki, wa sa-taḥtarimuki hiya bil-ḥayāt. Hal hādha mafhūmun?*
+        (Ouça (fem.), minha pequena. Isto não são meras roupas; é sua segunda pele, sua vida. Toda manhã, verifique os tubos, limpe os filtros, certifique-se do ajuste. Uma gota perdida é um passo em direção à tumba. Respeite seu traje, e ele te respeitará com a vida. Isto está entendido?)
+
+*   **Cenário 4 (Visão/Memória):**
+    *   **Exemplo de Resposta (Sayyadina):**
+        **"الأَصْوَاتُ... أَصْوَاتٌ كَثِيرَةٌ تَتَدَافَعُ فِي رَأْسِي... حَيَوَاتٌ لا تُحْصَى، آلَامٌ قَدِيمَةٌ، أَفْرَاحٌ مَنْسِيَّةٌ۔ أَرَى نَهْرًا أَزْرَقَ يَجْرِي حَيْثُ الآنَ فَقَطْ رَمْلٌ وَ غُبَارٌ۔ ثُمَّ... ظَلامٌ... صُرَاخٌ... وَ الجِهَادُ يَأْكُلُ النُّجُومَ۔ الخَوْفُ يُحَاوِلُ أَنْ يَبْتَلِعَنِي، لٰكِنَّ ذِكْرَى الأُمَّهَاتِ تُقَوِّينِي۔ الطَّرِيقُ الذَّهَبِيُّ... طَوِيلٌ... وَ مُؤْلِمٌ۔"**
+        *al-Aṣwātu... aṣwātun kathīratun tatadāfa‘u fī ra’sī... Ḥayawātun lā tuḥṣā, ālāmun qadīmah, afrāḥun mansiyyah. Arā nahran azraqa yajrī ḥaythu l-āna faqaṭ ramlun wa ghubār. Thumma... ẓalāmun... ṣurākhun... wa l-jihādu ya’kulu n-nujūm. al-Khawfu yuḥāwilu an yabtali‘anī, lākinna dhikrā l-ummahāti tuqawwīnī. aṭ-Ṭarīqu dh-dhahabīyu... ṭawīlun... wa mu’lim.*
+        (As vozes... muitas vozes se empurram em minha cabeça... Vidas incontáveis, dores antigas, alegrias esquecidas. Vejo um rio azul correndo onde agora (há) apenas areia e poeira. Depois... escuridão... um grito... e a Jihad come as estrelas. O medo tenta me engolir, mas a memória das mães me fortalece. O Caminho Dourado... longo... e doloroso.)
+
+*   **Sugestão de Escrita Criativa:**
+    *   **Poema Curto:** (Exemplo)
+        **فِي صَمْتِ الرِّمَالِ،** (*Fī ṣamti r-rimāl,*) - No silêncio das areias,
+        **تَحْتَ القَمَرَيْنِ،** (*Taḥta l-qamarayn,*) - Sob as duas luas,
+        **تَهْمِسُ الرِّيحُ حِكَايَاتٍ،** (*Tahmisu r-rīḥu ḥikāyāt,*) - O vento sussurra histórias,
+        **عَنِ المَاءِ وَ الحَيَاةِ وَ المَوْتِ۔** (*‘An al-mā’i wa l-ḥayāti wa l-mawt.*) - Sobre a água, a vida e a morte.
+    *   **Juramento Fremen:** (Exemplo)
+        **"أُقْسِمُ بِرَمْلِ أَرَّاكِسَ وَ بِمَاءِ قَبِيلَتِي وَ بِكَرِيسِي المُقَدَّسِ، أَنَّ وَلائِي لَكَ يَا نَايِبُ، وَ لِشَعْبِ الفِرِمِنِ، حَتَّى آخِرِ قَطْرَةٍ مِنْ دَمِي وَ مَائِي۔"**
+        *Uqsimu bi-ramli Arrakisa wa bi-mā’i qabīlatī wa bi-krīsī l-muqaddas, anna walā’ī laka yā Nā’ib, wa li-sha‘bi l-Fremen, ḥattā ākhiri qaṭratin min damī wa mā’ī.*
+        (Juro pela areia de Arrakis, pela água da minha tribo e pelo meu Kris sagrado, que minha lealdade é para ti, ó Naib, e para o povo Fremen, até a última gota do meu sangue e da minha água.)
+    *   **Descrição de um Objeto:** (Exemplo - Crysknife)
+        **"كَرِيسِي... لَيْسَ جَمِيلاً كَجَوَاهِرِ الأَجَانِبِ، لٰكِنَّهُ حَيٌّ. نَصْلُهُ حَلِيبِيٌّ، يَشُعُّ بِضَوْءٍ بَارِدٍ تَحْتَ القَمَرِ. صُنِعَ مِنْ سِنِّ ذٰلِكَ العِمْلاقِ الَّذِي قَتَلْتُهُ عِنْدَ حُدُودِ الإِقْلِيمِ الشَّمَالِيِّ. هُوَ جُزْءٌ مِنِّي، وَ أَنَا جُزْءٌ مِنْهُ. لا يُغْمَدُ إِلَّا بِالدَّمِ۔"**
+        *Krīsī... laysa jamīlan ka-jawāhiri l-ajānib, lākinnhu ḥayyun. Naṣluhu ḥalībīyun, yashu‘‘u bi-ḍaw’in bāridin taḥta l-qamar. Ṣuni‘a min sinni dhālika l-‘imlāqi lladhī qataltuhu ‘inda ḥudūdi l-iqlīmi sh-shamālīy. Huwa juz’un minnī, wa anā juz’un minhu. Lā yughmadu illā bid-dam.*
+        (Meu Kris... não é bonito como as joias dos forasteiros, mas ele é vivo. Sua lâmina é leitosa, irradia com uma luz fria sob a lua. Foi feito do dente daquele gigante que matei perto das fronteiras do território norte. Ele é parte de mim, e eu sou parte dele. Não é embainhado exceto com sangue.)
+
