@@ -102,14 +102,13 @@ Que as *Vozes das Areias* o guiem. *Bi-lal kaifa!*
 
 ---
 
----
 
-Sobre o nome do Fremen do autor:
+> Sobre o nome do Fremen do autor:
 
-    *   Este nome de cinco palavras é extremamente poderoso e carregado de significado Fremen.
-    *   **"Portador" (Ḥāmilu):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
-    *   **"Força" (Quwwah):** Evoca a força física necessária para sobreviver em Arrakis e lutar, mas também a força interior e a resiliência Fremen. Ligá-la ao Criador (Shai-Hulud) sugere uma força primordial, quase sobre-humana.
-    *   **"Sabedoria" (Ḥikmah):** Representa o conhecimento profundo do deserto, a compreensão das tradições, a capacidade de liderança e talvez até um vislumbre de presciência ou entendimento místico, também derivado da fonte última de Arrakis.
-    *   **"do Criador" (aṣ-Ṣāni‘i):** Liga diretamente essas qualidades à entidade mais poderosa e sagrada de Arrakis, Shai-Hulud. O indivíduo com este nome é visto como um canal ou recipiente do poder e da sabedoria do próprio Verme/Deus do Deserto.
-    *   **Geral:** É um nome que impõe respeito e talvez temor. Sugere um líder nato, um guerreiro formidável, um indivíduo com profunda conexão espiritual e ecológica com Arrakis, alguém destinado a grandes (e talvez terríveis) feitos. É um nome que carrega o peso do deserto e a promessa da profecia. Os sons guturais (**Ḥ**, **‘**) e enfáticos (**Ṣ**) adicionam uma qualidade sonora apropriadamente Fremen.
+> *   Este nome de cinco palavras é extremamente poderoso e carregado de significado Fremen.
+> *   "Portador" (Ḥāmilu):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
+> *   "Força" (Quwwah):** Evoca a força física necessária para sobreviver em Arrakis e lutar, mas também a força interior e a resiliência Fremen. Ligá-la ao Criador (Shai-Hulud) sugere uma força primordial, quase sobre-humana.
+> *   "Sabedoria" (Ḥikmah):** Representa o conhecimento profundo do deserto, a compreensão das tradições, a capacidade de liderança e talvez até um vislumbre de presciência ou entendimento místico, também derivado da fonte última de Arrakis.
+> *   "do Criador" (aṣ-Ṣāni‘i):** Liga diretamente essas qualidades à entidade mais poderosa e sagrada de Arrakis, Shai-Hulud. O indivíduo com este nome é visto como um canal ou recipiente do poder e da sabedoria do próprio Verme/Deus do Deserto.
+> *   Geral:** É um nome que impõe respeito e talvez temor. Sugere um líder nato, um guerreiro formidável, um indivíduo com profunda conexão espiritual e ecológica com Arrakis, alguém destinado a grandes (e talvez terríveis) feitos. É um nome que carrega o peso do deserto e a promessa da profecia. Os sons guturais (**Ḥ**, **‘**) e enfáticos (**Ṣ**) adicionam uma qualidade sonora apropriadamente Fremen.
 
