@@ -1,8 +1,13 @@
-**Capítulo 2: Os Sons das Dunas – Fonética e Fonologia Chakobsa Detalhadas**
+---
+# Capítulo 2
 
-**(Página de Abertura: Talvez uma imagem estilizada de ondas sonoras sobre dunas de areia, com representações visuais de articulação para sons guturais, ou um close-up de uma boca Fremen falando, enfatizando a garganta e a boca.)**
+# Os Sons das Dunas – Fonética e Fonologia Chakobsa Detalhadas**
+---
 
-*   *“No Sietch, cada som tem um propósito, cada silêncio um significado. O desperdício de fôlego é tão mortal quanto o desperdício de água. Ouça atentamente, pois a voz do deserto não se repete para os descuidados.”* – Sabedoria Fremen [R - Reconstruído para ambientação]
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“No Sietch, cada som tem um propósito, cada silêncio um significado. O desperdício de fôlego é tão mortal quanto o desperdício de água. Ouça atentamente, pois a voz do deserto não se repete para os descuidados.”* – Sabedoria Fremen [R - Reconstruído para ambientação]
 
 **2.1 A Voz do Deserto: Mergulhando na Paisagem Sonora de Arrakis**
 
