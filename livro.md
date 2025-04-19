@@ -9,7 +9,7 @@
 
 ## Luciano Silva
 
-Nome Chaksoba(Fremen): حَامِلُ قُوَّةِ وَ حِكْمَةِ الصَّانِعِ
+Nome Chakobsa(Fremen): حَامِلُ قُوَّةِ وَ حِكْمَةِ الصَّانِعِ
 
 Ḥāmil Quwwati wa Ḥikmati ṣ-Ṣāni‘i
 
