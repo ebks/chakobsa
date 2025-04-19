@@ -8,7 +8,12 @@
 ---
 
 ## Luciano Silva
-* حَامِلُ قُوَّةِ وَ حِكْمَةِ الصَّانِعِ *
+
+Nome Chaksoba(Fremen): حَامِلُ قُوَّةِ وَ حِكْمَةِ الصَّانِعِ
+
+Ḥāmil Quwwati wa Ḥikmati ṣ-Ṣāni‘i
+
+"O Portador da Força e da Sabedoria do Criador"
 
 
 
