@@ -61,36 +61,36 @@ Este guia foi pensado para:
 **Parte I: Fundamentos de Arrakis**
 Esta parte estabelece as bases. Começamos contextualizando o Chakobsa dentro da cultura Fremen e discutindo suas origens especulativas. Em seguida, mergulhamos nos sons da língua, introduzindo a fonética e um sistema de transliteração padronizado (STP) para representar esses sons. Crucialmente, apresentamos aqui o *Khatt al-Ibad*, o sistema de escrita proposto que será usado em todo o livro, ensinando seus caracteres e regras.
 
-*   **Capítulo 1: O Chamado das Areias – Introdução ao Chakobsa e aos Fremen:** Contexto cultural e linguístico; metodologia do livro; gerenciando expectativas sobre a reconstrução.
-*   **Capítulo 2: Os Sons das Dunas – Fonética e Fonologia Chakobsa:** Guia de pronúncia detalhado (vogais, consoantes, incluindo sons especiais); introdução do Sistema de Transliteração Padronizado (STP).
-*   **Capítulo 3: Marcas na Areia – O Sistema de Escrita Chakobsa (Khatt al-Ibad):** Apresentação do alfabeto/abjad proposto; regras de escrita (direção, conexão); diacríticos vocálicos; numerais e pontuação; prática inicial de leitura e escrita.
+*   [**Capítulo 1: O Chamado das Areias – Introdução ao Chakobsa e aos Fremen:**](capitulo-01.md) Contexto cultural e linguístico; metodologia do livro; gerenciando expectativas sobre a reconstrução.
+*   [**Capítulo 2: Os Sons das Dunas – Fonética e Fonologia Chakobsa:**](capitulo-02.md) Guia de pronúncia detalhado (vogais, consoantes, incluindo sons especiais); introdução do Sistema de Transliteração Padronizado (STP).
+*   [**Capítulo 3: Marcas na Areia – O Sistema de Escrita Chakobsa (Khatt al-Ibad):**](capitulo-03.md) Apresentação do alfabeto/abjad proposto; regras de escrita (direção, conexão); diacríticos vocálicos; numerais e pontuação; prática inicial de leitura e escrita.
 
 **Parte II: Construindo a Língua - Gramática e Vocabulário Essencial**
 Aqui, montamos os blocos de construção gramaticais do Chakobsa reconstruído. Exploramos como substantivos funcionam (gênero, número, definição), como descrevê-los com adjetivos (concordância), como expressar ação e estado com verbos (raízes, conjugação, tempo/aspecto), e como unir tudo em frases básicas. O vocabulário essencial para a comunicação diária é introduzido progressivamente. A partir daqui, todo o Chakobsa é apresentado em *Khatt al-Ibad* e STP.
 
-*   **Capítulo 4: Os Nomes do Deserto – Substantivos e Artigos em Chakobsa:** Gênero gramatical; formação de plurais (regulares e irregulares); o artigo definido (*al-*) e assimilação; o Estado Construto (*Iḍāfah*) para expressar posse.
-*   **Capítulo 5: Descrevendo o Mundo Desértico – Adjetivos e Advérbios:** Concordância do adjetivo (gênero, número, definição); posição do adjetivo; comparativos e superlativos; formação e uso de advérbios.
-*   **Capítulo 6: Ação e Estado em Chakobsa – Verbos:** O sistema de raízes triconsonantais; conjugação verbal (pessoa, número, gênero); aspectos Perfectivo (passado) e Imperfectivo (presente/futuro); modos Indicativo, Imperativo e Jussivo; negação verbal. Inclui tabelas de conjugação para verbos-chave.
-*   **Capítulo 7: Tecendo a Conversa – Estrutura da Frase, Ordem e Conexões:** Frases verbais (VSO/SVO) e nominais; formulação de perguntas (Sim/Não, Wh-); negação de frases; conjunções coordenativas (e, ou, mas, etc.); preposições comuns (em, para, com, de, etc.).
+*   [**Capítulo 4: Os Nomes do Deserto – Substantivos e Artigos em Chakobsa:**](capitulo-04.md) Gênero gramatical; formação de plurais (regulares e irregulares); o artigo definido (*al-*) e assimilação; o Estado Construto (*Iḍāfah*) para expressar posse.
+*   [**Capítulo 5: Descrevendo o Mundo Desértico – Adjetivos e Advérbios:**](capitulo-05.md) Concordância do adjetivo (gênero, número, definição); posição do adjetivo; comparativos e superlativos; formação e uso de advérbios.
+*   [**Capítulo 6: Ação e Estado em Chakobsa – Verbos:**](capitulo-06.md) O sistema de raízes triconsonantais; conjugação verbal (pessoa, número, gênero); aspectos Perfectivo (passado) e Imperfectivo (presente/futuro); modos Indicativo, Imperativo e Jussivo; negação verbal. Inclui tabelas de conjugação para verbos-chave.
+*   [**Capítulo 7: Tecendo a Conversa – Estrutura da Frase, Ordem e Conexões:**](capitulo-07.md) Frases verbais (VSO/SVO) e nominais; formulação de perguntas (Sim/Não, Wh-); negação de frases; conjunções coordenativas (e, ou, mas, etc.); preposições comuns (em, para, com, de, etc.).
 
 **Parte III: Chakobsa em Uso - Contexto e Prática**
 Esta seção dá vida à língua, aplicando-a a contextos culturais Fremen específicos. Cada capítulo foca em um domínio temático, introduzindo vocabulário relevante e apresentando diálogos simulados ou textos curtos para prática, sempre acompanhados de notas culturais.
 
-*   **Capítulo 8: Vocabulário Essencial para a Vida em Arrakis – Parte I:** Saudações e expressões comuns; números; termos vitais sobre água e deserto; vocabulário familiar e social.
-*   **Capítulo 9: A Linguagem da Sobrevivência – Vida no Sietch:** Vocabulário de ferramentas (Crysknife, Destiltraje), vestimenta, comida, abrigo; diálogos sobre disciplina da água e rotinas do sietch.
-*   **Capítulo 10: A Linguagem da Incursão – Combate e Guerra em Chakobsa:** Vocabulário de armas, táticas, inimigos (Harkonnen, Sardaukar); comandos de batalha e gritos de guerra.
-*   **Capítulo 11: A Linguagem da Fé e do Ritual – Profecia e o Sagrado em Chakobsa:** Termos religiosos (Deus, profecia, Jihad, Lisan al-Gaib), rituais (Água da Vida, funeral), figuras e lugares sagrados.
-*   **Capítulo 12: Vozes Integradas – Prática Abrangente e Tradução:** Textos mais longos para leitura e compreensão; exercícios de tradução (Chakobsa ↔ Português); sugestões para uso criativo (RPG, escrita).
+*   [**Capítulo 8: Vocabulário Essencial para a Vida em Arrakis – Parte I:**](capitulo-08.md) Saudações e expressões comuns; números; termos vitais sobre água e deserto; vocabulário familiar e social.
+*   [**Capítulo 9: A Linguagem da Sobrevivência – Vida no Sietch:**](capitulo-09.md) Vocabulário de ferramentas (Crysknife, Destiltraje), vestimenta, comida, abrigo; diálogos sobre disciplina da água e rotinas do sietch.
+*   [**Capítulo 10: A Linguagem da Incursão – Combate e Guerra em Chakobsa:**](capitulo-10.md) Vocabulário de armas, táticas, inimigos (Harkonnen, Sardaukar); comandos de batalha e gritos de guerra.
+*   [**Capítulo 11: A Linguagem da Fé e do Ritual – Profecia e o Sagrado em Chakobsa:**](capitulo-11.md) Termos religiosos (Deus, profecia, Jihad, Lisan al-Gaib), rituais (Água da Vida, funeral), figuras e lugares sagrados.
+*   [**Capítulo 12: Vozes Integradas – Prática Abrangente e Tradução:**](capitulo-12.md) Textos mais longos para leitura e compreensão; exercícios de tradução (Chakobsa ↔ Português); sugestões para uso criativo (RPG, escrita).
 
 **Parte IV: Apêndices e Recursos**
 Ferramentas de referência para consulta rápida e aprofundamento.
 
-*   **Apêndice A: Glossário Chakobsa – Português:** Lista alfabética de todas as palavras Chakobsa (Khatt al-Ibad + STP) introduzidas no livro, com tradução.
-*   **Apêndice B: Glossário Português – Chakobsa:** Lista reversa para facilitar a busca de termos Chakobsa a partir do Português.
-*   **Apêndice C: Resumo Gramatical Chakobsa:** Visão geral concisa das regras gramaticais, incluindo tabelas de conjugação verbal.
-*   **Apêndice D: Fragmentos Canônicos – Palavras e Frases de Frank Herbert:** Lista do material original de Herbert que serve de base para a reconstrução.
-*   **Apêndice E: Guia Rápido de Pronúncia Chakobsa (com Khatt al-Ibad e IPA):** Referência rápida dos sons, símbolos STP, caracteres Khatt al-Ibad e transcrições IPA.
-*   **Apêndice F: Aprofundando nas Areias – Recursos Adicionais:** Sugestões de leitura, comunidades online, recursos para aprender as línguas de influência (Árabe, etc.) e sobre línguas construídas.
+*   [**Apêndice A: Glossário Chakobsa – Português:**](apendice-A.md) Lista alfabética de todas as palavras Chakobsa (Khatt al-Ibad + STP) introduzidas no livro, com tradução.
+*   [**Apêndice B: Glossário Português – Chakobsa:**](apendice-B.md) Lista reversa para facilitar a busca de termos Chakobsa a partir do Português.
+*   [**Apêndice C: Resumo Gramatical Chakobsa:**](apendice-C.md) Visão geral concisa das regras gramaticais, incluindo tabelas de conjugação verbal.
+*   [**Apêndice D: Fragmentos Canônicos – Palavras e Frases de Frank Herbert:**](apendice-D.md) Lista do material original de Herbert que serve de base para a reconstrução.
+*   [**Apêndice E: Guia Rápido de Pronúncia Chakobsa (com Khatt al-Ibad e IPA):**](apendice-E.md) Referência rápida dos sons, símbolos STP, caracteres Khatt al-Ibad e transcrições IPA.
+*   [**Apêndice F: Aprofundando nas Areias – Recursos Adicionais:**](apendice-F.md) Sugestões de leitura, comunidades online, recursos para aprender as línguas de influência (Árabe, etc.) e sobre línguas construídas.
 
 **Um Convite à Exploração**
 
@@ -101,3 +101,15 @@ Esta jornada exigirá atenção aos detalhes, prática constante e uma aceitaç�
 Que as *Vozes das Areias* o guiem. *Bi-lal kaifa!*
 
 ---
+
+---
+
+Sobre o nome do Fremen do autor:
+
+    *   Este nome de cinco palavras é extremamente poderoso e carregado de significado Fremen.
+    *   **"Portador" (Ḥāmilu):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
+    *   **"Força" (Quwwah):** Evoca a força física necessária para sobreviver em Arrakis e lutar, mas também a força interior e a resiliência Fremen. Ligá-la ao Criador (Shai-Hulud) sugere uma força primordial, quase sobre-humana.
+    *   **"Sabedoria" (Ḥikmah):** Representa o conhecimento profundo do deserto, a compreensão das tradições, a capacidade de liderança e talvez até um vislumbre de presciência ou entendimento místico, também derivado da fonte última de Arrakis.
+    *   **"do Criador" (aṣ-Ṣāni‘i):** Liga diretamente essas qualidades à entidade mais poderosa e sagrada de Arrakis, Shai-Hulud. O indivíduo com este nome é visto como um canal ou recipiente do poder e da sabedoria do próprio Verme/Deus do Deserto.
+    *   **Geral:** É um nome que impõe respeito e talvez temor. Sugere um líder nato, um guerreiro formidável, um indivíduo com profunda conexão espiritual e ecológica com Arrakis, alguém destinado a grandes (e talvez terríveis) feitos. É um nome que carrega o peso do deserto e a promessa da profecia. Os sons guturais (**Ḥ**, **‘**) e enfáticos (**Ṣ**) adicionam uma qualidade sonora apropriadamente Fremen.
+
