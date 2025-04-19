@@ -1,8 +1,14 @@
-**Capítulo 4: Os Nomes do Deserto – Substantivos, Gênero, Número e Definição em Chakobsa**
+---
 
-**(Página de Abertura: Imagem estilizada de objetos importantes para os Fremen – um Crysknife (obscurecido ou estilizado), um Destiltraje, um cantil de água, um Verme da Areia em miniatura, talvez um mapa do deserto entalhado – com seus nomes em Khatt al-Ibad pairando perto deles, escritos com clareza angular.)**
+#Capítulo 4
 
-*   *“Nomear uma coisa é começar a entendê-la. Conhecer seus múltiplos nomes, seus estados, suas relações com outras coisas – isso é ter poder sobre ela, ou pelo menos, a ilusão de controle que permite a sobrevivência. No deserto, onde tudo é extremo, a precisão no nomear não é um luxo de erudito, é a diferença entre o oásis e a miragem, entre o sietch e a tumba aberta na areia.”* – Das meditações de Liet-Kynes sobre a Ecologia da Linguagem [C adaptado/R]
+#Os Nomes do Deserto – Substantivos, Gênero, Número e Definição em Chakobsa
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“Nomear uma coisa é começar a entendê-la. Conhecer seus múltiplos nomes, seus estados, suas relações com outras coisas – isso é ter poder sobre ela, ou pelo menos, a ilusão de controle que permite a sobrevivência. No deserto, onde tudo é extremo, a precisão no nomear não é um luxo de erudito, é a diferença entre o oásis e a miragem, entre o sietch e a tumba aberta na areia.”* – Das meditações de Liet-Kynes sobre a Ecologia da Linguagem [C adaptado/R]
 
 **4.1 Identificando os Blocos de Construção Fundamentais: O Mundo dos Substantivos (أَسْمَاء - *asmā’*)**
 
@@ -494,7 +500,3 @@ Traduza as seguintes frases.
 4.  Nome de um amigo. → **اِسْمُ صَدِيقٍ۔** (*Ismu ṣadīqin.*) [R]
 5.  A água da vida é sagrada (*muqaddas*). → **مَاءُ الحَيَاةِ مُقَدَّسٌ۔** (*Mā’u l-ḥayāti muqaddasun.*) [C/D/R] (Tratando *Mā’* como masc., concordância masc. sg.)
 
----
-Dominar os substantivos, seu gênero, número e o uso de artigos e do estado construto é um passo fundamental. No próximo capítulo, aprenderemos como descrever esses substantivos usando adjetivos.
-
-**(Fim do Capítulo 4 - Edição Altamente Expandida)**
