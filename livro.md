@@ -11,6 +11,9 @@
 
 ---
 
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+
 **Introdução: O Chamado do Deserto Profundo**
 
 Bem-vindo, viajante, às vastidões implacáveis de Arrakis. O ar vibra com o calor, a areia se estende até o infinito, e sob a superfície, pulsa a vida de um dos povos mais fascinantes e resilientes da galáxia: os Fremen. Eles são os guardiões dos segredos do deserto, mestres da sobrevivência, e portadores de uma herança cultural rica e ferozmente protegida. No coração dessa herança reside uma língua antiga e poderosa, sussurrada nos sietches e entoada nos rituais sob as duas luas – a língua **Chakobsa**.
