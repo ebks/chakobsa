@@ -3,7 +3,7 @@
 
 # O Chamado das Areias – Introdução ao Chakobsa e aos Fremen**
 ---
-<img src="duna.jpg" alt="drawing" width="200"/>
+<img src="duna.jpg" alt="drawing" width="2000"/>
 
 > *“A linguagem não é apenas som na boca. É o fio que tece a tapeçaria de um povo, a chave que destranca sua alma, o mapa secreto de sua jornada através do tempo e da areia. Ignorar a língua de Arrakis é permanecer cego à sua verdadeira natureza, tateando nas sombras enquanto o deserto observa e julga.”* – Das reflexões perdidas de Pardot Kynes, primeiro Planetólogo Imperial de Arrakis [R]
 
