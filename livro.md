@@ -105,7 +105,7 @@ Que as *Vozes das Areias* o guiem. *Bi-lal kaifa!*
 
 > Sobre o nome Fremen do autor (Ḥāmil Quwwati wa Ḥikmati ṣ-Ṣāni‘i):
 > *   Este nome de cinco palavras é extremamente poderoso e carregado de significado Fremen.
-> *   "Portador" (Ḥāmilu):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
+> *   "Portador" (Ḥāmil):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
 > *   "Força" (Quwwah):** Evoca a força física necessária para sobreviver em Arrakis e lutar, mas também a força interior e a resiliência Fremen. Ligá-la ao Criador (Shai-Hulud) sugere uma força primordial, quase sobre-humana.
 > *   "Sabedoria" (Ḥikmah):** Representa o conhecimento profundo do deserto, a compreensão das tradições, a capacidade de liderança e talvez até um vislumbre de presciência ou entendimento místico, também derivado da fonte última de Arrakis.
 > *   "do Criador" (aṣ-Ṣāni‘i):** Liga diretamente essas qualidades à entidade mais poderosa e sagrada de Arrakis, Shai-Hulud. O indivíduo com este nome é visto como um canal ou recipiente do poder e da sabedoria do próprio Verme/Deus do Deserto.
