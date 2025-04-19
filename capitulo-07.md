@@ -1,8 +1,15 @@
-**Capítulo 7: Tecendo a Conversa – A Arquitetura da Frase Chakobsa: Ordem, Negação, Interrogação e Conexões**
+---
 
-**(Página de Abertura: Uma imagem mostrando uma tapeçaria Fremen complexa e intrincada sendo tecida em um tear rústico dentro de um sietch. Os fios coloridos representam as diferentes classes de palavras – substantivos, verbos, adjetivos, partículas – que se unem para formar os padrões significativos das frases.)**
+# Capítulo 7
 
-*   *“Uma palavra sozinha é uma gota de água no deserto – preciosa, mas isolada. Uma frase bem construída (**جُمْلَة مُحْكَمَة** - *jumlah muḥkamah* [R]), onde cada palavra encontra seu lugar e propósito, é como um qanat subterrâneo, canalizando o fluxo do pensamento, levando vida e compreensão através da paisagem árida da ignorância. Aprenda não apenas as palavras, mas como ligá-las com a disciplina da água, e você poderá mover não apenas dunas, mas mentes e corações.”* – Ensinamento de um Mestre Linguista do Sietch Tabr [R]
+# Tecendo a Conversa – A Arquitetura da Frase Chakobsa: Ordem, Negação, Interrogação e Conexões
+
+---
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+
+
+> *“Uma palavra sozinha é uma gota de água no deserto – preciosa, mas isolada. Uma frase bem construída (**جُمْلَة مُحْكَمَة** - *jumlah muḥkamah* [R]), onde cada palavra encontra seu lugar e propósito, é como um qanat subterrâneo, canalizando o fluxo do pensamento, levando vida e compreensão através da paisagem árida da ignorância. Aprenda não apenas as palavras, mas como ligá-las com a disciplina da água, e você poderá mover não apenas dunas, mas mentes e corações.”* – Ensinamento de um Mestre Linguista do Sietch Tabr [R]
 
 **7.1 Da Palavra à Frase: Montando o Mosaico da Comunicação Chakobsa**
 
@@ -395,7 +402,3 @@ Complete as frases com a conjunção ou preposição mais lógica do vocabulári
 4.  A areia e o vento são os companheiros constantes do nômade. → **الرَّمْلُ وَ الرِّيحُ هُمَا الرَّفِيقَانِ الدَّائِمَانِ لِلْبَدَوِيِّ۔** (*ar-Ramlu wa r-rīḥu humā r-rafīqāni d-dā’imāni lil-badawīy.*) [R] (Usando dual para "dois companheiros").
 5.  Não toque (masc. sg.) na Água da Vida! É apenas para as Sayyadinas. → **لا تَلْمَسْ مَاءَ الحَيَاةِ! هِيَ فَقَطْ لِلسَّيِّدِينَاتِ۔** (*Lā talmas Mā’a l-Ḥayāt! Hiya faqaṭ lis-sayyidīnāt.*) [R/D] (Usando um plural proposto para Sayyadina).
 
----
-Agora que podemos construir frases básicas, conectá-las, negá-las e fazer perguntas, estamos prontos para expandir significativamente nosso vocabulário funcional. Os próximos capítulos se concentrarão em fornecer as palavras e expressões essenciais para navegar nos diversos domínios da vida Fremen em Arrakis.
-
-**(Fim do Capítulo 7 - Edição Altamente Expandida)**
