@@ -103,8 +103,7 @@ Que as *Vozes das Areias* o guiem. *Bi-lal kaifa!*
 ---
 
 
-> Sobre o nome do Fremen do autor:
-
+> Sobre o nome Fremen do autor (Ḥāmil Quwwati wa Ḥikmati ṣ-Ṣāni‘i):
 > *   Este nome de cinco palavras é extremamente poderoso e carregado de significado Fremen.
 > *   "Portador" (Ḥāmilu):** Sugere não apenas possuir, mas ter a responsabilidade e talvez o fardo dessas qualidades.
 > *   "Força" (Quwwah):** Evoca a força física necessária para sobreviver em Arrakis e lutar, mas também a força interior e a resiliência Fremen. Ligá-la ao Criador (Shai-Hulud) sugere uma força primordial, quase sobre-humana.
