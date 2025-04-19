@@ -296,7 +296,7 @@ A capacidade de negar uma afirmação ou proibir uma ação é tão fundamental 
 
 Compreender qual partícula de negação usar em qual contexto (tempo, modo, tipo de frase) é essencial para a precisão gramatical e semântica em Chakobsa.
 
-**(6.7 Formas Verbais Derivadas (الأَوْزَانُ المَزِيدَةُ - *al-awzānu l-mazīdah*) - Detalhada)**
+**6.7 Formas Verbais Derivadas (الأَوْزَانُ المَزِيدَةُ - *al-awzānu l-mazīdah*)**
 
 Um dos aspectos mais ricos e poderosos do sistema verbal semítico é a existência de **formas verbais derivadas** (tradicionalmente numeradas de II a X, sendo a Forma I a básica). Essas formas são criadas a partir da **mesma raiz triconsonantal** da Forma I, mas com modificações sistemáticas na estrutura (geminação da 2ª consoante, alongamento de vogal, adição de prefixos), que resultam em **mudanças previsíveis no significado**. Aprender essas formas expande exponencialmente o vocabulário, pois uma única raiz pode gerar múltiplos verbos com nuances relacionadas. Vamos explorar as formas mais comuns e seus significados típicos:
 
@@ -393,7 +393,7 @@ Um dos aspectos mais ricos e poderosos do sistema verbal semítico é a existên
 
 Dominar (ou pelo menos reconhecer) estas formas derivadas é um salto qualitativo no aprendizado do Chakobsa, permitindo acessar uma vasta gama de significados a partir de um conjunto limitado de raízes. A conjugação dessas formas segue os mesmos padrões de pessoa/número/gênero que a Forma I, aplicando os afixos à base modificada da forma derivada.
 
-**(6.8 Voz Passiva (المَبْنِيُّ لِلْمَجْهُولِ - *al-mabnīy lil-majhūl*) - Detalhada)**
+**6.8 Voz Passiva (المَبْنِيُّ لِلْمَجْهُولِ - *al-mabnīy lil-majhūl*)**
 
 A voz passiva é uma construção gramatical crucial usada quando o foco da frase está no **receptor** ou **paciente** da ação, e não no **agente** (quem realizou a ação). Em Chakobsa/Árabe, o agente é tipicamente **omitido** na construção passiva; se for necessário mencioná-lo, geralmente se usa uma frase preposicional separada (e.g., **مِنْ قِبَلِ** *min qibali* - "por parte de").
 
@@ -422,7 +422,7 @@ A voz passiva é uma construção gramatical crucial usada quando o foco da fras
 
 A voz passiva é uma ferramenta importante para mudar o foco da frase e descrever eventos onde o agente é desconhecido, irrelevante ou deliberadamente omitido.
 
-**(6.9 Particípios: Ativo e Passivo (اِسْمُ الفَاعِلِ وَ اِسْمُ المَفْعُولِ) - Detalhada)**
+**6.9 Particípios: Ativo e Passivo (اِسْمُ الفَاعِلِ وَ اِسْمُ المَفْعُولِ)**
 
 Particípios são formas verbais não-finitas que funcionam de maneira híbrida, retendo parte do sentido verbal (ação ou estado) mas funcionando gramaticalmente como **adjetivos** ou **substantivos**. Eles são extremamente comuns e úteis para descrições e para formar vocabulário.
 
@@ -472,7 +472,7 @@ Particípios são formas verbais não-finitas que funcionam de maneira híbrida,
 
 Particípios são ferramentas derivacionais extremamente produtivas, enriquecendo o vocabulário descritivo do Chakobsa.
 
-**6.10 Nome Verbal (المَصْدَر - *al-maṣdar*) - Detalhada)**
+**6.10 Nome Verbal (المَصْدَر - *al-maṣdar*)**
 
 O *maṣdar* (plural **مَصَادِر** - *maṣādir*) é o **nome verbal** ou **substantivo verbal**. Ele representa a **ação, estado ou conceito abstrato** denotado pelo verbo, funcionando gramaticalmente como um **substantivo**. É um conceito central na gramática árabe e, por extensão, na nossa reconstrução Chakobsa. Corresponde aos nossos infinitivos usados como substantivos ("o saber", "o viver"), gerúndios substantivados ("a escrita", "a leitura") ou, mais frequentemente, a substantivos abstratos derivados de verbos ("compreensão", "vitória", "conhecimento", "entrada").
 
