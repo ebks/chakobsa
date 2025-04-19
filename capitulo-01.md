@@ -1,6 +1,8 @@
-**Capítulo 1: O Chamado das Areias – Introdução ao Chakobsa e aos Fremen**
+---
+# Capítulo 1
 
-**(Página de Abertura: Uma citação evocativa sobre linguagem ou segredo do universo de Duna, ou uma imagem estilizada do deserto de Arrakis ao pôr do sol, as dunas marcadas por sombras profundas, talvez com os primeiros caracteres do Khatt al-Ibad pairando como miragens.)**
+# O Chamado das Areias – Introdução ao Chakobsa e aos Fremen**
+---
 
 > *“A linguagem não é apenas som na boca. É o fio que tece a tapeçaria de um povo, a chave que destranca sua alma, o mapa secreto de sua jornada através do tempo e da areia. Ignorar a língua de Arrakis é permanecer cego à sua verdadeira natureza, tateando nas sombras enquanto o deserto observa e julga.”* – Das reflexões perdidas de Pardot Kynes, primeiro Planetólogo Imperial de Arrakis [R]
 
