@@ -1,8 +1,8 @@
 ---
 
-#Capítulo 4
+# Capítulo 4
 
-#Os Nomes do Deserto – Substantivos, Gênero, Número e Definição em Chakobsa
+# Os Nomes do Deserto – Substantivos, Gênero, Número e Definição em Chakobsa
 
 ---
 
