@@ -1,8 +1,14 @@
-**Capítulo 5: Descrevendo o Mundo Desértico – Adjetivos, Advérbios e a Arte da Descrição Chakobsa**
+---
 
-**(Página de Abertura: Uma imagem panorâmica de Arrakis, talvez mostrando um sietch distante sob as duas luas, com palavras como "vasto", "antigo", "silencioso", "azul" pairando em Khatt al-Ibad sobre a paisagem, ligadas a elementos específicos.)**
+# Capítulo 5
 
-*   *“Descreva a areia para mim, Usul. É apenas **رَمْل** (*raml*)? Ou é **نَاعِم** (*nā‘im* [R] - fina), ou **خَشِن** (*khashin* [R] - grossa), ou **حَادّ** (*ḥādd* [R] - cortante), ou **مُتَحَرِّك** (*mutaḥarrik* [R] - movediça), ou **وَاقٍ** (*wāqin* [R] - protetora)? A precisão na descrição, a escolha da **صِفَة** (*ṣifah* [R] - qualidade/adjetivo) correta, não é mera poesia; é a diferença entre caminhar sobre a duna e ser engolido por ela.”* – Stilgar, Naib do Sietch Tabr (Diálogo Reconstruído) [R]
+# Descrevendo o Mundo Desértico – Adjetivos, Advérbios e a Arte da Descrição Chakobsa
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“Descreva a areia para mim, Usul. É apenas **رَمْل** (*raml*)? Ou é **نَاعِم** (*nā‘im* [R] - fina), ou **خَشِن** (*khashin* [R] - grossa), ou **حَادّ** (*ḥādd* [R] - cortante), ou **مُتَحَرِّك** (*mutaḥarrik* [R] - movediça), ou **وَاقٍ** (*wāqin* [R] - protetora)? A precisão na descrição, a escolha da **صِفَة** (*ṣifah* [R] - qualidade/adjetivo) correta, não é mera poesia; é a diferença entre caminhar sobre a duna e ser engolido por ela.”* – Stilgar, Naib do Sietch Tabr (Diálogo Reconstruído) [R]
 
 **5.1 Pintando com Palavras: A Essência dos Adjetivos (صِفَات - *ṣifāt*)**
 
@@ -421,7 +427,3 @@ Traduza as seguintes frases.
 4.  O melhor guerreiro sempre treina diligentemente (*bi-jtihād*). → **أَفْضَلُ مُحَارِبٍ يَتَدَرَّبُ دَائِمًا بِاجْتِهَادٍ۔** (*Afḍalu muḥāribin yatadarrabu dā’iman bi-jtihād.*) [R]
 5.  Esta água não é potável (*ṣāliḥ lish-shurb*). → **هٰذَا المَاءُ لَيْسَ صَالِحًا لِلشُّرْبِ۔** (*Hādhā l-mā’u laysa ṣāliḥan lish-shurb.*) [R] (Predicado de *laysa* no acusativo).
 
----
-Com a capacidade de descrever substantivos e ações com maior precisão através de adjetivos e advérbios, e de comparar qualidades, nossa habilidade de formar frases significativas e detalhadas em Chakobsa está se expandindo consideravelmente. No próximo capítulo, exploraremos o coração dinâmico da língua: os verbos, as palavras que denotam ação e estado.
-
-**(Fim do Capítulo 5 - Edição Altamente Expandida)**
