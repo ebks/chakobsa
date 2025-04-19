@@ -1,8 +1,13 @@
-**Capítulo 6: Ação e Estado em Chakobsa – A Dinâmica Profunda dos Verbos (الأَفْعَال - *al-af‘āl*)**
+---
 
-**(Página de Abertura: Uma imagem dinâmica mostrando Fremen em ação – talvez cavalgando um verme em alta velocidade, brandindo um Crysknife em treinamento ritualístico, ou trabalhando concentradamente em um destiltraje – com verbos-chave em Khatt al-Ibad como "cavalgar", "lutar", "trabalhar", "ser", "tornar-se" irradiando da cena, talvez com representações esquemáticas das formas verbais.)**
+# Capítulo 6
 
-*   *“Não me diga o que você pensa, forasteiro. Não me descreva suas intenções no vazio da palavra isolada. Mostre-me o que você **faz** (**تَفْعَلُ** - *taf‘alu*), o que você **fez** (**فَعَلْتَ** - *fa‘alta*), o que você **pode fazer** (**تَقْدِرُ أَنْ تَفْعَلَ** - *taqdiru an taf‘ala*). A ação – **الفِعْل** (*al-fi‘l*) – é a única verdade que a areia respeita, a única assinatura que o tempo não apaga completamente, a única medida real de um homem ou mulher sob o olhar das duas luas. Em Chakobsa, o verbo não é apenas uma palavra; é o motor da existência, a engrenagem do destino, a própria respiração da narrativa da vida.”* – Provérbio Fremen, adaptado dos ensinamentos de Stilgar [R]
+# Ação e Estado em Chakobsa – A Dinâmica Profunda dos Verbos (الأَفْعَال - *al-af‘āl*)
+
+---
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“Não me diga o que você pensa, forasteiro. Não me descreva suas intenções no vazio da palavra isolada. Mostre-me o que você **faz** (**تَفْعَلُ** - *taf‘alu*), o que você **fez** (**فَعَلْتَ** - *fa‘alta*), o que você **pode fazer** (**تَقْدِرُ أَنْ تَفْعَلَ** - *taqdiru an taf‘ala*). A ação – **الفِعْل** (*al-fi‘l*) – é a única verdade que a areia respeita, a única assinatura que o tempo não apaga completamente, a única medida real de um homem ou mulher sob o olhar das duas luas. Em Chakobsa, o verbo não é apenas uma palavra; é o motor da existência, a engrenagem do destino, a própria respiração da narrativa da vida.”* – Provérbio Fremen, adaptado dos ensinamentos de Stilgar [R]
 
 **6.1 O Motor Pulsante da Frase: Introdução à Arquitetura Complexa dos Verbos Chakobsa**
 
@@ -736,7 +741,3 @@ Dê o Particípio Ativo (PA), o Particípio Passivo (PP) e o Masdar (M) para as 
 4.  Pedir perdão é melhor que a arrogância. → **الاِسْتِغْفَارُ أَفْضَلُ مِنَ الاِسْتِكْبَارِ۔** (*al-Istighfāru afḍalu min al-istikbār.*) [R]
 5.  Que a paz seja restaurada rapidamente! → **لِيُسْتَرْجَعِ السَّلامُ سَرِيعًا!‏** (*Li-yustarja‘i s-salāmu sarī‘an!*) [R] (Passivo F-X Jussivo com *li-*).
 
----
-Com este mergulho profundo na complexa e fascinante maquinaria do verbo Chakobsa, você adquiriu as ferramentas mais poderosas para expressar ação, estado e uma miríade de nuances. A jornada através da gramática fundamental está quase completa. No próximo capítulo, reuniremos todos esses elementos – substantivos, adjetivos, verbos, partículas – para explorar como eles se combinam para formar frases coesas e significativas, investigando a estrutura da frase, a ordem das palavras e os conectores lógicos.
-
-**(Fim do Capítulo 6 - Edição Extremamente Expandida)**
