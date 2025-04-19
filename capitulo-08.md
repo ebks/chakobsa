@@ -1,8 +1,14 @@
-**Capítulo 8: Vocabulário Essencial para a Vida em Arrakis – Parte I: Saudações, Números, Natureza e Sociedade**
+---
 
-**(Página de Abertura: Uma imagem de um mercado Fremen improvisado dentro de um sietch, mostrando trocas de mercadorias, ferramentas, talvez crianças observando atentamente, ou uma cena de família Fremen em um momento de calma compartilhando tâmaras e água, com termos-chave como "paz", "água", "família", "tribo" flutuando em Khatt al-Ibad, a escrita angular contrastando com a humanidade da cena.)**
+# Capítulo 8
 
-*   *“As palavras certas, ditas no momento certo, com a entonação correta – a cadência da verdade ou a quietude da ameaça – pesam mais que mil litros de água no balanço delicado da sobrevivência Fremen. Aprenda-as não como meros sons flutuando na vastidão silenciosa, mas como chaves que abrem as portas seladas da confiança ou fecham para sempre os caminhos para a destruição mútua. Pois em Arrakis, onde a realidade é despojada até o osso, a língua é a primeira ferramenta, a primeira arma, o primeiro sinal indelével de pertencimento ou de perigo iminente. Falar é agir.”* – Anotação encontrada no Manual do Fedaykin, atribuída a um Mestre de Armas desconhecido [R]
+# Vocabulário Essencial para a Vida em Arrakis: Saudações, Números, Natureza e Sociedade
+
+---
+
+<img src="duna.jpg" alt="drawing" width="1980"/>
+
+> *“As palavras certas, ditas no momento certo, com a entonação correta – a cadência da verdade ou a quietude da ameaça – pesam mais que mil litros de água no balanço delicado da sobrevivência Fremen. Aprenda-as não como meros sons flutuando na vastidão silenciosa, mas como chaves que abrem as portas seladas da confiança ou fecham para sempre os caminhos para a destruição mútua. Pois em Arrakis, onde a realidade é despojada até o osso, a língua é a primeira ferramenta, a primeira arma, o primeiro sinal indelével de pertencimento ou de perigo iminente. Falar é agir.”* – Anotação encontrada no Manual do Fedaykin, atribuída a um Mestre de Armas desconhecido [R]
 
 **8.1 As Palavras que Moldam o Mundo e Tecem a Comunidade: A Necessidade do Léxico**
 
@@ -730,7 +736,3 @@ As seguintes frases Chakobsa contêm erros de concordância, formação de núme
 4.  Erro: Gênero do número 5 e concordância verbal. Correto: **خَمْسُ نِسَاءٍ جِئْنَ۔** (*khamsu nisā’in ji’na.*) (Número sem ة; verbo no feminino plural). Ou em VSO: **جَاءَتْ خَمْسُ نِسَاءٍ۔** (*jā’at khamsu nisā’in.*)
 5.  Erro: Concordância de definição e caso. Correto: **اليَوْمُ الثَّالِثُ مُهِمٌّ۔** (*al-Yawmu th-thālithu muhimmun.*) (Todos definidos e nominativos, se for frase nominal). Ou **اليَوْمَ الثَّالِثَ...** (*al-Yawma th-thālitha...*) se for advérbio de tempo.
 
----
-Este conjunto expandido de vocabulário e prática fornece uma base mais sólida e culturalmente rica para expressar ideias relacionadas à vida social e ambiental em Chakobsa. No próximo capítulo, continuaremos a construir nosso léxico, focando nos domínios mais pragmáticos e perigosos da sobrevivência diária dentro do sietch e da guerra contra os inimigos dos Fremen.
-
-**(Fim do Capítulo 8 - Edição Extremamente Expandida)**
