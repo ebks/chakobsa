@@ -2,7 +2,7 @@
 
 # Capítulo 12
 
-# Vozes Integradas – Prática Abrangente, Tradução e Aplicação Criativa do Chakobsa**
+# Vozes Integradas – Prática Abrangente, Tradução e Aplicação Criativa do Chakobsa
 
 ---
 
