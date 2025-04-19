@@ -167,7 +167,7 @@ Estas perguntas buscam informações específicas sobre um elemento da frase (qu
 
 *   **Entonação:** Perguntas com palavras Wh- geralmente têm uma **entonação descendente** no final da frase, pois o foco principal está na palavra interrogativa inicial.
 
-**(7.5 Revisitando e Aprofundando a Negação (النَّفْي - *an-nafy*) - Agora no Nível da Frase)**
+**7.5 Revisitando e Aprofundando a Negação (النَّفْي - *an-nafy*) - Agora no Nível da Frase**
 
 Revisamos as partículas de negação no Capítulo 6. Agora, vamos consolidar seu uso na estrutura completa da frase.
 
