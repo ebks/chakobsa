@@ -2,8 +2,7 @@
 
 # Capítulo 6
 
-# Ação e Estado em Chakobsa – A Dinâmica Profunda dos Verbos (الأَفْعَال - *al-af‘āl*)
-
+# Ação e Estado em Chakobsa – A Dinâmica Profunda dos Verbos 
 ---
 <img src="duna.jpg" alt="drawing" width="1980"/>
 
